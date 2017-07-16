@@ -1,0 +1,47 @@
+{
+  "Title":      "JRuby Complete",
+  "SourceUrl":  "http://central.maven.org/maven2/org/jruby/jruby-complete/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jruby-complete/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "9.1.12.0",
+    "From":              "9.1.11.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.1.11.0",
+    "From":              "9.1.10.0",
+    "BC":                "99.8%",
+    "Added":             28,
+    "Removed":           10,
+    "TotalProblems":     5,
+    "Src_BC":            "99.8%",
+    "Src_TotalProblems": 5,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.1.10.0",
+    "From":              "9.1.9.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

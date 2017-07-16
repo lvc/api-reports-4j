@@ -1,0 +1,73 @@
+{
+  "Title":      "Phoenix Core",
+  "SourceUrl":  "http://central.maven.org/maven2/org/apache/phoenix/phoenix-core/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/phoenix-core/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "4.11.0",
+    "From":              "4.10.0",
+    "BC":                "97%",
+    "Added":             236,
+    "Removed":           35,
+    "TotalProblems":     1000,
+    "Src_BC":            "96.2%",
+    "Src_TotalProblems": 688,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.10.0",
+    "From":              "4.9.0",
+    "BC":                "94.5%",
+    "Added":             980,
+    "Removed":           65,
+    "TotalProblems":     894,
+    "Src_BC":            "93.1%",
+    "Src_TotalProblems": 714,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.9.0",
+    "From":              "4.8.1",
+    "BC":                "96.1%",
+    "Added":             210,
+    "Removed":           84,
+    "TotalProblems":     942,
+    "Src_BC":            "96.3%",
+    "Src_TotalProblems": 685,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.8.1",
+    "From":              "4.8.0",
+    "BC":                "97.9%",
+    "Added":             137,
+    "Removed":           104,
+    "TotalProblems":     35,
+    "Src_BC":            "95.8%",
+    "Src_TotalProblems": 27,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.8.0",
+    "From":              "4.7.0",
+    "BC":                "93.8%",
+    "Added":             1114,
+    "Removed":           215,
+    "TotalProblems":     888,
+    "Src_BC":            "91.8%",
+    "Src_TotalProblems": 716,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

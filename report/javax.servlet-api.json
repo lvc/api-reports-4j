@@ -1,0 +1,34 @@
+{
+  "Title":      "Java Servlet API",
+  "SourceUrl":  "http://central.maven.org/maven2/javax/servlet/javax.servlet-api/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/javax.servlet-api/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "4.0.0-b07",
+    "From":              "3.1.0",
+    "BC":                "100%",
+    "Added":             50,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "89%",
+    "Src_TotalProblems": 7,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.1.0",
+    "From":              "3.0.1",
+    "BC":                "100%",
+    "Added":             25,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "63.2%",
+    "Src_TotalProblems": 11,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

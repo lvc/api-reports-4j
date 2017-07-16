@@ -1,0 +1,60 @@
+{
+  "Title":      "JGroups",
+  "SourceUrl":  "http://central.maven.org/maven2/org/jgroups/jgroups/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jgroups/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "4.0.4",
+    "From":              "4.0.3",
+    "BC":                "99%",
+    "Added":             120,
+    "Removed":           18,
+    "TotalProblems":     6,
+    "Src_BC":            "99%",
+    "Src_TotalProblems": 7,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.0.3",
+    "From":              "4.0.2",
+    "BC":                "99.99%",
+    "Added":             1,
+    "Removed":           1,
+    "TotalProblems":     0,
+    "Src_BC":            "99.99%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.0.2",
+    "From":              "4.0.1",
+    "BC":                "97.4%",
+    "Added":             26,
+    "Removed":           8,
+    "TotalProblems":     3,
+    "Src_BC":            "95.1%",
+    "Src_TotalProblems": 3,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.0.1",
+    "From":              "4.0.0",
+    "BC":                "99.9%",
+    "Added":             21,
+    "Removed":           7,
+    "TotalProblems":     6,
+    "Src_BC":            "99.9%",
+    "Src_TotalProblems": 6,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

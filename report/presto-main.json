@@ -1,0 +1,99 @@
+{
+  "Title":      "Presto Main",
+  "SourceUrl":  "http://central.maven.org/maven2/com/facebook/presto/presto-main/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/presto-main/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.180",
+    "From":              "0.170",
+    "BC":                "93%",
+    "Added":             1061,
+    "Removed":           472,
+    "TotalProblems":     71,
+    "Src_BC":            "90.4%",
+    "Src_TotalProblems": 82,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.170",
+    "From":              "0.160",
+    "BC":                "88.6%",
+    "Added":             1164,
+    "Removed":           599,
+    "TotalProblems":     84,
+    "Src_BC":            "86.8%",
+    "Src_TotalProblems": 96,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.160",
+    "From":              "0.150",
+    "BC":                "75.3%",
+    "Added":             1592,
+    "Removed":           1257,
+    "TotalProblems":     270,
+    "Src_BC":            "74.8%",
+    "Src_TotalProblems": 288,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.150",
+    "From":              "0.140",
+    "BC":                "88.8%",
+    "Added":             1526,
+    "Removed":           639,
+    "TotalProblems":     150,
+    "Src_BC":            "85.4%",
+    "Src_TotalProblems": 165,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.140",
+    "From":              "0.130",
+    "BC":                "79.3%",
+    "Added":             956,
+    "Removed":           1333,
+    "TotalProblems":     161,
+    "Src_BC":            "78.8%",
+    "Src_TotalProblems": 174,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.130",
+    "From":              "0.120",
+    "BC":                "88.1%",
+    "Added":             1001,
+    "Removed":           576,
+    "TotalProblems":     201,
+    "Src_BC":            "87.1%",
+    "Src_TotalProblems": 135,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.120",
+    "From":              "0.110",
+    "BC":                "88%",
+    "Added":             1077,
+    "Removed":           662,
+    "TotalProblems":     123,
+    "Src_BC":            "87.3%",
+    "Src_TotalProblems": 121,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

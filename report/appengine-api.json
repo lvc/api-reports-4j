@@ -1,0 +1,99 @@
+{
+  "Title":      "Google App Engine API",
+  "SourceUrl":  "http://central.maven.org/maven2/com/google/appengine/appengine-api-1.0-sdk/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/appengine-api/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.9.54",
+    "From":              "1.8.9",
+    "BC":                "45.2%",
+    "Added":             29684,
+    "Removed":           2208,
+    "TotalProblems":     2721,
+    "Src_BC":            "41.2%",
+    "Src_TotalProblems": 1789,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.8.9",
+    "From":              "1.7.7.1",
+    "BC":                "86.1%",
+    "Added":             10571,
+    "Removed":           5632,
+    "TotalProblems":     533,
+    "Src_BC":            "84.5%",
+    "Src_TotalProblems": 602,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.7.7.1",
+    "From":              "1.6.6",
+    "BC":                "91.9%",
+    "Added":             14812,
+    "Removed":           2559,
+    "TotalProblems":     541,
+    "Src_BC":            "86.3%",
+    "Src_TotalProblems": 553,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.6.6",
+    "From":              "1.5.5",
+    "BC":                "98.7%",
+    "Added":             12346,
+    "Removed":           202,
+    "TotalProblems":     128,
+    "Src_BC":            "91.1%",
+    "Src_TotalProblems": 186,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.5.5",
+    "From":              "1.4.3",
+    "BC":                "82.6%",
+    "Added":             10690,
+    "Removed":           4757,
+    "TotalProblems":     415,
+    "Src_BC":            "79.8%",
+    "Src_TotalProblems": 385,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.4.3",
+    "From":              "1.3.8",
+    "BC":                "97.4%",
+    "Added":             10356,
+    "Removed":           217,
+    "TotalProblems":     71,
+    "Src_BC":            "88.7%",
+    "Src_TotalProblems": 183,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.3.8",
+    "From":              "1.2.8",
+    "BC":                "87.7%",
+    "Added":             6927,
+    "Removed":           1533,
+    "TotalProblems":     555,
+    "Src_BC":            "77.9%",
+    "Src_TotalProblems": 372,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

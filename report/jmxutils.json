@@ -1,0 +1,73 @@
+{
+  "Title":      "Jmxutils",
+  "SourceUrl":  "http://central.maven.org/maven2/org/weakref/jmxutils/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jmxutils/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.19",
+    "From":              "1.18",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.18",
+    "From":              "1.17",
+    "BC":                "2.90%",
+    "Added":             0,
+    "Removed":           3743,
+    "TotalProblems":     365,
+    "Src_BC":            "2.90%",
+    "Src_TotalProblems": 366,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.17",
+    "From":              "1.16",
+    "BC":                "86.9%",
+    "Added":             758,
+    "Removed":           112,
+    "TotalProblems":     90,
+    "Src_BC":            "86.6%",
+    "Src_TotalProblems": 80,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.16",
+    "From":              "1.15",
+    "BC":                "99.7%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "Src_BC":            "99.7%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.15",
+    "From":              "1.14",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

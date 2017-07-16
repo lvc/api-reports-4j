@@ -1,0 +1,60 @@
+{
+  "Title":      "Mime4j Core",
+  "SourceUrl":  "http://central.maven.org/maven2/org/apache/james/apache-mime4j-core/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/apache-mime4j-core/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.8.1",
+    "From":              "0.8.0",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.8.0",
+    "From":              "0.7.2",
+    "BC":                "88.7%",
+    "Added":             39,
+    "Removed":           18,
+    "TotalProblems":     8,
+    "Src_BC":            "88.6%",
+    "Src_TotalProblems": 7,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.7.2",
+    "From":              "0.7.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.7.1",
+    "From":              "0.7",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

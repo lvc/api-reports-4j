@@ -1,0 +1,34 @@
+{
+  "Title":      "Java Portlet API",
+  "SourceUrl":  "http://central.maven.org/maven2/javax/portlet/portlet-api/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/portlet-api/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.0.0",
+    "From":              "2.0",
+    "BC":                "89.8%",
+    "Added":             543,
+    "Removed":           3,
+    "TotalProblems":     81,
+    "Src_BC":            "59.1%",
+    "Src_TotalProblems": 52,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.0",
+    "From":              "1.0",
+    "BC":                "90.2%",
+    "Added":             300,
+    "Removed":           7,
+    "TotalProblems":     9,
+    "Src_BC":            "46.6%",
+    "Src_TotalProblems": 34,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

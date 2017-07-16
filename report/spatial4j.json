@@ -1,0 +1,60 @@
+{
+  "Title":      "Spatial4J",
+  "SourceUrl":  "http://central.maven.org/maven2/com/spatial4j/spatial4j/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/spatial4j/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.5",
+    "From":              "0.4.1",
+    "BC":                "80.1%",
+    "Added":             194,
+    "Removed":           52,
+    "TotalProblems":     20,
+    "Src_BC":            "73.6%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.4.1",
+    "From":              "0.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.4",
+    "From":              "0.3",
+    "BC":                "82.1%",
+    "Added":             148,
+    "Removed":           51,
+    "TotalProblems":     14,
+    "Src_BC":            "78.1%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.3",
+    "From":              "0.2",
+    "BC":                "39.3%",
+    "Added":             84,
+    "Removed":           184,
+    "TotalProblems":     51,
+    "Src_BC":            "37.7%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

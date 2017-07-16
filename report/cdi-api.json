@@ -1,0 +1,99 @@
+{
+  "Title":      "CDI",
+  "SourceUrl":  "http://central.maven.org/maven2/javax/enterprise/cdi-api/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/cdi-api/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.0",
+    "From":              "1.2",
+    "BC":                "100%",
+    "Added":             209,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "68.1%",
+    "Src_TotalProblems": 20,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.2",
+    "From":              "1.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.1",
+    "From":              "1.0-SP4",
+    "BC":                "100%",
+    "Added":             69,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "80.4%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.0-SP4",
+    "From":              "1.0-SP3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.0-SP3",
+    "From":              "1.0-SP2",
+    "BC":                "99%",
+    "Added":             1,
+    "Removed":           1,
+    "TotalProblems":     1,
+    "Src_BC":            "99%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.0-SP2",
+    "From":              "1.0-SP1",
+    "BC":                "99%",
+    "Added":             1,
+    "Removed":           1,
+    "TotalProblems":     1,
+    "Src_BC":            "99%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.0-SP1",
+    "From":              "1.0",
+    "BC":                "97.6%",
+    "Added":             1,
+    "Removed":           1,
+    "TotalProblems":     1,
+    "Src_BC":            "97.6%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

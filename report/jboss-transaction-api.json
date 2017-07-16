@@ -1,0 +1,21 @@
+{
+  "Title":      "JBoss Transaction API",
+  "SourceUrl":  "http://central.maven.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jboss-transaction-api/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.0.1",
+    "From":              "1.0.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

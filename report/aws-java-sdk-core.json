@@ -1,0 +1,47 @@
+{
+  "Title":      "AWS Java SDK Core",
+  "SourceUrl":  "http://central.maven.org/maven2/com/amazonaws/aws-java-sdk-core/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/aws-java-sdk-core/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.11.163",
+    "From":              "1.10.77",
+    "BC":                "82.9%",
+    "Added":             747,
+    "Removed":           241,
+    "TotalProblems":     59,
+    "Src_BC":            "84.9%",
+    "Src_TotalProblems": 46,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.10.77",
+    "From":              "1.9.40",
+    "BC":                "98.1%",
+    "Added":             391,
+    "Removed":           31,
+    "TotalProblems":     9,
+    "Src_BC":            "97.5%",
+    "Src_TotalProblems": 3,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.9.40",
+    "From":              "1.8.12",
+    "BC":                "95%",
+    "Added":             161,
+    "Removed":           55,
+    "TotalProblems":     8,
+    "Src_BC":            "92.8%",
+    "Src_TotalProblems": 11,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

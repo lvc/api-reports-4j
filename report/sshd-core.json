@@ -1,0 +1,86 @@
+{
+  "Title":      "Mina SSHD Core",
+  "SourceUrl":  "http://central.maven.org/maven2/org/apache/sshd/sshd-core/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/sshd-core/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.6.0",
+    "From":              "1.4.0",
+    "BC":                "98.9%",
+    "Added":             84,
+    "Removed":           33,
+    "TotalProblems":     10,
+    "Src_BC":            "96.5%",
+    "Src_TotalProblems": 4,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.4.0",
+    "From":              "1.3.0",
+    "BC":                "80.9%",
+    "Added":             711,
+    "Removed":           289,
+    "TotalProblems":     85,
+    "Src_BC":            "80.6%",
+    "Src_TotalProblems": 84,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.3.0",
+    "From":              "1.2.0",
+    "BC":                "88.5%",
+    "Added":             348,
+    "Removed":           162,
+    "TotalProblems":     65,
+    "Src_BC":            "76.6%",
+    "Src_TotalProblems": 68,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.2.0",
+    "From":              "1.1.1",
+    "BC":                "81.1%",
+    "Added":             813,
+    "Removed":           384,
+    "TotalProblems":     147,
+    "Src_BC":            "76.5%",
+    "Src_TotalProblems": 137,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.1.1",
+    "From":              "1.1.0",
+    "BC":                "97%",
+    "Added":             14,
+    "Removed":           4,
+    "TotalProblems":     5,
+    "Src_BC":            "97%",
+    "Src_TotalProblems": 4,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.1.0",
+    "From":              "1.0.0",
+    "BC":                "61.9%",
+    "Added":             1666,
+    "Removed":           420,
+    "TotalProblems":     355,
+    "Src_BC":            "56.9%",
+    "Src_TotalProblems": 322,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

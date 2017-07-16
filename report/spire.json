@@ -1,0 +1,73 @@
+{
+  "Title":      "Spire Core",
+  "SourceUrl":  "http://central.maven.org/maven2/org/spire-math/spire_2.11/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/spire/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.13.0",
+    "From":              "0.12.0",
+    "BC":                "99.6%",
+    "Added":             83,
+    "Removed":           21,
+    "TotalProblems":     4,
+    "Src_BC":            "99.6%",
+    "Src_TotalProblems": 6,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.12.0",
+    "From":              "0.11.0",
+    "BC":                "99.7%",
+    "Added":             6,
+    "Removed":           2,
+    "TotalProblems":     9,
+    "Src_BC":            "99.4%",
+    "Src_TotalProblems": 7,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.11.0",
+    "From":              "0.10.1",
+    "BC":                "90.2%",
+    "Added":             997,
+    "Removed":           259,
+    "TotalProblems":     359,
+    "Src_BC":            "90.2%",
+    "Src_TotalProblems": 341,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.10.1",
+    "From":              "0.9.1",
+    "BC":                "93.4%",
+    "Added":             1190,
+    "Removed":           493,
+    "TotalProblems":     120,
+    "Src_BC":            "92.5%",
+    "Src_TotalProblems": 188,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.9.1",
+    "From":              "0.9.0",
+    "BC":                "95.1%",
+    "Added":             245,
+    "Removed":           28,
+    "TotalProblems":     31,
+    "Src_BC":            "95.1%",
+    "Src_TotalProblems": 39,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}
