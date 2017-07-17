@@ -1,0 +1,73 @@
+{
+  "Title":      "POI",
+  "SourceUrl":  "http://central.maven.org/maven2/org/apache/poi/poi/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/poi/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.17-beta1",
+    "From":              "3.16",
+    "BC":                "99%",
+    "Added":             148,
+    "Removed":           52,
+    "TotalProblems":     36,
+    "Src_BC":            "97.9%",
+    "Src_TotalProblems": 54,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.16",
+    "From":              "3.15",
+    "BC":                "94.8%",
+    "Added":             470,
+    "Removed":           134,
+    "TotalProblems":     350,
+    "Src_BC":            "90.8%",
+    "Src_TotalProblems": 154,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.15",
+    "From":              "3.14",
+    "BC":                "94.8%",
+    "Added":             332,
+    "Removed":           155,
+    "TotalProblems":     102,
+    "Src_BC":            "91.8%",
+    "Src_TotalProblems": 127,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.14",
+    "From":              "3.13",
+    "BC":                "95.6%",
+    "Added":             437,
+    "Removed":           87,
+    "TotalProblems":     219,
+    "Src_BC":            "93.2%",
+    "Src_TotalProblems": 195,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.13",
+    "From":              "3.12",
+    "BC":                "98.4%",
+    "Added":             1720,
+    "Removed":           108,
+    "TotalProblems":     82,
+    "Src_BC":            "95.3%",
+    "Src_TotalProblems": 46,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

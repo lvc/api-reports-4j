@@ -1,0 +1,34 @@
+{
+  "Title":      "Weka Dev",
+  "SourceUrl":  "http://central.maven.org/maven2/nz/ac/waikato/cms/weka/weka-dev/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/weka-dev/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.9.1",
+    "From":              "3.9.0",
+    "BC":                "98.2%",
+    "Added":             301,
+    "Removed":           14,
+    "TotalProblems":     42,
+    "Src_BC":            "97.5%",
+    "Src_TotalProblems": 33,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.9.0",
+    "From":              "3.7.13",
+    "BC":                "95.5%",
+    "Added":             2321,
+    "Removed":           58,
+    "TotalProblems":     142,
+    "Src_BC":            "93.7%",
+    "Src_TotalProblems": 104,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "6.0_ALPHA",
+    "Version":           "6.0_BETA",
     "From":              "5.2",
     "BC":                "100%",
-    "Added":             81,
+    "Added":             119,
     "Removed":           0,
-    "TotalProblems":     6,
+    "TotalProblems":     0,
     "Src_BC":            "100%",
     "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
