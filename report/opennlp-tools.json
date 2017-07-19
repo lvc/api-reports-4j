@@ -1,0 +1,86 @@
+{
+  "Title":      "OpenNLP Tools",
+  "SourceUrl":  "http://central.maven.org/maven2/org/apache/opennlp/opennlp-tools/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/opennlp-tools/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.8.1",
+    "From":              "1.8.0",
+    "BC":                "96.8%",
+    "Added":             173,
+    "Removed":           28,
+    "TotalProblems":     12,
+    "Src_BC":            "96.5%",
+    "Src_TotalProblems": 12,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.8.0",
+    "From":              "1.7.2",
+    "BC":                "96.4%",
+    "Added":             124,
+    "Removed":           52,
+    "TotalProblems":     22,
+    "Src_BC":            "96.1%",
+    "Src_TotalProblems": 26,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.7.2",
+    "From":              "1.7.1",
+    "BC":                "94.5%",
+    "Added":             72,
+    "Removed":           137,
+    "TotalProblems":     29,
+    "Src_BC":            "94.4%",
+    "Src_TotalProblems": 28,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.7.1",
+    "From":              "1.7.0",
+    "BC":                "95.8%",
+    "Added":             75,
+    "Removed":           82,
+    "TotalProblems":     31,
+    "Src_BC":            "94.6%",
+    "Src_TotalProblems": 31,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.7.0",
+    "From":              "1.6.0",
+    "BC":                "90.9%",
+    "Added":             265,
+    "Removed":           107,
+    "TotalProblems":     76,
+    "Src_BC":            "89.6%",
+    "Src_TotalProblems": 76,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.6.0",
+    "From":              "1.5.3",
+    "BC":                "71.5%",
+    "Added":             922,
+    "Removed":           540,
+    "TotalProblems":     97,
+    "Src_BC":            "70.8%",
+    "Src_TotalProblems": 97,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

@@ -1,0 +1,21 @@
+{
+  "Title":      "Commons VFS Core",
+  "SourceUrl":  "http://central.maven.org/maven2/org/apache/commons/commons-vfs2/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/commons-vfs2/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.1",
+    "From":              "2.0",
+    "BC":                "73.5%",
+    "Added":             367,
+    "Removed":           122,
+    "TotalProblems":     70,
+    "Src_BC":            "60.2%",
+    "Src_TotalProblems": 51,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

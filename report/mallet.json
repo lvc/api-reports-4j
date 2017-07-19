@@ -1,0 +1,21 @@
+{
+  "Title":      "MALLET",
+  "SourceUrl":  "http://central.maven.org/maven2/cc/mallet/mallet/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/mallet/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.0.8",
+    "From":              "2.0.7",
+    "BC":                "99.8%",
+    "Added":             266,
+    "Removed":           6,
+    "TotalProblems":     3,
+    "Src_BC":            "99.8%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "1.1.0.Beta3",
+    "Version":           "1.1.0",
     "From":              "1.0.0",
     "BC":                "100%",
-    "Added":             3,
+    "Added":             5,
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "94.9%",

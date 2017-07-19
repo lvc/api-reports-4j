@@ -1,0 +1,73 @@
+{
+  "Title":      "Stanford CoreNLP",
+  "SourceUrl":  "http://central.maven.org/maven2/edu/stanford/nlp/stanford-corenlp/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/stanford-corenlp/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.8.0",
+    "From":              "3.7.0",
+    "BC":                "86.5%",
+    "Added":             1585,
+    "Removed":           208,
+    "TotalProblems":     142,
+    "Src_BC":            "85.7%",
+    "Src_TotalProblems": 169,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.7.0",
+    "From":              "3.6.0",
+    "BC":                "90.9%",
+    "Added":             1794,
+    "Removed":           1003,
+    "TotalProblems":     322,
+    "Src_BC":            "87.6%",
+    "Src_TotalProblems": 349,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.6.0",
+    "From":              "3.5.2",
+    "BC":                "95.5%",
+    "Added":             2343,
+    "Removed":           145,
+    "TotalProblems":     145,
+    "Src_BC":            "94.6%",
+    "Src_TotalProblems": 159,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.5.2",
+    "From":              "3.5.1",
+    "BC":                "95.6%",
+    "Added":             3551,
+    "Removed":           38,
+    "TotalProblems":     64,
+    "Src_BC":            "93.4%",
+    "Src_TotalProblems": 59,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.5.1",
+    "From":              "3.5.0",
+    "BC":                "94.5%",
+    "Added":             541,
+    "Removed":           258,
+    "TotalProblems":     93,
+    "Src_BC":            "94.9%",
+    "Src_TotalProblems": 79,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}
