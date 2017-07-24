@@ -1,0 +1,60 @@
+{
+  "Title":      "Io7m Jtensors Core",
+  "SourceUrl":  "http://central.maven.org/maven2/com/io7m/jtensors/io7m-jtensors-core/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/io7m-jtensors-core/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "7.1.0",
+    "From":              "7.0.0",
+    "BC":                "100%",
+    "Added":             4,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "7.0.0",
+    "From":              "6.0.2",
+    "BC":                "5.7%",
+    "Added":             2685,
+    "Removed":           651,
+    "TotalProblems":     135,
+    "Src_BC":            "5.7%",
+    "Src_TotalProblems": 141,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "6.0.2",
+    "From":              "6.0.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "6.0.1",
+    "From":              "6.0.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}
