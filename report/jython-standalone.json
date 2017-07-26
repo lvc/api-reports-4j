@@ -1,0 +1,60 @@
+{
+  "Title":      "Jython",
+  "SourceUrl":  "http://central.maven.org/maven2/org/python/jython-standalone/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jython-standalone/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.7.1",
+    "From":              "2.7.0",
+    "BC":                "90.2%",
+    "Added":             10156,
+    "Removed":           3329,
+    "TotalProblems":     1035,
+    "Src_BC":            "88.2%",
+    "Src_TotalProblems": 729,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.7.0",
+    "From":              "2.5.3",
+    "BC":                "44.4%",
+    "Added":             38853,
+    "Removed":           2846,
+    "TotalProblems":     2221,
+    "Src_BC":            "43.9%",
+    "Src_TotalProblems": 1652,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.5.3",
+    "From":              "2.5.2",
+    "BC":                "99.3%",
+    "Added":             2087,
+    "Removed":           20,
+    "TotalProblems":     757,
+    "Src_BC":            "99.3%",
+    "Src_TotalProblems": 746,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.5.2",
+    "From":              "2.5.1",
+    "BC":                "95%",
+    "Added":             6427,
+    "Removed":           908,
+    "TotalProblems":     667,
+    "Src_BC":            "89.4%",
+    "Src_TotalProblems": 599,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

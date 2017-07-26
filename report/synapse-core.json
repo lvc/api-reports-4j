@@ -1,0 +1,99 @@
+{
+  "Title":      "Synapse Core",
+  "SourceUrl":  "http://central.maven.org/maven2/org/apache/synapse/synapse-core/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/synapse-core/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.0.0",
+    "From":              "2.1.0",
+    "BC":                "92%",
+    "Added":             352,
+    "Removed":           46,
+    "TotalProblems":     18,
+    "Src_BC":            "85.3%",
+    "Src_TotalProblems": 16,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.1.0",
+    "From":              "2.0.0",
+    "BC":                "90.4%",
+    "Added":             620,
+    "Removed":           81,
+    "TotalProblems":     48,
+    "Src_BC":            "76.9%",
+    "Src_TotalProblems": 74,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.0.0",
+    "From":              "1.2",
+    "BC":                "61.5%",
+    "Added":             1390,
+    "Removed":           374,
+    "TotalProblems":     196,
+    "Src_BC":            "58.4%",
+    "Src_TotalProblems": 144,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.2",
+    "From":              "1.1.2",
+    "BC":                "87.1%",
+    "Added":             276,
+    "Removed":           102,
+    "TotalProblems":     98,
+    "Src_BC":            "86.3%",
+    "Src_TotalProblems": 80,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.1.2",
+    "From":              "1.1.1",
+    "BC":                "99.3%",
+    "Added":             15,
+    "Removed":           9,
+    "TotalProblems":     5,
+    "Src_BC":            "99.3%",
+    "Src_TotalProblems": 3,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.1.1",
+    "From":              "1.1",
+    "BC":                "91%",
+    "Added":             156,
+    "Removed":           30,
+    "TotalProblems":     7,
+    "Src_BC":            "84.3%",
+    "Src_TotalProblems": 9,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.1",
+    "From":              "1.0",
+    "BC":                "83.1%",
+    "Added":             494,
+    "Removed":           51,
+    "TotalProblems":     23,
+    "Src_BC":            "76.2%",
+    "Src_TotalProblems": 24,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

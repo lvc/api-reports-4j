@@ -1,0 +1,47 @@
+{
+  "Title":      "Batik SVG generator",
+  "SourceUrl":  "http://central.maven.org/maven2/org/apache/xmlgraphics/batik-svggen/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/batik-svggen/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.9",
+    "From":              "1.8",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.8",
+    "From":              "1.7",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.7",
+    "From":              "1.6.1",
+    "BC":                "89%",
+    "Added":             11,
+    "Removed":           4,
+    "TotalProblems":     8,
+    "Src_BC":            "89%",
+    "Src_TotalProblems": 8,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}
