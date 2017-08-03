@@ -271,9 +271,9 @@
     "BC":                "89.5%",
     "Added":             201,
     "Removed":           21,
-    "TotalProblems":     18,
+    "TotalProblems":     14,
     "Src_BC":            "85.7%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 15,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -351,7 +351,7 @@
     "Removed":           5,
     "TotalProblems":     10,
     "Src_BC":            "94.7%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 3,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -377,7 +377,7 @@
     "Removed":           0,
     "TotalProblems":     1,
     "Src_BC":            "99.8%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 2,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -403,7 +403,7 @@
     "Removed":           5,
     "TotalProblems":     4,
     "Src_BC":            "99.3%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 4,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -416,7 +416,7 @@
     "Removed":           0,
     "TotalProblems":     2,
     "Src_BC":            "98.8%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 3,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -429,7 +429,7 @@
     "Removed":           1030,
     "TotalProblems":     203,
     "Src_BC":            "16.7%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 211,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

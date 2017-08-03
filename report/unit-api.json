@@ -1,0 +1,47 @@
+{
+  "Title":      "Units Of Measurement API",
+  "SourceUrl":  "http://central.maven.org/maven2/javax/measure/unit-api/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/unit-api/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.0",
+    "From":              "0.9",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.9",
+    "From":              "0.8",
+    "BC":                "53.7%",
+    "Added":             9,
+    "Removed":           8,
+    "TotalProblems":     5,
+    "Src_BC":            "53.7%",
+    "Src_TotalProblems": 7,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.8",
+    "From":              "0.7",
+    "BC":                "97.2%",
+    "Added":             13,
+    "Removed":           2,
+    "TotalProblems":     1,
+    "Src_BC":            "87.3%",
+    "Src_TotalProblems": 7,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

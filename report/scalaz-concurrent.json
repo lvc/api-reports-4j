@@ -190,12 +190,12 @@
   {
     "Version":           "7.2.0",
     "From":              "7.1.14",
-    "BC":                "70.1%",
+    "BC":                "68.2%",
     "Added":             24,
     "Removed":           109,
-    "TotalProblems":     26,
-    "Src_BC":            "69.4%",
-    "Src_TotalProblems": 25,
+    "TotalProblems":     30,
+    "Src_BC":            "67.5%",
+    "Src_TotalProblems": 29,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

@@ -333,11 +333,11 @@
   {
     "Version":           "2.4.0",
     "From":              "2.3.16",
-    "BC":                "90.2%",
+    "BC":                "90.1%",
     "Added":             820,
     "Removed":           313,
     "TotalProblems":     32,
-    "Src_BC":            "89.5%",
+    "Src_BC":            "89.4%",
     "Src_TotalProblems": 35,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

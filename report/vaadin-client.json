@@ -112,12 +112,12 @@
   {
     "Version":           "8.0.0",
     "From":              "7.7.10",
-    "BC":                "63.8%",
+    "BC":                "63.7%",
     "Added":             878,
     "Removed":           1495,
-    "TotalProblems":     248,
-    "Src_BC":            "63.6%",
-    "Src_TotalProblems": 215,
+    "TotalProblems":     250,
+    "Src_BC":            "63.4%",
+    "Src_TotalProblems": 218,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

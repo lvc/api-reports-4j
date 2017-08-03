@@ -8,12 +8,12 @@
   {
     "Version":           "2.0.0",
     "From":              "1.4.1",
-    "BC":                "57.1%",
+    "BC":                "56.4%",
     "Added":             253,
     "Removed":           285,
-    "TotalProblems":     83,
-    "Src_BC":            "56.4%",
-    "Src_TotalProblems": 80,
+    "TotalProblems":     85,
+    "Src_BC":            "55.7%",
+    "Src_TotalProblems": 84,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -73,12 +73,12 @@
   {
     "Version":           "1.1.1",
     "From":              "1.1.0",
-    "BC":                "85.7%",
+    "BC":                "84.8%",
     "Added":             457,
     "Removed":           28,
-    "TotalProblems":     27,
-    "Src_BC":            "81.7%",
-    "Src_TotalProblems": 19,
+    "TotalProblems":     30,
+    "Src_BC":            "80.6%",
+    "Src_TotalProblems": 23,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

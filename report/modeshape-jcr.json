@@ -21,12 +21,12 @@
   {
     "Version":           "5.4.0",
     "From":              "5.3.0",
-    "BC":                "98.7%",
+    "BC":                "98.5%",
     "Added":             23,
     "Removed":           22,
-    "TotalProblems":     13,
-    "Src_BC":            "96.5%",
-    "Src_TotalProblems": 10,
+    "TotalProblems":     14,
+    "Src_BC":            "96.4%",
+    "Src_TotalProblems": 11,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

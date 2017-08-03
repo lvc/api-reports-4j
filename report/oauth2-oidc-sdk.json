@@ -450,11 +450,11 @@
   {
     "Version":           "5.11",
     "From":              "5.10.1",
-    "BC":                "99.8%",
+    "BC":                "99.7%",
     "Added":             6,
     "Removed":           2,
     "TotalProblems":     1,
-    "Src_BC":            "99.8%",
+    "Src_BC":            "99.7%",
     "Src_TotalProblems": 3,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

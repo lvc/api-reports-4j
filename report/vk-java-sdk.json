@@ -112,11 +112,11 @@
   {
     "Version":           "0.4.2",
     "From":              "0.4.1",
-    "BC":                "99.9%",
+    "BC":                "99.8%",
     "Added":             14,
     "Removed":           3,
     "TotalProblems":     2,
-    "Src_BC":            "99.9%",
+    "Src_BC":            "99.8%",
     "Src_TotalProblems": 2,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

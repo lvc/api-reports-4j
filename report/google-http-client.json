@@ -229,12 +229,12 @@
   {
     "Version":           "1.6.0",
     "From":              "1.5.3",
-    "BC":                "51.7%",
+    "BC":                "50.5%",
     "Added":             50,
     "Removed":           20,
-    "TotalProblems":     116,
-    "Src_BC":            "51.7%",
-    "Src_TotalProblems": 115,
+    "TotalProblems":     124,
+    "Src_BC":            "50.5%",
+    "Src_TotalProblems": 123,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

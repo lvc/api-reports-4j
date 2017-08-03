@@ -1,0 +1,86 @@
+{
+  "Title":      "Units Of Measurement RI",
+  "SourceUrl":  "http://central.maven.org/maven2/tec/units/unit-ri/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/unit-ri/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.0.3",
+    "From":              "1.0.2",
+    "BC":                "98.1%",
+    "Added":             6,
+    "Removed":           2,
+    "TotalProblems":     7,
+    "Src_BC":            "98.1%",
+    "Src_TotalProblems": 6,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.0.2",
+    "From":              "1.0.1",
+    "BC":                "98.8%",
+    "Added":             3,
+    "Removed":           1,
+    "TotalProblems":     4,
+    "Src_BC":            "98.8%",
+    "Src_TotalProblems": 4,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.0.1",
+    "From":              "1.0",
+    "BC":                "98.3%",
+    "Added":             4,
+    "Removed":           2,
+    "TotalProblems":     2,
+    "Src_BC":            "98.3%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.0",
+    "From":              "0.9",
+    "BC":                "99.2%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     1,
+    "Src_BC":            "99.2%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.9",
+    "From":              "0.8",
+    "BC":                "43.3%",
+    "Added":             23,
+    "Removed":           19,
+    "TotalProblems":     33,
+    "Src_BC":            "43%",
+    "Src_TotalProblems": 35,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.8",
+    "From":              "0.7.1",
+    "BC":                "46.7%",
+    "Added":             120,
+    "Removed":           130,
+    "TotalProblems":     33,
+    "Src_BC":            "40.4%",
+    "Src_TotalProblems": 36,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

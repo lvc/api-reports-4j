@@ -138,12 +138,12 @@
   {
     "Version":           "3.0.1",
     "From":              "3.0.0",
-    "BC":                "92.2%",
+    "BC":                "91.8%",
     "Added":             6,
     "Removed":           4,
-    "TotalProblems":     3,
-    "Src_BC":            "91.6%",
-    "Src_TotalProblems": 5,
+    "TotalProblems":     4,
+    "Src_BC":            "91.2%",
+    "Src_TotalProblems": 7,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

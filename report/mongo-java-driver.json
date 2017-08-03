@@ -60,12 +60,12 @@
   {
     "Version":           "3.3.0",
     "From":              "3.2.2",
-    "BC":                "98.2%",
+    "BC":                "98.1%",
     "Added":             209,
     "Removed":           54,
-    "TotalProblems":     38,
-    "Src_BC":            "97.4%",
-    "Src_TotalProblems": 49,
+    "TotalProblems":     39,
+    "Src_BC":            "97.3%",
+    "Src_TotalProblems": 50,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -125,12 +125,12 @@
   {
     "Version":           "3.1.0",
     "From":              "3.0.4",
-    "BC":                "91.2%",
+    "BC":                "90.6%",
     "Added":             369,
     "Removed":           1,
-    "TotalProblems":     23,
-    "Src_BC":            "88.1%",
-    "Src_TotalProblems": 31,
+    "TotalProblems":     24,
+    "Src_BC":            "87.6%",
+    "Src_TotalProblems": 32,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

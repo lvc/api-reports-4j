@@ -21,11 +21,11 @@
   {
     "Version":           "1.0.8",
     "From":              "1.0.7",
-    "BC":                "93.5%",
+    "BC":                "82.3%",
     "Added":             1,
     "Removed":           13,
     "TotalProblems":     3,
-    "Src_BC":            "93.5%",
+    "Src_BC":            "82.3%",
     "Src_TotalProblems": 3,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

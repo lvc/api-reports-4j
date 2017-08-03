@@ -60,12 +60,12 @@
   {
     "Version":           "8.5.12",
     "From":              "8.5.11",
-    "BC":                "86.8%",
+    "BC":                "86.7%",
     "Added":             59,
     "Removed":           20,
-    "TotalProblems":     11,
-    "Src_BC":            "81.4%",
-    "Src_TotalProblems": 16,
+    "TotalProblems":     12,
+    "Src_BC":            "81.3%",
+    "Src_TotalProblems": 17,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

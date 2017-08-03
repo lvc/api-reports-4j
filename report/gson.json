@@ -26,7 +26,7 @@
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "99.6%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 1,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -104,7 +104,7 @@
     "Removed":           0,
     "TotalProblems":     1,
     "Src_BC":            "99.4%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 2,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -208,7 +208,7 @@
     "Removed":           2,
     "TotalProblems":     5,
     "Src_BC":            "96%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 5,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -221,7 +221,7 @@
     "Removed":           15,
     "TotalProblems":     8,
     "Src_BC":            "74.1%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 8,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -260,7 +260,7 @@
     "Removed":           0,
     "TotalProblems":     5,
     "Src_BC":            "98.1%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 9,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -273,7 +273,7 @@
     "Removed":           0,
     "TotalProblems":     22,
     "Src_BC":            "96.9%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 14,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -286,7 +286,7 @@
     "Removed":           3,
     "TotalProblems":     3,
     "Src_BC":            "94.3%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 6,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -299,7 +299,7 @@
     "Removed":           14,
     "TotalProblems":     10,
     "Src_BC":            "61.8%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 21,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

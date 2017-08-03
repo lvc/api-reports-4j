@@ -26,7 +26,7 @@
     "Removed":           13,
     "TotalProblems":     3,
     "Src_BC":            "94.4%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 3,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -60,7 +60,7 @@
   {
     "Version":           "4.2.0",
     "From":              "4.1.0",
-    "BC":                "97.5%",
+    "BC":                "97.4%",
     "Added":             11,
     "Removed":           0,
     "TotalProblems":     3,
@@ -86,12 +86,12 @@
   {
     "Version":           "4.0.0",
     "From":              "3.5.2",
-    "BC":                "99.6%",
+    "BC":                "99.5%",
     "Added":             29,
     "Removed":           2,
     "TotalProblems":     5,
-    "Src_BC":            "99.5%",
-    "Src_TotalProblems": 0,
+    "Src_BC":            "99.4%",
+    "Src_TotalProblems": 1,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -130,7 +130,7 @@
     "Removed":           0,
     "TotalProblems":     6,
     "Src_BC":            "99.4%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 4,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -138,12 +138,12 @@
   {
     "Version":           "3.4.0",
     "From":              "3.3.0",
-    "BC":                "99.1%",
+    "BC":                "99%",
     "Added":             36,
     "Removed":           4,
     "TotalProblems":     2,
-    "Src_BC":            "99.1%",
-    "Src_TotalProblems": 0,
+    "Src_BC":            "99%",
+    "Src_TotalProblems": 1,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -195,7 +195,7 @@
     "Removed":           1,
     "TotalProblems":     1,
     "Src_BC":            "99.2%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 1,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -255,11 +255,11 @@
   {
     "Version":           "3.1.0",
     "From":              "3.0.9",
-    "BC":                "98%",
+    "BC":                "97.9%",
     "Added":             18,
     "Removed":           7,
     "TotalProblems":     0,
-    "Src_BC":            "98%",
+    "Src_BC":            "97.9%",
     "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
