@@ -1,13 +1,26 @@
 {
-  "Title":      "Liferay Frontend Taglib",
-  "SourceUrl":  "http://central.maven.org/maven2/com/liferay/com.liferay.frontend.taglib/",
-  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/com.liferay.frontend.taglib/",
+  "Title":      "Akka Testkit",
+  "SourceUrl":  "http://central.maven.org/maven2/com/typesafe/akka/akka-testkit_2.11/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/akka-testkit/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "2.2.3",
-    "From":              "2.2.2",
+    "Version":           "2.5.3",
+    "From":              "2.5.2",
+    "BC":                "100%",
+    "Added":             7,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.5.2",
+    "From":              "2.5.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -19,8 +32,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.2.2",
-    "From":              "2.2.1",
+    "Version":           "2.5.1",
+    "From":              "2.5.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -32,8 +45,21 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.2.1",
-    "From":              "2.2.0",
+    "Version":           "2.5.0",
+    "From":              "2.4.19",
+    "BC":                "100%",
+    "Added":             88,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "86.9%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.4.19",
+    "From":              "2.4.18",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -45,21 +71,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.2.0",
-    "From":              "2.1.6",
-    "BC":                "100%",
-    "Added":             11,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "Src_BC":            "100%",
-    "Src_TotalProblems": 0,
-    "ArchivesAdded":     0,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     1
-  },
-  {
-    "Version":           "2.1.6",
-    "From":              "2.1.5",
+    "Version":           "2.4.18",
+    "From":              "2.4.17",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -71,8 +84,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.1.5",
-    "From":              "2.1.4",
+    "Version":           "2.4.17",
+    "From":              "2.4.16",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -84,8 +97,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.1.4",
-    "From":              "2.1.3",
+    "Version":           "2.4.16",
+    "From":              "2.4.15",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -97,8 +110,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.1.3",
-    "From":              "2.1.2",
+    "Version":           "2.4.15",
+    "From":              "2.4.14",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -110,8 +123,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.1.2",
-    "From":              "2.1.1",
+    "Version":           "2.4.14",
+    "From":              "2.4.13",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -123,10 +136,10 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.1.1",
-    "From":              "2.1.0",
+    "Version":           "2.4.13",
+    "From":              "2.4.12",
     "BC":                "100%",
-    "Added":             0,
+    "Added":             2,
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "100%",
@@ -136,8 +149,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.1.0",
-    "From":              "2.0.17",
+    "Version":           "2.4.12",
+    "From":              "2.4.11.2",
     "BC":                "100%",
     "Added":             1,
     "Removed":           0,
@@ -149,8 +162,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.17",
-    "From":              "2.0.16",
+    "Version":           "2.4.11.2",
+    "From":              "2.4.11.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -162,8 +175,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.16",
-    "From":              "2.0.15",
+    "Version":           "2.4.11.1",
+    "From":              "2.4.11",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -175,8 +188,34 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.15",
-    "From":              "2.0.14",
+    "Version":           "2.4.11",
+    "From":              "2.4.10",
+    "BC":                "100%",
+    "Added":             17,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.4.10",
+    "From":              "2.4.9",
+    "BC":                "100%",
+    "Added":             40,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "86.9%",
+    "Src_TotalProblems": 4,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.4.9",
+    "From":              "2.4.8",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -188,8 +227,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.14",
-    "From":              "2.0.13",
+    "Version":           "2.4.8",
+    "From":              "2.4.7",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -201,8 +240,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.13",
-    "From":              "2.0.12",
+    "Version":           "2.4.7",
+    "From":              "2.4.6",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -214,8 +253,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.12",
-    "From":              "2.0.11",
+    "Version":           "2.4.6",
+    "From":              "2.4.5",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -227,8 +266,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.11",
-    "From":              "2.0.10",
+    "Version":           "2.4.5",
+    "From":              "2.4.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -240,8 +279,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.10",
-    "From":              "2.0.9",
+    "Version":           "2.4.4",
+    "From":              "2.4.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -253,8 +292,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.9",
-    "From":              "2.0.8",
+    "Version":           "2.4.3",
+    "From":              "2.4.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -266,8 +305,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.8",
-    "From":              "2.0.7",
+    "Version":           "2.4.2",
+    "From":              "2.4.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -279,8 +318,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.7",
-    "From":              "2.0.6",
+    "Version":           "2.4.1",
+    "From":              "2.4.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -292,8 +331,21 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.6",
-    "From":              "2.0.5",
+    "Version":           "2.4.0",
+    "From":              "2.3.16",
+    "BC":                "93%",
+    "Added":             37,
+    "Removed":           1,
+    "TotalProblems":     3,
+    "Src_BC":            "86.7%",
+    "Src_TotalProblems": 4,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.16",
+    "From":              "2.3.15",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -305,60 +357,164 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.5",
-    "From":              "2.0.4",
-    "BC":                "98.5%",
+    "Version":           "2.3.15",
+    "From":              "2.3.14",
+    "BC":                "100%",
     "Added":             0,
-    "Removed":           5,
-    "TotalProblems":     1,
-    "Src_BC":            "98.5%",
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.14",
+    "From":              "2.3.13",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.13",
+    "From":              "2.3.12",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.12",
+    "From":              "2.3.11",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.11",
+    "From":              "2.3.10",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.10",
+    "From":              "2.3.9",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.9",
+    "From":              "2.3.8",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.8",
+    "From":              "2.3.7",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.7",
+    "From":              "2.3.6",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.6",
+    "From":              "2.3.5",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.5",
+    "From":              "2.3.4",
+    "BC":                "100%",
+    "Added":             17,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.4",
+    "From":              "2.3.3",
+    "BC":                "100%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "86.7%",
     "Src_TotalProblems": 1,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.4",
-    "From":              "2.0.3",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "Src_BC":            "100%",
-    "Src_TotalProblems": 0,
-    "ArchivesAdded":     0,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     1
-  },
-  {
-    "Version":           "2.0.3",
-    "From":              "2.0.2",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "Src_BC":            "100%",
-    "Src_TotalProblems": 0,
-    "ArchivesAdded":     0,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     1
-  },
-  {
-    "Version":           "2.0.2",
-    "From":              "2.0.1",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "Src_BC":            "100%",
-    "Src_TotalProblems": 0,
-    "ArchivesAdded":     0,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     1
-  },
-  {
-    "Version":           "2.0.1",
-    "From":              "2.0.0",
+    "Version":           "2.3.3",
+    "From":              "2.3.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
