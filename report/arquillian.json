@@ -1,13 +1,13 @@
 {
-  "Title":      "Errai IOC",
-  "SourceUrl":  "http://central.maven.org/maven2/org/jboss/errai/errai-ioc/",
-  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/errai-ioc/",
+  "Title":      "Arquillian",
+  "SourceUrl":  "http://central.maven.org/maven2/org/wildfly/swarm/arquillian/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/arquillian/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "4.0.2",
-    "From":              "4.0.0",
+    "Version":           "2017.8.1",
+    "From":              "2017.8.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -19,21 +19,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "4.0.0",
-    "From":              "3.2.5",
-    "BC":                "22.4%",
-    "Added":             474,
-    "Removed":           636,
-    "TotalProblems":     113,
-    "Src_BC":            "22.4%",
-    "Src_TotalProblems": 119,
-    "ArchivesAdded":     0,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     1
-  },
-  {
-    "Version":           "3.2.5",
-    "From":              "3.2.4",
+    "Version":           "2017.8.0",
+    "From":              "2017.7.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -45,8 +32,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.2.4",
-    "From":              "3.2.3",
+    "Version":           "2017.7.0",
+    "From":              "2017.6.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -58,8 +45,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.2.3",
-    "From":              "3.2.2",
+    "Version":           "2017.6.1",
+    "From":              "2017.6.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -71,8 +58,21 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.2.2",
-    "From":              "3.2.1",
+    "Version":           "2017.6.0",
+    "From":              "2017.5.0",
+    "BC":                "87.5%",
+    "Added":             2,
+    "Removed":           2,
+    "TotalProblems":     0,
+    "Src_BC":            "87.5%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2017.5.0",
+    "From":              "2017.4.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -84,8 +84,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.2.1",
-    "From":              "3.2.0",
+    "Version":           "2017.4.0",
+    "From":              "2017.3.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -97,8 +97,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.2.0",
-    "From":              "3.1.2",
+    "Version":           "2017.3.3",
+    "From":              "2017.3.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -110,8 +110,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.1.2",
-    "From":              "3.1.1",
+    "Version":           "2017.3.2",
+    "From":              "2017.2.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -123,8 +123,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.1.1",
-    "From":              "3.1.0",
+    "Version":           "2017.2.0",
+    "From":              "2017.1.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -136,8 +136,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.1.0",
-    "From":              "3.0.6",
+    "Version":           "2017.1.1",
+    "From":              "2017.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -149,8 +149,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.0.6",
-    "From":              "3.0.5",
+    "Version":           "2017.1",
+    "From":              "2016.12.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -162,8 +162,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.0.5",
-    "From":              "3.0.4",
+    "Version":           "2016.12.1",
+    "From":              "2016.12.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -175,21 +175,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.0.4",
-    "From":              "3.0.3",
-    "BC":                "98%",
-    "Added":             0,
-    "Removed":           19,
-    "TotalProblems":     5,
-    "Src_BC":            "98%",
-    "Src_TotalProblems": 5,
-    "ArchivesAdded":     0,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     1
-  },
-  {
-    "Version":           "3.0.3",
-    "From":              "3.0.2",
+    "Version":           "2016.12.0",
+    "From":              "2016.11.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -201,10 +188,23 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.0.2",
-    "From":              "3.0.1",
+    "Version":           "2016.11.0",
+    "From":              "2016.10.0",
+    "BC":                "0%",
+    "Added":             16,
+    "Removed":           59,
+    "TotalProblems":     20,
+    "Src_BC":            "0%",
+    "Src_TotalProblems": 21,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2016.10.0",
+    "From":              "2016.9",
     "BC":                "100%",
-    "Added":             1,
+    "Added":             2,
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "100%",
@@ -214,8 +214,21 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.0.1",
-    "From":              "3.0.0",
+    "Version":           "2016.9",
+    "From":              "2016.8.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2016.8.1",
+    "From":              "2016.8",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,

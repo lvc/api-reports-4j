@@ -1,0 +1,73 @@
+{
+  "Title":      "UnboundID LDAP SDK",
+  "SourceUrl":  "http://central.maven.org/maven2/com/unboundid/unboundid-ldapsdk/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/unboundid-ldapsdk/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "4.0.0",
+    "From":              "3.2.1",
+    "BC":                "100%",
+    "Added":             4017,
+    "Removed":           0,
+    "TotalProblems":     1,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.2.1",
+    "From":              "3.2.0",
+    "BC":                "100%",
+    "Added":             10,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.2.0",
+    "From":              "3.1.1",
+    "BC":                "100%",
+    "Added":             311,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "Src_BC":            "98.3%",
+    "Src_TotalProblems": 4,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.1.1",
+    "From":              "3.1.0",
+    "BC":                "100%",
+    "Added":             44,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.1.0",
+    "From":              "3.0.0",
+    "BC":                "100%",
+    "Added":             225,
+    "Removed":           0,
+    "TotalProblems":     1,
+    "Src_BC":            "98.5%",
+    "Src_TotalProblems": 5,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

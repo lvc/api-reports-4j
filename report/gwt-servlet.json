@@ -1,0 +1,34 @@
+{
+  "Title":      "Gwt Servlet",
+  "SourceUrl":  "http://central.maven.org/maven2/com/google/gwt/gwt-servlet/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/gwt-servlet/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.8.1",
+    "From":              "2.8.0",
+    "BC":                "99.98%",
+    "Added":             0,
+    "Removed":           4,
+    "TotalProblems":     0,
+    "Src_BC":            "99.98%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.8.0",
+    "From":              "2.7.0",
+    "BC":                "98.6%",
+    "Added":             236,
+    "Removed":           123,
+    "TotalProblems":     66,
+    "Src_BC":            "98.1%",
+    "Src_TotalProblems": 54,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

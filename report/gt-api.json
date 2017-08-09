@@ -1,13 +1,13 @@
 {
-  "Title":      "Errai IOC",
-  "SourceUrl":  "http://central.maven.org/maven2/org/jboss/errai/errai-ioc/",
-  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/errai-ioc/",
+  "Title":      "GeoTools API Interfaces",
+  "SourceUrl":  "http://download.osgeo.org/webdav/geotools/org/geotools/gt-api/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/gt-api/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "4.0.2",
-    "From":              "4.0.0",
+    "Version":           "17.2",
+    "From":              "17.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -19,21 +19,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "4.0.0",
-    "From":              "3.2.5",
-    "BC":                "22.4%",
-    "Added":             474,
-    "Removed":           636,
-    "TotalProblems":     113,
-    "Src_BC":            "22.4%",
-    "Src_TotalProblems": 119,
-    "ArchivesAdded":     0,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     1
-  },
-  {
-    "Version":           "3.2.5",
-    "From":              "3.2.4",
+    "Version":           "17.1",
+    "From":              "17.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -45,8 +32,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.2.4",
-    "From":              "3.2.3",
+    "Version":           "17.0",
+    "From":              "16.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -58,8 +45,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.2.3",
-    "From":              "3.2.2",
+    "Version":           "16.4",
+    "From":              "16.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -71,8 +58,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.2.2",
-    "From":              "3.2.1",
+    "Version":           "16.3",
+    "From":              "16.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -84,8 +71,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.2.1",
-    "From":              "3.2.0",
+    "Version":           "16.2",
+    "From":              "16.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -97,8 +84,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.2.0",
-    "From":              "3.1.2",
+    "Version":           "16.1",
+    "From":              "16.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -110,8 +97,21 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.1.2",
-    "From":              "3.1.1",
+    "Version":           "16.0",
+    "From":              "15.4",
+    "BC":                "98.2%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "Src_BC":            "98.2%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "15.4",
+    "From":              "15.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -123,8 +123,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.1.1",
-    "From":              "3.1.0",
+    "Version":           "15.3",
+    "From":              "15.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -136,8 +136,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.1.0",
-    "From":              "3.0.6",
+    "Version":           "15.2",
+    "From":              "15.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -149,8 +149,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.0.6",
-    "From":              "3.0.5",
+    "Version":           "15.1",
+    "From":              "15.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -162,8 +162,21 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.0.5",
-    "From":              "3.0.4",
+    "Version":           "15.0",
+    "From":              "14.5",
+    "BC":                "100%",
+    "Added":             95,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "14.5",
+    "From":              "14.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -175,21 +188,8 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.0.4",
-    "From":              "3.0.3",
-    "BC":                "98%",
-    "Added":             0,
-    "Removed":           19,
-    "TotalProblems":     5,
-    "Src_BC":            "98%",
-    "Src_TotalProblems": 5,
-    "ArchivesAdded":     0,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     1
-  },
-  {
-    "Version":           "3.0.3",
-    "From":              "3.0.2",
+    "Version":           "14.4",
+    "From":              "14.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -201,10 +201,10 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.0.2",
-    "From":              "3.0.1",
+    "Version":           "14.3",
+    "From":              "14.2",
     "BC":                "100%",
-    "Added":             1,
+    "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "100%",
@@ -214,8 +214,21 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "3.0.1",
-    "From":              "3.0.0",
+    "Version":           "14.2",
+    "From":              "14.1",
+    "BC":                "100%",
+    "Added":             5,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "14.1",
+    "From":              "14.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
