@@ -1,0 +1,34 @@
+{
+  "Title":      "Brooklyn Software Base",
+  "SourceUrl":  "http://central.maven.org/maven2/org/apache/brooklyn/brooklyn-software-base/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/brooklyn-software-base/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.11.0",
+    "From":              "0.10.0",
+    "BC":                "91.6%",
+    "Added":             2064,
+    "Removed":           294,
+    "TotalProblems":     241,
+    "Src_BC":            "90.5%",
+    "Src_TotalProblems": 143,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.10.0",
+    "From":              "0.9.0",
+    "BC":                "99.9%",
+    "Added":             18,
+    "Removed":           1,
+    "TotalProblems":     17,
+    "Src_BC":            "99.9%",
+    "Src_TotalProblems": 15,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}
