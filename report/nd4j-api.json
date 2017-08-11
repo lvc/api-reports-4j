@@ -1,0 +1,99 @@
+{
+  "Title":      "Nd4j Api",
+  "SourceUrl":  "http://central.maven.org/maven2/org/nd4j/nd4j-api/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/nd4j-api/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.9.0",
+    "From":              "0.8.0",
+    "BC":                "48.1%",
+    "Added":             1190,
+    "Removed":           436,
+    "TotalProblems":     140,
+    "Src_BC":            "43%",
+    "Src_TotalProblems": 273,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.8.0",
+    "From":              "0.7.2",
+    "BC":                "56.2%",
+    "Added":             292,
+    "Removed":           119,
+    "TotalProblems":     26,
+    "Src_BC":            "53.3%",
+    "Src_TotalProblems": 54,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.7.2",
+    "From":              "0.7.1",
+    "BC":                "91.6%",
+    "Added":             321,
+    "Removed":           21,
+    "TotalProblems":     14,
+    "Src_BC":            "52.8%",
+    "Src_TotalProblems": 35,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.7.1",
+    "From":              "0.7.0",
+    "BC":                "89.6%",
+    "Added":             4,
+    "Removed":           2,
+    "TotalProblems":     2,
+    "Src_BC":            "89.6%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.7.0",
+    "From":              "0.6.0",
+    "BC":                "92%",
+    "Added":             283,
+    "Removed":           3,
+    "TotalProblems":     5,
+    "Src_BC":            "51.1%",
+    "Src_TotalProblems": 47,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.6.0",
+    "From":              "0.5.0",
+    "BC":                "76.3%",
+    "Added":             260,
+    "Removed":           2,
+    "TotalProblems":     6,
+    "Src_BC":            "50.8%",
+    "Src_TotalProblems": 22,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.5.0",
+    "From":              "0.4.0",
+    "BC":                "99.6%",
+    "Added":             101,
+    "Removed":           6,
+    "TotalProblems":     1,
+    "Src_BC":            "86.6%",
+    "Src_TotalProblems": 12,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

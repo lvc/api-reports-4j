@@ -1,5 +1,5 @@
 {
-  "Title":      "52 North SOS API",
+  "Title":      "N52 SOS API",
   "SourceUrl":  "http://52north.org/maven/repo/releases/org/n52/sensorweb/sos/api/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/n52-sos-api/",
   "Maintainer": "Andrey P.",

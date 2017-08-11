@@ -1,0 +1,60 @@
+{
+  "Title":      "Ignite Core",
+  "SourceUrl":  "http://central.maven.org/maven2/org/apache/ignite/ignite-core/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/ignite-core/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.1.0",
+    "From":              "2.0.0",
+    "BC":                "98.1%",
+    "Added":             188,
+    "Removed":           8,
+    "TotalProblems":     6,
+    "Src_BC":            "87.9%",
+    "Src_TotalProblems": 40,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.0.0",
+    "From":              "1.9.0",
+    "BC":                "63.7%",
+    "Added":             676,
+    "Removed":           574,
+    "TotalProblems":     399,
+    "Src_BC":            "62.1%",
+    "Src_TotalProblems": 295,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.9.0",
+    "From":              "1.8.0",
+    "BC":                "99.2%",
+    "Added":             37,
+    "Removed":           4,
+    "TotalProblems":     2,
+    "Src_BC":            "99%",
+    "Src_TotalProblems": 4,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.8.0",
+    "From":              "1.7.0",
+    "BC":                "96.8%",
+    "Added":             155,
+    "Removed":           6,
+    "TotalProblems":     15,
+    "Src_BC":            "90.8%",
+    "Src_TotalProblems": 31,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

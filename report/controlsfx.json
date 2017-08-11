@@ -1,0 +1,99 @@
+{
+  "Title":      "ControlsFX",
+  "SourceUrl":  "http://central.maven.org/maven2/org/controlsfx/controlsfx/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/controlsfx/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "8.40.13",
+    "From":              "8.40.12",
+    "BC":                "98.1%",
+    "Added":             146,
+    "Removed":           4,
+    "TotalProblems":     13,
+    "Src_BC":            "94.1%",
+    "Src_TotalProblems": 13,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8.40.12",
+    "From":              "8.40.11",
+    "BC":                "100%",
+    "Added":             17,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8.40.11",
+    "From":              "8.40.10",
+    "BC":                "100%",
+    "Added":             48,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8.40.10",
+    "From":              "8.40.9",
+    "BC":                "92.2%",
+    "Added":             66,
+    "Removed":           99,
+    "TotalProblems":     6,
+    "Src_BC":            "87.9%",
+    "Src_TotalProblems": 12,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8.40.9",
+    "From":              "8.20.9",
+    "BC":                "100%",
+    "Added":             15,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8.20.9",
+    "From":              "8.20.8",
+    "BC":                "97%",
+    "Added":             105,
+    "Removed":           24,
+    "TotalProblems":     26,
+    "Src_BC":            "95.2%",
+    "Src_TotalProblems": 29,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8.20.8",
+    "From":              "8.20.7",
+    "BC":                "100%",
+    "Added":             32,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}
