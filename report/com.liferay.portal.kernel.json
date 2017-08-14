@@ -1,0 +1,60 @@
+{
+  "Title":      "Liferay Portal Kernel",
+  "SourceUrl":  "http://central.maven.org/maven2/com/liferay/portal/com.liferay.portal.kernel/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/com.liferay.portal.kernel/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.40.0",
+    "From":              "2.30.0",
+    "BC":                "99.7%",
+    "Added":             267,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "Src_BC":            "97%",
+    "Src_TotalProblems": 104,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.30.0",
+    "From":              "2.20.0",
+    "BC":                "99.8%",
+    "Added":             306,
+    "Removed":           1,
+    "TotalProblems":     7,
+    "Src_BC":            "96.6%",
+    "Src_TotalProblems": 115,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.20.0",
+    "From":              "2.10.0",
+    "BC":                "99.9%",
+    "Added":             175,
+    "Removed":           3,
+    "TotalProblems":     5,
+    "Src_BC":            "97.7%",
+    "Src_TotalProblems": 52,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.10.0",
+    "From":              "2.0.0",
+    "BC":                "99.99%",
+    "Added":             854,
+    "Removed":           0,
+    "TotalProblems":     20,
+    "Src_BC":            "97%",
+    "Src_TotalProblems": 208,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

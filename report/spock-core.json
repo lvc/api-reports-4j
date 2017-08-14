@@ -1,0 +1,112 @@
+{
+  "Title":      "Spock Framework Core",
+  "SourceUrl":  "http://central.maven.org/maven2/org/spockframework/spock-core/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/spock-core/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.1",
+    "From":              "1.0",
+    "BC":                "89%",
+    "Added":             151,
+    "Removed":           62,
+    "TotalProblems":     19,
+    "Src_BC":            "86.7%",
+    "Src_TotalProblems": 22,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.0",
+    "From":              "0.7",
+    "BC":                "81.9%",
+    "Added":             362,
+    "Removed":           57,
+    "TotalProblems":     28,
+    "Src_BC":            "78.8%",
+    "Src_TotalProblems": 35,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.7",
+    "From":              "0.6",
+    "BC":                "80%",
+    "Added":             490,
+    "Removed":           177,
+    "TotalProblems":     62,
+    "Src_BC":            "78.8%",
+    "Src_TotalProblems": 66,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.6",
+    "From":              "0.5",
+    "BC":                "89.8%",
+    "Added":             153,
+    "Removed":           61,
+    "TotalProblems":     38,
+    "Src_BC":            "86.3%",
+    "Src_TotalProblems": 40,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.5",
+    "From":              "0.4",
+    "BC":                "91.2%",
+    "Added":             197,
+    "Removed":           33,
+    "TotalProblems":     17,
+    "Src_BC":            "90.7%",
+    "Src_TotalProblems": 12,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.4",
+    "From":              "0.3",
+    "BC":                "69.6%",
+    "Added":             492,
+    "Removed":           183,
+    "TotalProblems":     75,
+    "Src_BC":            "68.1%",
+    "Src_TotalProblems": 76,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.3",
+    "From":              "0.2",
+    "BC":                "69%",
+    "Added":             327,
+    "Removed":           167,
+    "TotalProblems":     48,
+    "Src_BC":            "67.5%",
+    "Src_TotalProblems": 56,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.2",
+    "From":              "0.1",
+    "BC":                "80%",
+    "Added":             193,
+    "Removed":           95,
+    "TotalProblems":     28,
+    "Src_BC":            "77.5%",
+    "Src_TotalProblems": 30,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}
