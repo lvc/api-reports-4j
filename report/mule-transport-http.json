@@ -1,0 +1,99 @@
+{
+  "Title":      "Mule HTTP Transport",
+  "SourceUrl":  "https://repository.mulesoft.org/nexus/content/repositories/releases/org/mule/transports/mule-transport-http/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/mule-transport-http/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "4.0.0-M5.1",
+    "From":              "3.8.1",
+    "BC":                "8.2%",
+    "Added":             653,
+    "Removed":           757,
+    "TotalProblems":     77,
+    "Src_BC":            "8.2%",
+    "Src_TotalProblems": 77,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.8.1",
+    "From":              "3.8.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.8.0",
+    "From":              "3.7.0",
+    "BC":                "99.6%",
+    "Added":             71,
+    "Removed":           3,
+    "TotalProblems":     0,
+    "Src_BC":            "99.6%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.7.0",
+    "From":              "3.6.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.6.1",
+    "From":              "3.6.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.6.0",
+    "From":              "3.5.1",
+    "BC":                "98.9%",
+    "Added":             15,
+    "Removed":           6,
+    "TotalProblems":     4,
+    "Src_BC":            "98.8%",
+    "Src_TotalProblems": 4,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.5.1",
+    "From":              "3.5.0",
+    "BC":                "100%",
+    "Added":             7,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

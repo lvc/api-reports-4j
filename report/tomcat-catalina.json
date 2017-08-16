@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "9.0.0.M26",
+    "From":              "8.5.20",
+    "BC":                "71.3%",
+    "Added":             61,
+    "Removed":           134,
+    "TotalProblems":     119,
+    "Src_BC":            "66.1%",
+    "Src_TotalProblems": 110,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "8.5.20",
     "From":              "8.5.19",
     "BC":                "100%",

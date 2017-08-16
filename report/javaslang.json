@@ -1,0 +1,99 @@
+{
+  "Title":      "Javaslang",
+  "SourceUrl":  "http://central.maven.org/maven2/io/javaslang/javaslang/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/javaslang/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.1.0-alpha",
+    "From":              "2.0.6",
+    "BC":                "63.7%",
+    "Added":             1904,
+    "Removed":           404,
+    "TotalProblems":     109,
+    "Src_BC":            "63.5%",
+    "Src_TotalProblems": 215,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.0.6",
+    "From":              "2.0.5",
+    "BC":                "100%",
+    "Added":             10,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "87.9%",
+    "Src_TotalProblems": 8,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.0.5",
+    "From":              "2.0.4",
+    "BC":                "99.96%",
+    "Added":             12,
+    "Removed":           2,
+    "TotalProblems":     0,
+    "Src_BC":            "99.96%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.0.4",
+    "From":              "2.0.3",
+    "BC":                "97.4%",
+    "Added":             177,
+    "Removed":           8,
+    "TotalProblems":     10,
+    "Src_BC":            "89.4%",
+    "Src_TotalProblems": 7,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.0.3",
+    "From":              "2.0.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.0.2",
+    "From":              "2.0.1",
+    "BC":                "100%",
+    "Added":             12,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.0.1",
+    "From":              "2.0.0",
+    "BC":                "99.9%",
+    "Added":             2,
+    "Removed":           4,
+    "TotalProblems":     0,
+    "Src_BC":            "99.9%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}
