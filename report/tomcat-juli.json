@@ -215,13 +215,26 @@
   },
   {
     "Version":           "8.5.0",
-    "From":              "8.0.45",
+    "From":              "8.0.46",
     "BC":                "97.4%",
     "Added":             0,
     "Removed":           2,
     "TotalProblems":     1,
     "Src_BC":            "87%",
     "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8.0.46",
+    "From":              "8.0.45",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

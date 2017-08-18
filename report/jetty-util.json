@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "9.4.7.RC0",
+    "From":              "9.4.6.v20170531",
+    "BC":                "99.1%",
+    "Added":             20,
+    "Removed":           12,
+    "TotalProblems":     4,
+    "Src_BC":            "98.6%",
+    "Src_TotalProblems": 5,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "9.4.6.v20170531",
     "From":              "9.4.5.v20170502",
     "BC":                "100%",

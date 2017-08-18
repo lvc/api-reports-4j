@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "6.0.0-beta1",
-    "From":              "5.5.1",
+    "From":              "5.5.2",
     "BC":                "79.5%",
-    "Added":             1926,
-    "Removed":           2754,
-    "TotalProblems":     696,
+    "Added":             1924,
+    "Removed":           2755,
+    "TotalProblems":     698,
     "Src_BC":            "77.9%",
-    "Src_TotalProblems": 719,
+    "Src_TotalProblems": 721,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.5.2",
+    "From":              "5.5.1",
+    "BC":                "99%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "Src_BC":            "99%",
+    "Src_TotalProblems": 2,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
