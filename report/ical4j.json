@@ -1,0 +1,34 @@
+{
+  "Title":      "Ical4j",
+  "SourceUrl":  "http://central.maven.org/maven2/org/mnode/ical4j/ical4j/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/ical4j/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.0.3",
+    "From":              "2.0.2",
+    "BC":                "88.7%",
+    "Added":             68,
+    "Removed":           14,
+    "TotalProblems":     102,
+    "Src_BC":            "88.7%",
+    "Src_TotalProblems": 62,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.0.2",
+    "From":              "2.0.0",
+    "BC":                "87.7%",
+    "Added":             55,
+    "Removed":           7,
+    "TotalProblems":     100,
+    "Src_BC":            "87.7%",
+    "Src_TotalProblems": 58,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

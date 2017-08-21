@@ -1,0 +1,60 @@
+{
+  "Title":      "PlantUML",
+  "SourceUrl":  "http://central.maven.org/maven2/net/sourceforge/plantuml/plantuml/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/plantuml/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "8050",
+    "From":              8040,
+    "BC":                "94.9%",
+    "Added":             526,
+    "Removed":           253,
+    "TotalProblems":     75,
+    "Src_BC":            "94.8%",
+    "Src_TotalProblems": 77,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8040",
+    "From":              8030,
+    "BC":                "94%",
+    "Added":             5113,
+    "Removed":           179,
+    "TotalProblems":     60,
+    "Src_BC":            "92.9%",
+    "Src_TotalProblems": 54,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8030",
+    "From":              8020,
+    "BC":                "91.7%",
+    "Added":             922,
+    "Removed":           338,
+    "TotalProblems":     131,
+    "Src_BC":            "90.3%",
+    "Src_TotalProblems": 125,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8020",
+    "From":              8010,
+    "BC":                "95.1%",
+    "Added":             233,
+    "Removed":           94,
+    "TotalProblems":     56,
+    "Src_BC":            "95%",
+    "Src_TotalProblems": 39,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}
