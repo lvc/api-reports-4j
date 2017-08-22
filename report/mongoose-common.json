@@ -1,0 +1,60 @@
+{
+  "Title":      "Mongoose Common",
+  "SourceUrl":  "http://central.maven.org/maven2/com/github/emc-mongoose/mongoose-common/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/mongoose-common/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.5.0",
+    "From":              "3.4.1",
+    "BC":                "99.6%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "Src_BC":            "99.5%",
+    "Src_TotalProblems": 5,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.4.1",
+    "From":              "3.4.0",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "Src_BC":            "99.5%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.4.0",
+    "From":              "3.3.1",
+    "BC":                "99.9%",
+    "Added":             8,
+    "Removed":           1,
+    "TotalProblems":     1,
+    "Src_BC":            "99.9%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.3.1",
+    "From":              "3.3.0",
+    "BC":                "99.4%",
+    "Added":             11,
+    "Removed":           3,
+    "TotalProblems":     2,
+    "Src_BC":            "99.4%",
+    "Src_TotalProblems": 3,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}

@@ -1,0 +1,112 @@
+{
+  "Title":      "HtmlUnit",
+  "SourceUrl":  "http://central.maven.org/maven2/net/sourceforge/htmlunit/htmlunit/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/htmlunit/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.27",
+    "From":              "2.26",
+    "BC":                "94.3%",
+    "Added":             1400,
+    "Removed":           184,
+    "TotalProblems":     117,
+    "Src_BC":            "93.1%",
+    "Src_TotalProblems": 46,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.26",
+    "From":              "2.25",
+    "BC":                "89.2%",
+    "Added":             46,
+    "Removed":           35,
+    "TotalProblems":     53,
+    "Src_BC":            "88%",
+    "Src_TotalProblems": 50,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.25",
+    "From":              "2.24",
+    "BC":                "93%",
+    "Added":             277,
+    "Removed":           141,
+    "TotalProblems":     59,
+    "Src_BC":            "92.5%",
+    "Src_TotalProblems": 29,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.24",
+    "From":              "2.23",
+    "BC":                "97.7%",
+    "Added":             127,
+    "Removed":           71,
+    "TotalProblems":     83,
+    "Src_BC":            "95%",
+    "Src_TotalProblems": 68,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.23",
+    "From":              "2.22",
+    "BC":                "99.9%",
+    "Added":             11,
+    "Removed":           3,
+    "TotalProblems":     32,
+    "Src_BC":            "99.9%",
+    "Src_TotalProblems": 4,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.22",
+    "From":              "2.21",
+    "BC":                "97.3%",
+    "Added":             92,
+    "Removed":           55,
+    "TotalProblems":     29,
+    "Src_BC":            "94.4%",
+    "Src_TotalProblems": 26,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.21",
+    "From":              "2.20",
+    "BC":                "90.3%",
+    "Added":             180,
+    "Removed":           519,
+    "TotalProblems":     76,
+    "Src_BC":            "90.1%",
+    "Src_TotalProblems": 51,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.20",
+    "From":              "2.19",
+    "BC":                "95.2%",
+    "Added":             94,
+    "Removed":           191,
+    "TotalProblems":     268,
+    "Src_BC":            "94.6%",
+    "Src_TotalProblems": 227,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}
