@@ -21,12 +21,12 @@
   {
     "Version":           "0.5",
     "From":              "0.4.1",
-    "BC":                "67.1%",
+    "BC":                "67.6%",
     "Added":             194,
     "Removed":           52,
-    "TotalProblems":     20,
-    "Src_BC":            "56.2%",
-    "Src_TotalProblems": 16,
+    "TotalProblems":     21,
+    "Src_BC":            "56.4%",
+    "Src_TotalProblems": 17,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -47,12 +47,12 @@
   {
     "Version":           "0.4",
     "From":              "0.3",
-    "BC":                "68.8%",
+    "BC":                "68.3%",
     "Added":             148,
     "Removed":           49,
-    "TotalProblems":     14,
-    "Src_BC":            "61.8%",
-    "Src_TotalProblems": 14,
+    "TotalProblems":     15,
+    "Src_BC":            "61.6%",
+    "Src_TotalProblems": 15,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

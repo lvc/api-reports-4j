@@ -193,9 +193,9 @@
     "BC":                "0%",
     "Added":             10,
     "Removed":           4,
-    "TotalProblems":     0,
+    "TotalProblems":     4,
     "Src_BC":            "0%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 4,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

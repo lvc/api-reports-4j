@@ -86,11 +86,11 @@
   {
     "Version":           "1.2",
     "From":              "1.1.1",
-    "BC":                "98.9%",
+    "BC":                "100%",
     "Added":             50,
     "Removed":           0,
     "TotalProblems":     6,
-    "Src_BC":            "98.6%",
+    "Src_BC":            "99.6%",
     "Src_TotalProblems": 2,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

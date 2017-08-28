@@ -8,12 +8,12 @@
   {
     "Version":           "0.11.0",
     "From":              "0.10.0",
-    "BC":                "91.6%",
+    "BC":                "93.9%",
     "Added":             2064,
     "Removed":           294,
-    "TotalProblems":     241,
-    "Src_BC":            "90.5%",
-    "Src_TotalProblems": 143,
+    "TotalProblems":     245,
+    "Src_BC":            "92.8%",
+    "Src_TotalProblems": 147,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

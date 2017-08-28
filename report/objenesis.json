@@ -99,12 +99,12 @@
   {
     "Version":           "2.0",
     "From":              "1.4",
-    "BC":                "32.9%",
-    "Added":             36,
-    "Removed":           44,
-    "TotalProblems":     24,
-    "Src_BC":            "32.9%",
-    "Src_TotalProblems": 24,
+    "BC":                "41.1%",
+    "Added":             0,
+    "Removed":           8,
+    "TotalProblems":     25,
+    "Src_BC":            "41.1%",
+    "Src_TotalProblems": 26,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

@@ -60,12 +60,12 @@
   {
     "Version":           "1.6.0",
     "From":              "1.5.6",
-    "BC":                "99.1%",
-    "Added":             23,
-    "Removed":           10,
-    "TotalProblems":     1,
-    "Src_BC":            "97.5%",
-    "Src_TotalProblems": 3,
+    "BC":                "99.6%",
+    "Added":             21,
+    "Removed":           2,
+    "TotalProblems":     10,
+    "Src_BC":            "98.1%",
+    "Src_TotalProblems": 6,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

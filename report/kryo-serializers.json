@@ -294,11 +294,11 @@
   {
     "Version":           "0.20",
     "From":              "0.11",
-    "BC":                "6.40%",
+    "BC":                "10.2%",
     "Added":             94,
     "Removed":           106,
     "TotalProblems":     16,
-    "Src_BC":            "6.40%",
+    "Src_BC":            "10.2%",
     "Src_TotalProblems": 16,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

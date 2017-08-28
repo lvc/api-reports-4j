@@ -86,11 +86,11 @@
   {
     "Version":           "2.3.28",
     "From":              "2.3.24.3",
-    "BC":                "99.6%",
+    "BC":                "99.8%",
     "Added":             6,
     "Removed":           3,
     "TotalProblems":     3,
-    "Src_BC":            "99.6%",
+    "Src_BC":            "99.8%",
     "Src_TotalProblems": 2,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

@@ -206,9 +206,9 @@
     "BC":                "61.1%",
     "Added":             61,
     "Removed":           29,
-    "TotalProblems":     27,
+    "TotalProblems":     29,
     "Src_BC":            "60.8%",
-    "Src_TotalProblems": 27,
+    "Src_TotalProblems": 29,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -229,12 +229,12 @@
   {
     "Version":           "0.9.1",
     "From":              "0.9.0",
-    "BC":                "93%",
+    "BC":                "92.8%",
     "Added":             7,
     "Removed":           0,
-    "TotalProblems":     2,
-    "Src_BC":            "86%",
-    "Src_TotalProblems": 2,
+    "TotalProblems":     3,
+    "Src_BC":            "85.9%",
+    "Src_TotalProblems": 3,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

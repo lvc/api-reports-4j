@@ -73,11 +73,11 @@
   {
     "Version":           "1.5",
     "From":              "1.4",
-    "BC":                "74.8%",
+    "BC":                "76.1%",
     "Added":             52,
     "Removed":           0,
     "TotalProblems":     22,
-    "Src_BC":            "74.8%",
+    "Src_BC":            "76.1%",
     "Src_TotalProblems": 9,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

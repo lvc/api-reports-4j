@@ -9,7 +9,7 @@
     "Version":           "1.7.7.2",
     "From":              "1.7.7.1",
     "BC":                "97.4%",
-    "Added":             97,
+    "Added":             104,
     "Removed":           3,
     "TotalProblems":     114,
     "Src_BC":            "99.9%",

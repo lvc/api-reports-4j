@@ -8,7 +8,7 @@
   {
     "Version":           "1.7",
     "From":              "1.6.4",
-    "BC":                "85.7%",
+    "BC":                "85.8%",
     "Added":             100,
     "Removed":           23,
     "TotalProblems":     70,
@@ -73,11 +73,11 @@
   {
     "Version":           "1.6",
     "From":              "1.5",
-    "BC":                "73.2%",
+    "BC":                "73.5%",
     "Added":             272,
     "Removed":           143,
     "TotalProblems":     54,
-    "Src_BC":            "67.4%",
+    "Src_BC":            "67.7%",
     "Src_TotalProblems": 31,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

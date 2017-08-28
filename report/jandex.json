@@ -125,12 +125,12 @@
   {
     "Version":           "1.1.0",
     "From":              "1.0.4",
-    "BC":                "99.2%",
+    "BC":                "96.7%",
     "Added":             30,
     "Removed":           0,
-    "TotalProblems":     1,
-    "Src_BC":            "99.2%",
-    "Src_TotalProblems": 1,
+    "TotalProblems":     4,
+    "Src_BC":            "98%",
+    "Src_TotalProblems": 4,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

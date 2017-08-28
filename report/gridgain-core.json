@@ -47,10 +47,10 @@
   {
     "Version":           "6.6.5",
     "From":              "6.6.4",
-    "BC":                "99.96%",
+    "BC":                "99.9%",
     "Added":             32,
     "Removed":           6,
-    "TotalProblems":     3,
+    "TotalProblems":     4,
     "Src_BC":            "98.3%",
     "Src_TotalProblems": 7,
     "ArchivesAdded":     0,

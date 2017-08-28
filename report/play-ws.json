@@ -268,12 +268,12 @@
   {
     "Version":           "2.5.0",
     "From":              "2.4.11",
-    "BC":                "75%",
+    "BC":                "76.8%",
     "Added":             294,
     "Removed":           172,
-    "TotalProblems":     20,
-    "Src_BC":            "74%",
-    "Src_TotalProblems": 25,
+    "TotalProblems":     27,
+    "Src_BC":            "75.8%",
+    "Src_TotalProblems": 32,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -424,12 +424,12 @@
   {
     "Version":           "2.4.0",
     "From":              "2.3.10",
-    "BC":                "59.9%",
+    "BC":                "60.5%",
     "Added":             383,
     "Removed":           419,
-    "TotalProblems":     45,
-    "Src_BC":            "58.8%",
-    "Src_TotalProblems": 86,
+    "TotalProblems":     80,
+    "Src_BC":            "59.5%",
+    "Src_TotalProblems": 121,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

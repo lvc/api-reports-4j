@@ -112,11 +112,11 @@
   {
     "Version":           "20131018",
     "From":              20090211,
-    "BC":                "95.1%",
+    "BC":                "96.2%",
     "Added":             63,
     "Removed":           7,
     "TotalProblems":     3,
-    "Src_BC":            "94.8%",
+    "Src_BC":            "95.9%",
     "Src_TotalProblems": 3,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

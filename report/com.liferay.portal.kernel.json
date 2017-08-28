@@ -47,12 +47,12 @@
   {
     "Version":           "2.10.0",
     "From":              "2.0.0",
-    "BC":                "99.99%",
+    "BC":                "99.7%",
     "Added":             854,
     "Removed":           0,
-    "TotalProblems":     20,
-    "Src_BC":            "97%",
-    "Src_TotalProblems": 208,
+    "TotalProblems":     244,
+    "Src_BC":            "96.9%",
+    "Src_TotalProblems": 432,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

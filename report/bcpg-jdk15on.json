@@ -115,9 +115,9 @@
     "BC":                "99.1%",
     "Added":             35,
     "Removed":           5,
-    "TotalProblems":     2,
+    "TotalProblems":     4,
     "Src_BC":            "99.1%",
-    "Src_TotalProblems": 2,
+    "Src_TotalProblems": 4,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -154,9 +154,9 @@
     "BC":                "99.3%",
     "Added":             221,
     "Removed":           4,
-    "TotalProblems":     0,
+    "TotalProblems":     1,
     "Src_BC":            "99.3%",
-    "Src_TotalProblems": 0,
+    "Src_TotalProblems": 1,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

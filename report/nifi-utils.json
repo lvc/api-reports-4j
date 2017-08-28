@@ -60,11 +60,11 @@
   {
     "Version":           "1.1.0",
     "From":              "1.0.1",
-    "BC":                "91.5%",
+    "BC":                "91.8%",
     "Added":             50,
     "Removed":           33,
     "TotalProblems":     4,
-    "Src_BC":            "91.5%",
+    "Src_BC":            "91.8%",
     "Src_TotalProblems": 4,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

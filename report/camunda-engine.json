@@ -86,7 +86,7 @@
   {
     "Version":           "7.2.0",
     "From":              "7.1.0",
-    "BC":                "98.2%",
+    "BC":                "99.1%",
     "Added":             620,
     "Removed":           2,
     "TotalProblems":     3,

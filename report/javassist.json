@@ -26,7 +26,7 @@
     "Removed":           7,
     "TotalProblems":     11,
     "Src_BC":            "95.7%",
-    "Src_TotalProblems": 4,
+    "Src_TotalProblems": 5,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -112,12 +112,12 @@
   {
     "Version":           "3.17.0",
     "From":              "3.16.1",
-    "BC":                "96.7%",
+    "BC":                "96.8%",
     "Added":             120,
     "Removed":           53,
-    "TotalProblems":     33,
-    "Src_BC":            "95.9%",
-    "Src_TotalProblems": 21,
+    "TotalProblems":     34,
+    "Src_BC":            "96%",
+    "Src_TotalProblems": 22,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

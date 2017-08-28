@@ -76,9 +76,9 @@
     "BC":                "86.9%",
     "Added":             161,
     "Removed":           63,
-    "TotalProblems":     41,
+    "TotalProblems":     43,
     "Src_BC":            "76.8%",
-    "Src_TotalProblems": 44,
+    "Src_TotalProblems": 46,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -112,12 +112,12 @@
   {
     "Version":           "9.4.1210",
     "From":              "9.4.1209",
-    "BC":                "87.3%",
+    "BC":                "87.2%",
     "Added":             191,
     "Removed":           80,
-    "TotalProblems":     56,
+    "TotalProblems":     61,
     "Src_BC":            "85.9%",
-    "Src_TotalProblems": 74,
+    "Src_TotalProblems": 79,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
