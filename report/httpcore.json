@@ -6,16 +6,16 @@
 
   "Reports": [
   {
-    "Version":           "5.0-alpha3",
+    "Version":           "5.0-alpha4",
     "From":              "4.4.6",
     "BC":                "0%",
-    "Added":             1686,
-    "Removed":           1099,
-    "TotalProblems":     178,
+    "Added":             1716,
+    "Removed":           1009,
+    "TotalProblems":     172,
     "Src_BC":            "0%",
-    "Src_TotalProblems": 179,
+    "Src_TotalProblems": 173,
     "ArchivesAdded":     2,
-    "ArchivesRemoved":   1,
+    "ArchivesRemoved":   2,
     "TotalArchives":     3
   },
   {
