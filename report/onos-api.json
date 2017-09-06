@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "1.11.0-rc5",
-    "From":              "1.10.4",
+    "From":              "1.10.5",
     "BC":                "97%",
     "Added":             568,
     "Removed":           98,
     "TotalProblems":     70,
     "Src_BC":            "89.3%",
     "Src_TotalProblems": 76,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.10.5",
+    "From":              "1.10.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
