@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "1.9.0-alpha20",
+    "Version":           "1.9.0-beta1",
     "From":              "1.8.0",
     "BC":                "98.2%",
-    "Added":             97,
+    "Added":             101,
     "Removed":           24,
     "TotalProblems":     102,
     "Src_BC":            "98.1%",
