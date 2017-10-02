@@ -1,7 +1,7 @@
 {
-  "Title":      "Configuration",
+  "Title":      "Airlift Configuration",
   "SourceUrl":  "http://central.maven.org/maven2/io/airlift/configuration/",
-  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/configuration/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/airlift-configuration/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
