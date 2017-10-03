@@ -6,11 +6,11 @@
 
   "Reports": [
   {
-    "Version":           "4.0.0-RC5",
+    "Version":           "4.0.0",
     "From":              "3.9.5",
     "BC":                "89.8%",
-    "Added":             0,
-    "Removed":           6,
+    "Added":             214,
+    "Removed":           9,
     "TotalProblems":     18,
     "Src_BC":            "89.8%",
     "Src_TotalProblems": 18,
