@@ -6,16 +6,16 @@
 
   "Reports": [
   {
-    "Version":           "18-RC1",
+    "Version":           "18.0",
     "From":              "17.2",
-    "BC":                "99.83%",
-    "Added":             247,
-    "Removed":           25,
+    "BC":                "99.74%",
+    "Added":             248,
+    "Removed":           26,
     "TotalProblems":     23,
-    "Src_BC":            "99.81%",
+    "Src_BC":            "99.72%",
     "Src_TotalProblems": 15,
     "ArchivesAdded":     5,
-    "ArchivesRemoved":   1,
+    "ArchivesRemoved":   2,
     "TotalArchives":     96
   },
   {
