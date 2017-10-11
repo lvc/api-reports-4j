@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "3.22.0-CR2",
+    "Version":           "3.22.0",
     "From":              "3.21.0",
     "BC":                "100%",
-    "Added":             9,
+    "Added":             14,
     "Removed":           0,
     "TotalProblems":     4,
     "Src_BC":            "99.96%",
