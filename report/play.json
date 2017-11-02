@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "2.6.6",
+    "Version":           "2.6.7",
     "From":              "2.5.18",
     "BC":                "68.3%",
-    "Added":             2866,
+    "Added":             2872,
     "Removed":           1316,
     "TotalProblems":     314,
     "Src_BC":            "65.6%",
