@@ -6,16 +6,16 @@
 
   "Reports": [
   {
-    "Version":           "9.4.8-SNAPSHOT",
+    "Version":           "SNAPSHOT",
     "From":              "9.4.7.v20170914",
-    "BC":                "99.11%",
-    "Added":             126,
-    "Removed":           31,
-    "TotalProblems":     14,
-    "Src_BC":            "98.86%",
-    "Src_TotalProblems": 15,
+    "BC":                "91.41%",
+    "Added":             596,
+    "Removed":           482,
+    "TotalProblems":     95,
+    "Src_BC":            "90.74%",
+    "Src_TotalProblems": 98,
     "ArchivesAdded":     2,
-    "ArchivesRemoved":   1,
+    "ArchivesRemoved":   2,
     "TotalArchives":     36
   },
   {
