@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "3.5.3-beta",
-    "From":              "3.4.10",
-    "BC":                "74.7%",
-    "Added":             851,
-    "Removed":           178,
-    "TotalProblems":     197,
-    "Src_BC":            "73.2%",
+    "From":              "3.4.11",
+    "BC":                "74.4%",
+    "Added":             844,
+    "Removed":           186,
+    "TotalProblems":     198,
+    "Src_BC":            "73%",
     "Src_TotalProblems": 180,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.4.11",
+    "From":              "3.4.10",
+    "BC":                "92.8%",
+    "Added":             15,
+    "Removed":           0,
+    "TotalProblems":     10,
+    "Src_BC":            "92.7%",
+    "Src_TotalProblems": 11,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

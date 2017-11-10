@@ -6,19 +6,6 @@
 
   "Reports": [
   {
-    "Version":           "3.0.0-M1",
-    "From":              "2.0.16",
-    "BC":                "0.20%",
-    "Added":             681,
-    "Removed":           3027,
-    "TotalProblems":     279,
-    "Src_BC":            "0.20%",
-    "Src_TotalProblems": 279,
-    "ArchivesAdded":     0,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     1
-  },
-  {
     "Version":           "2.0.16",
     "From":              "2.0.15",
     "BC":                "100%",
