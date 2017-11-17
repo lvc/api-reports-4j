@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "1.0.0",
-    "From":              "0.11.0.1",
+    "From":              "0.11.0.2",
     "BC":                "91.1%",
     "Added":             555,
     "Removed":           114,
     "TotalProblems":     416,
     "Src_BC":            "87.7%",
     "Src_TotalProblems": 404,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.11.0.2",
+    "From":              "0.11.0.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
