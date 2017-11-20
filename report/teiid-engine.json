@@ -20,7 +20,7 @@
   },
   {
     "Version":           "9.3.4",
-    "From":              "9.2.6",
+    "From":              "9.2.7",
     "BC":                "91.8%",
     "Added":             125,
     "Removed":           82,
@@ -32,7 +32,7 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "9.2.6",
+    "Version":           "9.2.7",
     "From":              "9.1.5",
     "BC":                "99.7%",
     "Added":             198,

@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "3.0.0-beta1",
+    "From":              "2.9.0",
+    "BC":                "83.7%",
+    "Added":             1073,
+    "Removed":           2981,
+    "TotalProblems":     350,
+    "Src_BC":            "83.2%",
+    "Src_TotalProblems": 391,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.9.0",
     "From":              "2.8.2",
-    "BC":                "94.7%",
-    "Added":             1789,
-    "Removed":           299,
-    "TotalProblems":     177,
-    "Src_BC":            "93.2%",
-    "Src_TotalProblems": 242,
+    "BC":                "97.2%",
+    "Added":             3696,
+    "Removed":           80,
+    "TotalProblems":     61,
+    "Src_BC":            "96.2%",
+    "Src_TotalProblems": 79,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
