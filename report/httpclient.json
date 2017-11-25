@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "5.0-alpha2",
+    "Version":           "5.0-alpha3",
     "From":              "4.5.3",
     "BC":                "0.09%",
-    "Added":             918,
+    "Added":             980,
     "Removed":           984,
     "TotalProblems":     200,
     "Src_BC":            "0.09%",
