@@ -85,13 +85,26 @@
   },
   {
     "Version":           "6.0.2",
-    "From":              "5.1.44",
+    "From":              "5.1.45",
     "BC":                "0%",
     "Added":             5348,
     "Removed":           5914,
     "TotalProblems":     269,
     "Src_BC":            "0%",
     "Src_TotalProblems": 269,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.1.45",
+    "From":              "5.1.44",
+    "BC":                "96.9%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "Src_BC":            "96.9%",
+    "Src_TotalProblems": 2,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
