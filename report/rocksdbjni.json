@@ -6,8 +6,8 @@
 
   "Reports": [
   {
-    "Version":           "5.8.6",
-    "From":              "5.7.3",
+    "Version":           "5.8.7",
+    "From":              "5.7.5",
     "BC":                "100%",
     "Added":             4,
     "Removed":           0,
@@ -19,7 +19,7 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "5.7.3",
+    "Version":           "5.7.5",
     "From":              "5.6.1",
     "BC":                "92.5%",
     "Added":             25,

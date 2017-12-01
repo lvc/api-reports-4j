@@ -7,14 +7,27 @@
   "Reports": [
   {
     "Version":           "5.0-alpha3",
-    "From":              "4.5.3",
+    "From":              "4.5.4",
     "BC":                "0.09%",
     "Added":             980,
-    "Removed":           984,
-    "TotalProblems":     200,
+    "Removed":           992,
+    "TotalProblems":     203,
     "Src_BC":            "0.09%",
-    "Src_TotalProblems": 200,
+    "Src_TotalProblems": 203,
     "ArchivesAdded":     2,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     2
+  },
+  {
+    "Version":           "4.5.4",
+    "From":              "4.5.3",
+    "BC":                "100%",
+    "Added":             8,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     2
   },
