@@ -1,0 +1,112 @@
+{
+  "Title":      "Activiti",
+  "SourceUrl":  "https://github.com/Activiti/Activiti/releases",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/activiti/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "6.0.0",
+    "From":              "5.22.0",
+    "BC":                "59.13%",
+    "Added":             725,
+    "Removed":           180,
+    "TotalProblems":     100,
+    "Src_BC":            "54.73%",
+    "Src_TotalProblems": 232,
+    "ArchivesAdded":     25,
+    "ArchivesRemoved":   6,
+    "TotalArchives":     22
+  },
+  {
+    "Version":           "5.22.0",
+    "From":              "5.21.0",
+    "BC":                "99.97%",
+    "Added":             31,
+    "Removed":           1,
+    "TotalProblems":     2,
+    "Src_BC":            "99.87%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     22
+  },
+  {
+    "Version":           "5.21.0",
+    "From":              "5.20.0",
+    "BC":                "98.26%",
+    "Added":             37,
+    "Removed":           7,
+    "TotalProblems":     16,
+    "Src_BC":            "93.04%",
+    "Src_TotalProblems": 21,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     22
+  },
+  {
+    "Version":           "5.20.0",
+    "From":              "5.19.0.2",
+    "BC":                "99.98%",
+    "Added":             41,
+    "Removed":           1,
+    "TotalProblems":     1,
+    "Src_BC":            "95.18%",
+    "Src_TotalProblems": 40,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     22
+  },
+  {
+    "Version":           "5.19.0.2",
+    "From":              "5.19.0",
+    "BC":                "99.98%",
+    "Added":             31,
+    "Removed":           1,
+    "TotalProblems":     2,
+    "Src_BC":            "96.43%",
+    "Src_TotalProblems": 25,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     22
+  },
+  {
+    "Version":           "5.19.0",
+    "From":              "5.18.0",
+    "BC":                "100%",
+    "Added":             51,
+    "Removed":           0,
+    "TotalProblems":     1,
+    "Src_BC":            "98.37%",
+    "Src_TotalProblems": 6,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     22
+  },
+  {
+    "Version":           "5.18.0",
+    "From":              "5.17.0",
+    "BC":                "98.87%",
+    "Added":             74,
+    "Removed":           10,
+    "TotalProblems":     19,
+    "Src_BC":            "95.50%",
+    "Src_TotalProblems": 20,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     22
+  },
+  {
+    "Version":           "5.17.0",
+    "From":              "5.16.4",
+    "BC":                "97.43%",
+    "Added":             437,
+    "Removed":           140,
+    "TotalProblems":     93,
+    "Src_BC":            "95.33%",
+    "Src_TotalProblems": 111,
+    "ArchivesAdded":     1,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     21
+  }]
+}

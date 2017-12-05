@@ -1,0 +1,47 @@
+{
+  "Title":      "Activiti Engine 7",
+  "SourceUrl":  "http://central.maven.org/maven2/org/activiti/activiti-engine/",
+  "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/org.activiti.engine/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "7-201711-EA",
+    "From":              "7-201710-EA",
+    "BC":                "100%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "98.2%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "7-201710-EA",
+    "From":              "7-201709-EA",
+    "BC":                "100%",
+    "Added":             8,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "90.9%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "7-201709-EA",
+    "From":              "7-201708-EA",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  }]
+}
