@@ -6,7 +6,20 @@
 
   "Reports": [
   {
-    "Version":           "1.12.0-rc3",
+    "Version":           "1.13.0-b5",
+    "From":              "1.12.0",
+    "BC":                "100%",
+    "Added":             10,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.12.0",
     "From":              "1.11.1",
     "BC":                "95.8%",
     "Added":             482,
