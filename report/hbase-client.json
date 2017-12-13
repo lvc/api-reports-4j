@@ -124,13 +124,26 @@
   },
   {
     "Version":           "1.2.0",
-    "From":              "1.1.12",
+    "From":              "1.1.13",
     "BC":                "91%",
     "Added":             146,
     "Removed":           82,
     "TotalProblems":     30,
     "Src_BC":            "87.7%",
     "Src_TotalProblems": 34,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.1.13",
+    "From":              "1.1.12",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

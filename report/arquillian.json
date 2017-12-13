@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "2017.12.0",
+    "From":              "2017.11.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "2017.11.0",
     "From":              "2017.10.1",
     "BC":                "100%",
@@ -300,6 +313,19 @@
     "TotalProblems":     0,
     "Src_BC":            "100%",
     "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2016.8",
+    "From":              "2012.12.0",
+    "BC":                "0%",
+    "Added":             55,
+    "Removed":           17,
+    "TotalProblems":     5,
+    "Src_BC":            "0%",
+    "Src_TotalProblems": 5,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
