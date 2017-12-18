@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "4.0.0.Alpha4",
+    "Version":           "4.0.0.Alpha5",
     "From":              "3.0.10",
     "BC":                "98%",
     "Added":             3,
     "Removed":           4,
-    "TotalProblems":     5,
-    "Src_BC":            "98%",
-    "Src_TotalProblems": 5,
+    "TotalProblems":     9,
+    "Src_BC":            "97%",
+    "Src_TotalProblems": 9,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
