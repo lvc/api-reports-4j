@@ -9,11 +9,11 @@
     "Version":           "SNAPSHOT",
     "From":              "0.9.1",
     "BC":                "63%",
-    "Added":             2673,
+    "Added":             2680,
     "Removed":           471,
     "TotalProblems":     95,
     "Src_BC":            "47.4%",
-    "Src_TotalProblems": 150,
+    "Src_TotalProblems": 152,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
