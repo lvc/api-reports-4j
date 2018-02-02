@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "3.4.0-alpha06",
+    "Version":           "3.4.0-alpha07",
     "From":              "3.3.2",
     "BC":                "99.3%",
-    "Added":             49,
+    "Added":             50,
     "Removed":           0,
     "TotalProblems":     1,
     "Src_BC":            "99.3%",
