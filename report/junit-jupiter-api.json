@@ -7,9 +7,22 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
+    "From":              "5.1.0-RC1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.1.0-RC1",
     "From":              "5.0.3",
     "BC":                "100%",
-    "Added":             15,
+    "Added":             24,
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "85.9%",

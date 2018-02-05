@@ -7,7 +7,7 @@
   "Reports": [
   {
     "Version":           "2.0.0-beta-1",
-    "From":              "1.4.0",
+    "From":              "1.4.1",
     "BC":                "0%",
     "Added":             0,
     "Removed":           0,
@@ -16,6 +16,19 @@
     "Src_TotalProblems": 0,
     "ArchivesAdded":     16,
     "ArchivesRemoved":   8,
+    "TotalArchives":     8
+  },
+  {
+    "Version":           "1.4.1",
+    "From":              "1.4.0",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
     "TotalArchives":     8
   },
   {
