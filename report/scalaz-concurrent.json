@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "7.3.0-M19",
+    "Version":           "7.3.0-M20",
     "From":              "7.2.19",
-    "BC":                "94.2%",
-    "Added":             2,
-    "Removed":           17,
-    "TotalProblems":     0,
-    "Src_BC":            "94.2%",
-    "Src_TotalProblems": 0,
+    "BC":                "91.8%",
+    "Added":             10,
+    "Removed":           19,
+    "TotalProblems":     5,
+    "Src_BC":            "92.6%",
+    "Src_TotalProblems": 5,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
