@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "1.1.8",
+    "From":              "1.1.7",
+    "BC":                "99.99%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     1,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "1.1.7",
     "From":              "1.1.6",
     "BC":                "99.5%",
@@ -176,13 +189,26 @@
   },
   {
     "Version":           "1.0.26",
-    "From":              "1.0.25.2017113001",
+    "From":              "1.0.25.2018021101",
     "BC":                "97.3%",
     "Added":             81,
-    "Removed":           45,
+    "Removed":           47,
     "TotalProblems":     14,
     "Src_BC":            "92.4%",
     "Src_TotalProblems": 15,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.0.25.2018021101",
+    "From":              "1.0.25.2017113001",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
