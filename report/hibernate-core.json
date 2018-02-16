@@ -6,11 +6,11 @@
 
   "Reports": [
   {
-    "Version":           "5.3.0.Beta2",
+    "Version":           "5.3.0.CR1",
     "From":              "5.2.13",
     "BC":                "96%",
-    "Added":             237,
-    "Removed":           102,
+    "Added":             244,
+    "Removed":           105,
     "TotalProblems":     67,
     "Src_BC":            "93.6%",
     "Src_TotalProblems": 88,

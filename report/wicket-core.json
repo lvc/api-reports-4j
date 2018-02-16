@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "8.0.0-M8",
-    "From":              "7.9.0",
+    "From":              "7.10.0",
     "BC":                "86.1%",
-    "Added":             238,
+    "Added":             226,
     "Removed":           512,
-    "TotalProblems":     134,
+    "TotalProblems":     124,
     "Src_BC":            "85.1%",
-    "Src_TotalProblems": 128,
+    "Src_TotalProblems": 129,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "7.10.0",
+    "From":              "7.9.0",
+    "BC":                "100%",
+    "Added":             13,
+    "Removed":           0,
+    "TotalProblems":     13,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

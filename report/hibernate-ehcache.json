@@ -6,7 +6,7 @@
 
   "Reports": [
   {
-    "Version":           "5.3.0.Beta2",
+    "Version":           "5.3.0.CR1",
     "From":              "5.2.13",
     "BC":                "99.8%",
     "Added":             3,
