@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "19-beta",
+    "From":              "18.2",
+    "BC":                "98.55%",
+    "Added":             240,
+    "Removed":           169,
+    "TotalProblems":     36,
+    "Src_BC":            "98.49%",
+    "Src_TotalProblems": 33,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     99
+  },
+  {
     "Version":           "18.2",
     "From":              "18.1",
     "BC":                "100%",
@@ -33,15 +46,28 @@
   },
   {
     "Version":           "18.0",
-    "From":              "17.4",
-    "BC":                "99.33%",
+    "From":              "17.5",
+    "BC":                "99.19%",
     "Added":             203,
-    "Removed":           46,
-    "TotalProblems":     35,
-    "Src_BC":            "99.31%",
-    "Src_TotalProblems": 27,
+    "Removed":           47,
+    "TotalProblems":     44,
+    "Src_BC":            "99.17%",
+    "Src_TotalProblems": 36,
     "ArchivesAdded":     5,
     "ArchivesRemoved":   1,
+    "TotalArchives":     95
+  },
+  {
+    "Version":           "17.5",
+    "From":              "17.4",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
     "TotalArchives":     95
   },
   {
