@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "4.0.0.Beta1",
+    "Version":           "4.0.0.Beta2",
     "From":              "3.1.4",
     "BC":                "99.7%",
-    "Added":             39,
+    "Added":             45,
     "Removed":           1,
-    "TotalProblems":     0,
+    "TotalProblems":     1,
     "Src_BC":            "90.4%",
     "Src_TotalProblems": 1,
     "ArchivesAdded":     0,
