@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "4.4.3",
+    "Version":           "4.4.4",
     "From":              "4.3.9",
     "BC":                "100%",
-    "Added":             0,
+    "Added":             1,
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "100%",

@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "5.3.0.CR1",
+    "From":              "5.2.14",
+    "BC":                "95.9%",
+    "Added":             241,
+    "Removed":           118,
+    "TotalProblems":     71,
+    "Src_BC":            "93.5%",
+    "Src_TotalProblems": 90,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.2.14",
     "From":              "5.2.13",
-    "BC":                "96%",
-    "Added":             244,
-    "Removed":           105,
-    "TotalProblems":     67,
-    "Src_BC":            "93.6%",
-    "Src_TotalProblems": 88,
+    "BC":                "99.97%",
+    "Added":             21,
+    "Removed":           3,
+    "TotalProblems":     3,
+    "Src_BC":            "99.97%",
+    "Src_TotalProblems": 1,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
