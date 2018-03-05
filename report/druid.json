@@ -189,13 +189,26 @@
   },
   {
     "Version":           "1.0.26",
-    "From":              "1.0.25.2018021101",
+    "From":              "1.0.25.2018030201",
     "BC":                "97.3%",
     "Added":             81,
-    "Removed":           47,
+    "Removed":           48,
     "TotalProblems":     14,
     "Src_BC":            "92.4%",
     "Src_TotalProblems": 15,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.0.25.2018030201",
+    "From":              "1.0.25.2018021101",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
