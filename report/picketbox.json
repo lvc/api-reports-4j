@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "5.0.3.Beta1",
+    "Version":           "5.0.3",
     "From":              "5.0.2",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "Src_BC":            "100%",
-    "Src_TotalProblems": 0,
+    "BC":                "93.6%",
+    "Added":             4,
+    "Removed":           2,
+    "TotalProblems":     3,
+    "Src_BC":            "93.6%",
+    "Src_TotalProblems": 3,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
