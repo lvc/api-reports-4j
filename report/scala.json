@@ -7,15 +7,28 @@
   "Reports": [
   {
     "Version":           "2.13.0-M3",
-    "From":              "2.12.4",
-    "BC":                "64.23%",
-    "Added":             1285,
-    "Removed":           8507,
-    "TotalProblems":     599,
-    "Src_BC":            "63.98%",
-    "Src_TotalProblems": 590,
+    "From":              "2.12.5",
+    "BC":                "63.78%",
+    "Added":             1103,
+    "Removed":           8669,
+    "TotalProblems":     624,
+    "Src_BC":            "63.56%",
+    "Src_TotalProblems": 623,
     "ArchivesAdded":     2,
     "ArchivesRemoved":   4,
+    "TotalArchives":     7
+  },
+  {
+    "Version":           "2.12.5",
+    "From":              "2.12.4",
+    "BC":                "99.00%",
+    "Added":             537,
+    "Removed":           176,
+    "TotalProblems":     90,
+    "Src_BC":            "98.85%",
+    "Src_TotalProblems": 96,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
     "TotalArchives":     7
   },
   {
