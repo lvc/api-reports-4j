@@ -7,14 +7,27 @@
   "Reports": [
   {
     "Version":           "3.0.0-alpha-1",
-    "From":              "2.4.14",
+    "From":              "2.4.15",
     "BC":                "94.81%",
-    "Added":             1019,
+    "Added":             1015,
     "Removed":           89,
-    "TotalProblems":     96,
+    "TotalProblems":     98,
     "Src_BC":            "94.77%",
     "Src_TotalProblems": 58,
     "ArchivesAdded":     1,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     16
+  },
+  {
+    "Version":           "2.4.15",
+    "From":              "2.4.14",
+    "BC":                "100%",
+    "Added":             4,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     16
   },
