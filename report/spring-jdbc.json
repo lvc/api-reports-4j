@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "5.0.5",
+    "From":              "5.0.4",
+    "BC":                "100%",
+    "Added":             15,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "5.0.4",
     "From":              "5.0.3",
     "BC":                "99.6%",
@@ -59,13 +72,26 @@
   },
   {
     "Version":           "5.0.0",
+    "From":              "4.3.15",
+    "BC":                "91.2%",
+    "Added":             14,
+    "Removed":           126,
+    "TotalProblems":     28,
+    "Src_BC":            "91.2%",
+    "Src_TotalProblems": 24,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.3.15",
     "From":              "4.3.14",
-    "BC":                "91.9%",
-    "Added":             12,
-    "Removed":           112,
-    "TotalProblems":     18,
-    "Src_BC":            "91.9%",
-    "Src_TotalProblems": 18,
+    "BC":                "99.6%",
+    "Added":             14,
+    "Removed":           0,
+    "TotalProblems":     6,
+    "Src_BC":            "99.6%",
+    "Src_TotalProblems": 3,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
