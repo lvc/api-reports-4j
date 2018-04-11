@@ -72,15 +72,28 @@
   },
   {
     "Version":           "5.0.0",
-    "From":              "4.3.15",
+    "From":              "4.3.16",
     "BC":                "87.55%",
     "Added":             1794,
-    "Removed":           2378,
+    "Removed":           2379,
     "TotalProblems":     389,
     "Src_BC":            "87.01%",
     "Src_TotalProblems": 370,
     "ArchivesAdded":     3,
     "ArchivesRemoved":   2,
+    "TotalArchives":     20
+  },
+  {
+    "Version":           "4.3.16",
+    "From":              "4.3.15",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
     "TotalArchives":     20
   },
   {
