@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "3.7.0-rc0",
+    "Version":           "3.8.0-beta1",
     "From":              "3.6.3",
-    "BC":                "97.6%",
-    "Added":             207,
-    "Removed":           17,
-    "TotalProblems":     13,
-    "Src_BC":            "92%",
-    "Src_TotalProblems": 13,
+    "BC":                "93.6%",
+    "Added":             354,
+    "Removed":           114,
+    "TotalProblems":     127,
+    "Src_BC":            "89.7%",
+    "Src_TotalProblems": 203,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

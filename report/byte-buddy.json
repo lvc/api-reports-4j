@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "1.8.5",
+    "Version":           "1.8.6",
     "From":              "1.7.11",
-    "BC":                "92.4%",
-    "Added":             421,
-    "Removed":           712,
-    "TotalProblems":     63,
-    "Src_BC":            "91.6%",
-    "Src_TotalProblems": 63,
+    "BC":                "91.6%",
+    "Added":             477,
+    "Removed":           733,
+    "TotalProblems":     74,
+    "Src_BC":            "90.1%",
+    "Src_TotalProblems": 73,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
