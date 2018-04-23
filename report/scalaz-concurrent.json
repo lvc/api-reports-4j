@@ -6,13 +6,13 @@
 
   "Reports": [
   {
-    "Version":           "7.3.0-M21",
+    "Version":           "7.3.0-M22",
     "From":              "7.2.21",
-    "BC":                "91.8%",
-    "Added":             10,
-    "Removed":           19,
+    "BC":                "90.4%",
+    "Added":             14,
+    "Removed":           23,
     "TotalProblems":     5,
-    "Src_BC":            "92.6%",
+    "Src_BC":            "91.2%",
     "Src_TotalProblems": 5,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
