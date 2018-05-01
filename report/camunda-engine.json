@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "7.9.0-alpha3",
+    "Version":           "7.9.0-alpha4",
     "From":              "7.8.0",
     "BC":                "100%",
-    "Added":             32,
+    "Added":             46,
     "Removed":           0,
     "TotalProblems":     0,
-    "Src_BC":            "85.9%",
-    "Src_TotalProblems": 23,
+    "Src_BC":            "83.4%",
+    "Src_TotalProblems": 34,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
