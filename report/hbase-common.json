@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "2.0.0-beta-2",
+    "Version":           "2.0.0",
     "From":              "1.4.4",
-    "BC":                "70.8%",
-    "Added":             1163,
-    "Removed":           322,
-    "TotalProblems":     128,
+    "BC":                "70%",
+    "Added":             1168,
+    "Removed":           326,
+    "TotalProblems":     129,
     "Src_BC":            "70.1%",
-    "Src_TotalProblems": 122,
+    "Src_TotalProblems": 124,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
