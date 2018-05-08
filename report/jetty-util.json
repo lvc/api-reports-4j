@@ -7,22 +7,22 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
-    "From":              "9.4.10.RC1",
-    "BC":                "89.8%",
+    "From":              "9.4.10.v20180503",
+    "BC":                "89.7%",
     "Added":             35,
-    "Removed":           117,
+    "Removed":           118,
     "TotalProblems":     25,
-    "Src_BC":            "89.8%",
+    "Src_BC":            "89.7%",
     "Src_TotalProblems": 22,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
   },
   {
-    "Version":           "9.4.10.RC1",
+    "Version":           "9.4.10.v20180503",
     "From":              "9.4.9.v20180320",
     "BC":                "99.7%",
-    "Added":             18,
+    "Added":             19,
     "Removed":           5,
     "TotalProblems":     4,
     "Src_BC":            "99.6%",
