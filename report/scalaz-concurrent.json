@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "7.3.0-M22",
-    "From":              "7.2.22",
+    "From":              "7.2.23",
     "BC":                "90.4%",
     "Added":             14,
     "Removed":           23,
     "TotalProblems":     5,
     "Src_BC":            "91.2%",
     "Src_TotalProblems": 5,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "7.2.23",
+    "From":              "7.2.22",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
