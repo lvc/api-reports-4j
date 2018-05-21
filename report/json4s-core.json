@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "3.6.0-M3",
-    "From":              "3.5.3",
-    "BC":                "93.5%",
+    "From":              "3.5.4",
+    "BC":                "93.4%",
     "Added":             22,
-    "Removed":           5,
-    "TotalProblems":     3,
-    "Src_BC":            "88.2%",
-    "Src_TotalProblems": 7,
+    "Removed":           6,
+    "TotalProblems":     4,
+    "Src_BC":            "88.1%",
+    "Src_TotalProblems": 8,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.5.4",
+    "From":              "3.5.3",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
