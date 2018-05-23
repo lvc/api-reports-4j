@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "8.0.0-M9",
+    "Version":           "8.0.0",
     "From":              "7.10.0",
     "BC":                "85.9%",
     "Added":             246,
-    "Removed":           525,
-    "TotalProblems":     135,
+    "Removed":           526,
+    "TotalProblems":     136,
     "Src_BC":            "78.4%",
     "Src_TotalProblems": 140,
     "ArchivesAdded":     0,

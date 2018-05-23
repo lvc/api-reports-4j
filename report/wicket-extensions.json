@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "8.0.0-M9",
+    "Version":           "8.0.0",
     "From":              "7.10.0",
-    "BC":                "90.2%",
-    "Added":             136,
-    "Removed":           30,
-    "TotalProblems":     17,
-    "Src_BC":            "90.2%",
-    "Src_TotalProblems": 16,
+    "BC":                "88.7%",
+    "Added":             154,
+    "Removed":           43,
+    "TotalProblems":     25,
+    "Src_BC":            "88.8%",
+    "Src_TotalProblems": 24,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "3.6.0-M3",
+    "Version":           "3.6.0-M4",
     "From":              "3.5.4",
-    "BC":                "93.4%",
-    "Added":             22,
-    "Removed":           6,
-    "TotalProblems":     4,
-    "Src_BC":            "88.1%",
-    "Src_TotalProblems": 8,
+    "BC":                "85.7%",
+    "Added":             31,
+    "Removed":           18,
+    "TotalProblems":     9,
+    "Src_BC":            "85.7%",
+    "Src_TotalProblems": 14,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
