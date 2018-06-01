@@ -41,8 +41,7 @@
     "Src_BC":            "100%",
     "Src_TotalProblems": 0,
     "ArchivesAdded":     1,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     0
+    "ArchivesRemoved":   0
   },
   {
     "Version":           "3.9.0",
@@ -54,8 +53,7 @@
     "Src_BC":            "0%",
     "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
-    "ArchivesRemoved":   1,
-    "TotalArchives":     1
+    "ArchivesRemoved":   1
   },
   {
     "Version":           "3.8.1",
