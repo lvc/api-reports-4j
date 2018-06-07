@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "28_r04",
+    "From":              "27_r03",
+    "BC":                "98.27%",
+    "Added":             1557,
+    "Removed":           722,
+    "TotalProblems":     178,
+    "Src_BC":            "97.79%",
+    "Src_TotalProblems": 68,
+    "ArchivesAdded":     3,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     4
+  },
+  {
     "Version":           "27_r03",
     "From":              "27_r01",
     "BC":                "100%",
