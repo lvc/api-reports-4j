@@ -8,12 +8,12 @@
   {
     "Version":           "SNAPSHOT",
     "From":              13878,
-    "BC":                "99.99%",
-    "Added":             6,
-    "Removed":           1,
+    "BC":                "99.9%",
+    "Added":             21,
+    "Removed":           15,
     "TotalProblems":     0,
-    "Src_BC":            "99.99%",
-    "Src_TotalProblems": 0,
+    "Src_BC":            "99.7%",
+    "Src_TotalProblems": 2,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

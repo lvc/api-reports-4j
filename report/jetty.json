@@ -488,15 +488,28 @@
   },
   {
     "Version":           "9.3.0.v20150612",
-    "From":              "9.2.24.v20180105",
-    "BC":                "84.74%",
+    "From":              "9.2.25.v20180606",
+    "BC":                "84.66%",
     "Added":             822,
-    "Removed":           772,
+    "Removed":           781,
     "TotalProblems":     257,
-    "Src_BC":            "82.52%",
-    "Src_TotalProblems": 246,
+    "Src_BC":            "82.43%",
+    "Src_TotalProblems": 247,
     "ArchivesAdded":     2,
     "ArchivesRemoved":   4,
+    "TotalArchives":     34
+  },
+  {
+    "Version":           "9.2.25.v20180606",
+    "From":              "9.2.24.v20180105",
+    "BC":                "100%",
+    "Added":             9,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
     "TotalArchives":     34
   },
   {
