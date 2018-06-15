@@ -7,7 +7,7 @@
   "Reports": [
   {
     "Version":           "3.0.2",
-    "From":              "2.2.35",
+    "From":              "2.2.36",
     "BC":                "63.8%",
     "Added":             25,
     "Removed":           30,
@@ -19,7 +19,7 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.2.35",
+    "Version":           "2.2.36",
     "From":              "2.1.25",
     "BC":                "95.2%",
     "Added":             195,
