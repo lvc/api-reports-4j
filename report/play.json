@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "2.7.0-M1",
+    "From":              "2.6.15",
+    "BC":                "91.7%",
+    "Added":             241,
+    "Removed":           186,
+    "TotalProblems":     27,
+    "Src_BC":            "90.4%",
+    "Src_TotalProblems": 38,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "2.6.15",
     "From":              "2.5.18",
     "BC":                "68.7%",
