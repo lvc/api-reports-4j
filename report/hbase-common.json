@@ -20,13 +20,26 @@
   },
   {
     "Version":           "2.0.0",
-    "From":              "1.4.4",
+    "From":              "1.4.5",
     "BC":                "70%",
     "Added":             1168,
     "Removed":           326,
     "TotalProblems":     129,
     "Src_BC":            "70.1%",
     "Src_TotalProblems": 124,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.4.5",
+    "From":              "1.4.4",
+    "BC":                "99.98%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     6,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

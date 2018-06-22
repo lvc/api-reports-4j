@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "6.0.0.Alpha1",
+    "Version":           "6.0.0.Alpha2",
     "From":              "5.0.0",
     "BC":                "100%",
-    "Added":             3,
+    "Added":             4,
     "Removed":           0,
-    "TotalProblems":     0,
+    "TotalProblems":     3,
     "Src_BC":            "100%",
     "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
