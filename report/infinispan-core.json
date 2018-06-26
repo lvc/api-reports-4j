@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "9.3.0.CR1",
+    "Version":           "9.3.0",
     "From":              "9.2.5",
-    "BC":                "90.5%",
-    "Added":             229,
-    "Removed":           179,
-    "TotalProblems":     65,
-    "Src_BC":            "88.8%",
-    "Src_TotalProblems": 94,
+    "BC":                "89.6%",
+    "Added":             338,
+    "Removed":           236,
+    "TotalProblems":     100,
+    "Src_BC":            "87.7%",
+    "Src_TotalProblems": 141,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

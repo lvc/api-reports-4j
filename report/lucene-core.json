@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
+    "From":              "7.4.0",
+    "BC":                "90.7%",
+    "Added":             317,
+    "Removed":           232,
+    "TotalProblems":     87,
+    "Src_BC":            "88.5%",
+    "Src_TotalProblems": 107,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "7.4.0",
     "From":              "7.3.1",
-    "BC":                "88.1%",
-    "Added":             425,
-    "Removed":           283,
-    "TotalProblems":     106,
-    "Src_BC":            "86.4%",
-    "Src_TotalProblems": 127,
+    "BC":                "96.8%",
+    "Added":             108,
+    "Removed":           48,
+    "TotalProblems":     27,
+    "Src_BC":            "96.8%",
+    "Src_TotalProblems": 24,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

@@ -33,7 +33,7 @@
   },
   {
     "Version":           "9.4.9.v20180320",
-    "From":              "9.4.8.v20171121",
+    "From":              "9.4.8.v20180619",
     "BC":                "100%",
     "Added":             1,
     "Removed":           0,
@@ -45,8 +45,21 @@
     "TotalArchives":     1
   },
   {
+    "Version":           "9.4.8.v20180619",
+    "From":              "9.4.8.v20171121",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "9.4.8.v20171121",
-    "From":              "9.4.7.v20170914",
+    "From":              "9.4.7.v20180619",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -58,7 +71,33 @@
     "TotalArchives":     1
   },
   {
+    "Version":           "9.4.7.v20180619",
+    "From":              "9.4.7.v20170914",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "9.4.7.v20170914",
+    "From":              "9.4.6.v20180619",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.6.v20180619",
     "From":              "9.4.6.v20170531",
     "BC":                "100%",
     "Added":             0,
@@ -72,6 +111,19 @@
   },
   {
     "Version":           "9.4.6.v20170531",
+    "From":              "9.4.5.v20180619",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.5.v20180619",
     "From":              "9.4.5.v20170502",
     "BC":                "100%",
     "Added":             0,
@@ -85,7 +137,7 @@
   },
   {
     "Version":           "9.4.5.v20170502",
-    "From":              "9.4.4.v20170414",
+    "From":              "9.4.4.v20180619",
     "BC":                "100%",
     "Added":             1,
     "Removed":           0,
@@ -97,7 +149,33 @@
     "TotalArchives":     1
   },
   {
+    "Version":           "9.4.4.v20180619",
+    "From":              "9.4.4.v20170414",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "9.4.4.v20170414",
+    "From":              "9.4.3.v20180619",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.3.v20180619",
     "From":              "9.4.3.v20170317",
     "BC":                "100%",
     "Added":             0,
@@ -111,6 +189,19 @@
   },
   {
     "Version":           "9.4.3.v20170317",
+    "From":              "9.4.2.v20180619",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.2.v20180619",
     "From":              "9.4.2.v20170220",
     "BC":                "100%",
     "Added":             0,
@@ -124,6 +215,19 @@
   },
   {
     "Version":           "9.4.2.v20170220",
+    "From":              "9.4.1.v20180619",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.1.v20180619",
     "From":              "9.4.1.v20170120",
     "BC":                "100%",
     "Added":             0,
@@ -137,9 +241,22 @@
   },
   {
     "Version":           "9.4.1.v20170120",
-    "From":              "9.4.0.v20161208",
+    "From":              "9.4.0.v20180619",
     "BC":                "100%",
     "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.0.v20180619",
+    "From":              "9.4.0.v20161208",
+    "BC":                "100%",
+    "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "100%",
