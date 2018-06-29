@@ -6,13 +6,13 @@
 
   "Reports": [
   {
-    "Version":           "7.1.0-Preview",
+    "Version":           "8.0.0",
     "From":              "7.0.0",
-    "BC":                "100%",
-    "Added":             11,
-    "Removed":           0,
+    "BC":                "99.95%",
+    "Added":             36,
+    "Removed":           1,
     "TotalProblems":     1,
-    "Src_BC":            "100%",
+    "Src_BC":            "99.95%",
     "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
