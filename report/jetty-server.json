@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "9.4.12.RC0",
+    "Version":           "9.4.12.RC1",
     "From":              "9.4.11.v20180605",
-    "BC":                "100%",
-    "Added":             24,
-    "Removed":           0,
-    "TotalProblems":     8,
+    "BC":                "99.96%",
+    "Added":             30,
+    "Removed":           1,
+    "TotalProblems":     9,
     "Src_BC":            "100%",
     "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
