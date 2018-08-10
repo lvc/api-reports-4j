@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "2.0.0-rc2",
-    "From":              "1.5.20",
-    "BC":                "43.7%",
+    "From":              "1.5.21",
+    "BC":                "41%",
     "Added":             83,
-    "Removed":           105,
-    "TotalProblems":     44,
-    "Src_BC":            "44.1%",
-    "Src_TotalProblems": 50,
+    "Removed":           114,
+    "TotalProblems":     47,
+    "Src_BC":            "41.9%",
+    "Src_TotalProblems": 53,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.5.21",
+    "From":              "1.5.20",
+    "BC":                "100%",
+    "Added":             9,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
