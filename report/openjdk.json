@@ -1,10 +1,36 @@
 {
   "Title":      "OpenJDK",
-  "SourceUrl":  "http://jdk.java.net/9/",
+  "SourceUrl":  "http://jdk.java.net/archive/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/openjdk/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "10.0.2",
+    "From":              "10.0.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     68
+  },
+  {
+    "Version":           "10.0.1",
+    "From":              10,
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     68
+  },
   {
     "Version":           "10",
     "From":              "9.0.4",
