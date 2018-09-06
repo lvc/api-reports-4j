@@ -7,7 +7,7 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
-    "From":              "1.3.0-RC1",
+    "From":              "1.3.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -19,7 +19,7 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "1.3.0-RC1",
+    "Version":           "1.3.0",
     "From":              "1.2.0",
     "BC":                "28.9%",
     "Added":             593,

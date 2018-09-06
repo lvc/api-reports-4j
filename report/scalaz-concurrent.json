@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "7.3.0-M24",
+    "Version":           "7.3.0-M25",
     "From":              "7.2.26",
     "BC":                "92.1%",
-    "Added":             9,
+    "Added":             10,
     "Removed":           23,
     "TotalProblems":     0,
     "Src_BC":            "92.1%",

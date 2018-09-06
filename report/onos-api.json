@@ -6,14 +6,27 @@
 
   "Reports": [
   {
-    "Version":           "1.14.0-rc6",
-    "From":              "1.13.2",
+    "Version":           "1.14.0",
+    "From":              "1.13.3",
     "BC":                "99.7%",
-    "Added":             178,
+    "Added":             176,
     "Removed":           9,
     "TotalProblems":     6,
-    "Src_BC":            "98.7%",
-    "Src_TotalProblems": 18,
+    "Src_BC":            "98.8%",
+    "Src_TotalProblems": 17,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.13.3",
+    "From":              "1.13.2",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "99.9%",
+    "Src_TotalProblems": 1,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
