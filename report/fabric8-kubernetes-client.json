@@ -6,7 +6,7 @@
 
   "Reports": [
   {
-    "Version":           "4.0.4",
+    "Version":           "4.0.5",
     "From":              "3.2.0",
     "BC":                "80.7%",
     "Added":             317,
@@ -189,13 +189,13 @@
   },
   {
     "Version":           "1.1.0",
-    "From":              "1.0.0",
-    "BC":                "100%",
-    "Added":             12,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "Src_BC":            "83.8%",
-    "Src_TotalProblems": 12,
+    "From":              "1.0.82",
+    "BC":                "0.5%",
+    "Added":             149,
+    "Removed":           1679,
+    "TotalProblems":     187,
+    "Src_BC":            "0.5%",
+    "Src_TotalProblems": 187,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

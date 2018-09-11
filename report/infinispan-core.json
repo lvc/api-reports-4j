@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "9.4.0.CR2",
-    "From":              "9.3.2",
+    "From":              "9.3.3",
     "BC":                "95.1%",
     "Added":             102,
     "Removed":           64,
     "TotalProblems":     17,
     "Src_BC":            "94.5%",
     "Src_TotalProblems": 29,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.3.3",
+    "From":              "9.3.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

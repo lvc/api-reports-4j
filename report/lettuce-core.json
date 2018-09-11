@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "5.1.0.M1",
+    "Version":           "5.1.0.RC1",
     "From":              "5.0.5",
-    "BC":                "99.7%",
-    "Added":             421,
-    "Removed":           11,
-    "TotalProblems":     10,
-    "Src_BC":            "95.2%",
-    "Src_TotalProblems": 19,
+    "BC":                "98.5%",
+    "Added":             624,
+    "Removed":           14,
+    "TotalProblems":     35,
+    "Src_BC":            "75.5%",
+    "Src_TotalProblems": 86,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
