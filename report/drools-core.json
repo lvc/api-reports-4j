@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "7.11.0",
+    "From":              "7.10.0",
+    "BC":                "99.96%",
+    "Added":             2,
+    "Removed":           1,
+    "TotalProblems":     1,
+    "Src_BC":            "99.96%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "7.10.0",
     "From":              "7.9.0",
     "BC":                "99%",
