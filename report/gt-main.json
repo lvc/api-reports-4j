@@ -6,7 +6,7 @@
 
   "Reports": [
   {
-    "Version":           "20-RC",
+    "Version":           "20.0",
     "From":              "19.2",
     "BC":                "92.7%",
     "Added":             349,
