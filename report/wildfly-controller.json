@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "7.0.0.Alpha1",
+    "Version":           "7.0.0.Alpha2",
     "From":              "6.0.2",
     "BC":                "99.98%",
-    "Added":             1,
+    "Added":             3,
     "Removed":           1,
-    "TotalProblems":     0,
+    "TotalProblems":     2,
     "Src_BC":            "99.98%",
     "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
