@@ -7,15 +7,28 @@
   "Reports": [
   {
     "Version":           "20.0",
-    "From":              "19.2",
+    "From":              "19.3",
     "BC":                "93.58%",
-    "Added":             1942,
-    "Removed":           1573,
+    "Added":             1890,
+    "Removed":           1575,
     "TotalProblems":     649,
     "Src_BC":            "93.61%",
     "Src_TotalProblems": 693,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   2,
+    "TotalArchives":     96
+  },
+  {
+    "Version":           "19.3",
+    "From":              "19.2",
+    "BC":                "99.99%",
+    "Added":             57,
+    "Removed":           3,
+    "TotalProblems":     0,
+    "Src_BC":            "99.99%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
     "TotalArchives":     96
   },
   {

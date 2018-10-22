@@ -124,9 +124,22 @@
   },
   {
     "Version":           "4.1.0",
+    "From":              "4.0.5",
+    "BC":                "99.8%",
+    "Added":             0,
+    "Removed":           2,
+    "TotalProblems":     1,
+    "Src_BC":            "99.8%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.0.5",
     "From":              "4.0.4",
     "BC":                "100%",
-    "Added":             0,
+    "Added":             2,
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "100%",
