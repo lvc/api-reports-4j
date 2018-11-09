@@ -6,6 +6,32 @@
 
   "Reports": [
   {
+    "Version":           "9.2.2.0",
+    "From":              "9.2.1.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.2.1.0",
+    "From":              "9.2.0.0",
+    "BC":                "58%",
+    "Added":             451,
+    "Removed":           224,
+    "TotalProblems":     99,
+    "Src_BC":            "57.8%",
+    "Src_TotalProblems": 78,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "9.2.0.0",
     "From":              "9.1.17.0",
     "BC":                "57.1%",

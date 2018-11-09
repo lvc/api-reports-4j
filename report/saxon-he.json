@@ -6,14 +6,40 @@
 
   "Reports": [
   {
+    "Version":           "9-9-0-2",
+    "From":              "9-9-0-1",
+    "BC":                "94.42%",
+    "Added":             212,
+    "Removed":           146,
+    "TotalProblems":     308,
+    "Src_BC":            "94.22%",
+    "Src_TotalProblems": 239,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     2
+  },
+  {
     "Version":           "9-9-0-1",
-    "From":              "9-8-0-14",
-    "BC":                "66.15%",
-    "Added":             1602,
-    "Removed":           622,
-    "TotalProblems":     1043,
+    "From":              "9-8-0-15",
+    "BC":                "66.25%",
+    "Added":             1572,
+    "Removed":           624,
+    "TotalProblems":     1050,
     "Src_BC":            "65.75%",
     "Src_TotalProblems": 837,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     2
+  },
+  {
+    "Version":           "9-8-0-15",
+    "From":              "9-8-0-14",
+    "BC":                "100%",
+    "Added":             33,
+    "Removed":           0,
+    "TotalProblems":     19,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     2
