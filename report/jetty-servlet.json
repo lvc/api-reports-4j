@@ -6,6 +6,32 @@
 
   "Reports": [
   {
+    "Version":           "9.4.14.v20181114",
+    "From":              "9.4.13.v20181111",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.13.v20181111",
+    "From":              "9.4.12.v20180830",
+    "BC":                "95.8%",
+    "Added":             7,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "Src_BC":            "95.8%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "9.4.12.v20180830",
     "From":              "9.4.11.v20180605",
     "BC":                "100%",

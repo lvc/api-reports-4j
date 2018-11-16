@@ -6,11 +6,11 @@
 
   "Reports": [
   {
-    "Version":           "1.9.3",
+    "Version":           "1.9.4",
     "From":              "1.8.22",
     "BC":                "96.8%",
-    "Added":             933,
-    "Removed":           118,
+    "Added":             945,
+    "Removed":           119,
     "TotalProblems":     64,
     "Src_BC":            "96.7%",
     "Src_TotalProblems": 66,

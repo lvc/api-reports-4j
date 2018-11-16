@@ -7,15 +7,41 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
-    "From":              "9.4.12.v20180830",
-    "BC":                "84.61%",
-    "Added":             552,
-    "Removed":           833,
-    "TotalProblems":     226,
-    "Src_BC":            "82.09%",
-    "Src_TotalProblems": 202,
+    "From":              "9.4.14.v20181114",
+    "BC":                "81.88%",
+    "Added":             572,
+    "Removed":           958,
+    "TotalProblems":     259,
+    "Src_BC":            "79.45%",
+    "Src_TotalProblems": 227,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   2,
+    "TotalArchives":     38
+  },
+  {
+    "Version":           "9.4.14.v20181114",
+    "From":              "9.4.13.v20181111",
+    "BC":                "100%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     1,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     37
+  },
+  {
+    "Version":           "9.4.13.v20181111",
+    "From":              "9.4.12.v20180830",
+    "BC":                "99.29%",
+    "Added":             126,
+    "Removed":           15,
+    "TotalProblems":     16,
+    "Src_BC":            "99.15%",
+    "Src_TotalProblems": 9,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   1,
     "TotalArchives":     38
   },
   {
