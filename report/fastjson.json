@@ -6,6 +6,32 @@
 
   "Reports": [
   {
+    "Version":           "1.2.53",
+    "From":              "1.2.52",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     1,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.2.52",
+    "From":              "1.2.51",
+    "BC":                "99.8%",
+    "Added":             6,
+    "Removed":           3,
+    "TotalProblems":     1,
+    "Src_BC":            "99.8%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "1.2.51",
     "From":              "1.2.50",
     "BC":                "100%",

@@ -6,6 +6,32 @@
 
   "Reports": [
   {
+    "Version":           "10.0.0.Alpha1",
+    "From":              "9.4.2",
+    "BC":                "98.5%",
+    "Added":             33,
+    "Removed":           81,
+    "TotalProblems":     6,
+    "Src_BC":            "98.5%",
+    "Src_TotalProblems": 3,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.2",
+    "From":              "9.4.1",
+    "BC":                "99.5%",
+    "Added":             37,
+    "Removed":           3,
+    "TotalProblems":     7,
+    "Src_BC":            "98.9%",
+    "Src_TotalProblems": 9,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "9.4.1",
     "From":              "9.4.0",
     "BC":                "96%",
@@ -20,13 +46,26 @@
   },
   {
     "Version":           "9.4.0",
-    "From":              "9.3.4",
+    "From":              "9.3.5",
     "BC":                "89.9%",
     "Added":             333,
     "Removed":           149,
     "TotalProblems":     147,
     "Src_BC":            "88.9%",
     "Src_TotalProblems": 117,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.3.5",
+    "From":              "9.3.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

@@ -137,9 +137,22 @@
   },
   {
     "Version":           "5.0.0",
-    "From":              "4.3.17",
+    "From":              "4.3.18",
     "BC":                "100%",
     "Added":             48,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.3.18",
+    "From":              "4.3.17",
+    "BC":                "100%",
+    "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "100%",
