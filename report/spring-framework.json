@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "5.1.3",
+    "From":              "5.1.2",
+    "BC":                "99.98%",
+    "Added":             36,
+    "Removed":           1,
+    "TotalProblems":     2,
+    "Src_BC":            "99.95%",
+    "Src_TotalProblems": 4,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     21
+  },
+  {
     "Version":           "5.1.2",
     "From":              "5.1.1",
     "BC":                "99.94%",
@@ -33,13 +46,26 @@
   },
   {
     "Version":           "5.1.0",
-    "From":              "5.0.10",
-    "BC":                "97.51%",
+    "From":              "5.0.11",
+    "BC":                "97.48%",
     "Added":             601,
-    "Removed":           130,
-    "TotalProblems":     178,
-    "Src_BC":            "95.76%",
-    "Src_TotalProblems": 206,
+    "Removed":           135,
+    "TotalProblems":     181,
+    "Src_BC":            "95.74%",
+    "Src_TotalProblems": 209,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     21
+  },
+  {
+    "Version":           "5.0.11",
+    "From":              "5.0.10",
+    "BC":                "99.96%",
+    "Added":             5,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "Src_BC":            "99.92%",
+    "Src_TotalProblems": 2,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     21
@@ -176,15 +202,28 @@
   },
   {
     "Version":           "5.0.0",
-    "From":              "4.3.20",
-    "BC":                "87.45%",
+    "From":              "4.3.21",
+    "BC":                "87.43%",
     "Added":             1794,
-    "Removed":           2383,
-    "TotalProblems":     399,
-    "Src_BC":            "86.91%",
-    "Src_TotalProblems": 382,
+    "Removed":           2384,
+    "TotalProblems":     400,
+    "Src_BC":            "86.89%",
+    "Src_TotalProblems": 383,
     "ArchivesAdded":     3,
     "ArchivesRemoved":   2,
+    "TotalArchives":     20
+  },
+  {
+    "Version":           "4.3.21",
+    "From":              "4.3.20",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
     "TotalArchives":     20
   },
   {

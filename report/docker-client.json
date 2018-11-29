@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "8.14.4",
+    "Version":           "8.14.5",
     "From":              "8.13.1",
     "BC":                "98.5%",
-    "Added":             5,
+    "Added":             45,
     "Removed":           2,
     "TotalProblems":     3,
     "Src_BC":            "94.2%",
