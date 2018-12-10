@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "4.1-alpha-1",
+    "Version":           "4.1-beta-2",
     "From":              "4.0.2",
     "BC":                "100%",
-    "Added":             0,
+    "Added":             4,
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "100%",
