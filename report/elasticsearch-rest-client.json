@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "7.0.0-alpha1",
+    "Version":           "7.0.0-alpha2",
     "From":              "6.5.4",
     "BC":                "91.1%",
-    "Added":             0,
+    "Added":             8,
     "Removed":           9,
     "TotalProblems":     0,
     "Src_BC":            "91.1%",

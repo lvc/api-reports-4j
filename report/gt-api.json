@@ -20,13 +20,26 @@
   },
   {
     "Version":           "20.0",
-    "From":              "19.3",
+    "From":              "19.4",
     "BC":                "60.1%",
     "Added":             389,
     "Removed":           362,
     "TotalProblems":     159,
     "Src_BC":            "60.1%",
     "Src_TotalProblems": 175,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "19.4",
+    "From":              "19.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
