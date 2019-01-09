@@ -7,9 +7,9 @@
   "Reports": [
   {
     "Version":           "2.7.0-RC8",
-    "From":              "2.6.20",
+    "From":              "2.6.21",
     "BC":                "89.4%",
-    "Added":             666,
+    "Added":             661,
     "Removed":           262,
     "TotalProblems":     74,
     "Src_BC":            "86.2%",
@@ -19,10 +19,10 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.6.20",
+    "Version":           "2.6.21",
     "From":              "2.5.19",
     "BC":                "68.7%",
-    "Added":             3012,
+    "Added":             3017,
     "Removed":           1316,
     "TotalProblems":     289,
     "Src_BC":            "64.1%",
