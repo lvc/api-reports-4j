@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "2.1.4",
+    "From":              "2.1.3",
+    "BC":                "99.95%",
+    "Added":             9,
+    "Removed":           2,
+    "TotalProblems":     1,
+    "Src_BC":            "99.95%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "2.1.3",
     "From":              "2.1.2",
     "BC":                "100%",
@@ -46,13 +59,26 @@
   },
   {
     "Version":           "2.1.0",
-    "From":              "2.0.12",
+    "From":              "2.0.13",
     "BC":                "95.2%",
     "Added":             858,
     "Removed":           38,
     "TotalProblems":     49,
     "Src_BC":            "91.4%",
     "Src_TotalProblems": 57,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.0.13",
+    "From":              "2.0.12",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
@@ -215,13 +241,26 @@
   },
   {
     "Version":           "2.0.0",
-    "From":              "1.10.17",
+    "From":              "1.10.18",
     "BC":                "58.7%",
     "Added":             1137,
     "Removed":           812,
     "TotalProblems":     288,
-    "Src_BC":            "58.9%",
+    "Src_BC":            "58.8%",
     "Src_TotalProblems": 321,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.10.18",
+    "From":              "1.10.17",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
