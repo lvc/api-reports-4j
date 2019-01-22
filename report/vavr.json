@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "1.0.0-alpha-2",
-    "From":              "0.9.3",
+    "From":              "0.10.0",
     "BC":                "0.09%",
-    "Added":             57,
-    "Removed":           6595,
-    "TotalProblems":     712,
+    "Added":             54,
+    "Removed":           6984,
+    "TotalProblems":     778,
     "Src_BC":            "0.09%",
-    "Src_TotalProblems": 714,
+    "Src_TotalProblems": 780,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.10.0",
+    "From":              "0.9.3",
+    "BC":                "93.7%",
+    "Added":             465,
+    "Removed":           95,
+    "TotalProblems":     29,
+    "Src_BC":            "70.8%",
+    "Src_TotalProblems": 88,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

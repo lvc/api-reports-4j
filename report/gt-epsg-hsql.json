@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "21-M0",
-    "From":              "20.1",
+    "From":              "20.2",
     "BC":                "0%",
     "Added":             23,
     "Removed":           23,
     "TotalProblems":     5,
     "Src_BC":            "0%",
     "Src_TotalProblems": 5,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "20.2",
+    "From":              "20.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
