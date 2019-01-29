@@ -6,11 +6,11 @@
 
   "Reports": [
   {
-    "Version":           "2.15-M0",
+    "Version":           "2.15-RC",
     "From":              "2.14.2",
     "BC":                "91.2%",
-    "Added":             198,
-    "Removed":           120,
+    "Added":             199,
+    "Removed":           121,
     "TotalProblems":     82,
     "Src_BC":            "89.3%",
     "Src_TotalProblems": 84,
