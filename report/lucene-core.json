@@ -8,9 +8,9 @@
   {
     "Version":           "SNAPSHOT",
     "From":              "7.6.0",
-    "BC":                "86%",
-    "Added":             400,
-    "Removed":           446,
+    "BC":                "85.9%",
+    "Added":             401,
+    "Removed":           447,
     "TotalProblems":     138,
     "Src_BC":            "83.5%",
     "Src_TotalProblems": 158,
