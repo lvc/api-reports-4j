@@ -6,13 +6,13 @@
 
   "Reports": [
   {
-    "Version":           "5.0.0-RC1",
+    "Version":           "5.0.0-RC2",
     "From":              "4.0.2",
-    "BC":                "64.2%",
-    "Added":             395,
+    "BC":                "64.3%",
+    "Added":             403,
     "Removed":           327,
-    "TotalProblems":     87,
-    "Src_BC":            "63.6%",
+    "TotalProblems":     92,
+    "Src_BC":            "63.7%",
     "Src_TotalProblems": 81,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
