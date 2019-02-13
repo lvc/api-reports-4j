@@ -6,13 +6,13 @@
 
   "Reports": [
   {
-    "Version":           "8.0.0.Beta4",
+    "Version":           "8.0.0.Beta5",
     "From":              "7.0.0",
-    "BC":                "92.2%",
-    "Added":             12,
-    "Removed":           10,
+    "BC":                "92.1%",
+    "Added":             22,
+    "Removed":           12,
     "TotalProblems":     4,
-    "Src_BC":            "85%",
+    "Src_BC":            "84.9%",
     "Src_TotalProblems": 3,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
