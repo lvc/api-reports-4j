@@ -82,5 +82,18 @@
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
+  },
+  {
+    "Version":           "7-201708-EA",
+    "From":              "7.0.0",
+    "BC":                "76.4%",
+    "Added":             79,
+    "Removed":           18,
+    "TotalProblems":     14,
+    "Src_BC":            "73.2%",
+    "Src_TotalProblems": 18,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
   }]
 }

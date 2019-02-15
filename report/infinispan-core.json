@@ -98,13 +98,26 @@
   },
   {
     "Version":           "9.4.0",
-    "From":              "9.3.5",
+    "From":              "9.3.6",
     "BC":                "89.9%",
     "Added":             333,
     "Removed":           149,
     "TotalProblems":     147,
     "Src_BC":            "88.9%",
     "Src_TotalProblems": 117,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.3.6",
+    "From":              "9.3.5",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

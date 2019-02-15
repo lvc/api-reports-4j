@@ -8,14 +8,14 @@
   {
     "Version":           "SNAPSHOT",
     "From":              "9.4.14.v20181114",
-    "BC":                "79.61%",
-    "Added":             501,
-    "Removed":           570,
-    "TotalProblems":     97,
-    "Src_BC":            "79.17%",
-    "Src_TotalProblems": 113,
-    "ArchivesAdded":     5,
-    "ArchivesRemoved":   6,
+    "BC":                "79.23%",
+    "Added":             498,
+    "Removed":           563,
+    "TotalProblems":     95,
+    "Src_BC":            "78.78%",
+    "Src_TotalProblems": 111,
+    "ArchivesAdded":     7,
+    "ArchivesRemoved":   7,
     "TotalArchives":     38
   },
   {
