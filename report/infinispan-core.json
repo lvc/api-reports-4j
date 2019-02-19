@@ -6,14 +6,27 @@
 
   "Reports": [
   {
-    "Version":           "10.0.0.Alpha3",
+    "Version":           "10.0.0.Beta1",
+    "From":              "9.4.7",
+    "BC":                "89.7%",
+    "Added":             360,
+    "Removed":           353,
+    "TotalProblems":     69,
+    "Src_BC":            "89.2%",
+    "Src_TotalProblems": 80,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.7",
     "From":              "9.4.6",
-    "BC":                "92.5%",
-    "Added":             265,
-    "Removed":           216,
-    "TotalProblems":     40,
-    "Src_BC":            "90.7%",
-    "Src_TotalProblems": 45,
+    "BC":                "96.2%",
+    "Added":             5,
+    "Removed":           4,
+    "TotalProblems":     1,
+    "Src_BC":            "96.2%",
+    "Src_TotalProblems": 2,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
