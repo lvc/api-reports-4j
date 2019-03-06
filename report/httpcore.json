@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "5.0-beta6",
+    "Version":           "5.0-beta7",
     "From":              "4.4.11",
     "BC":                "0%",
-    "Added":             1857,
+    "Added":             1898,
     "Removed":           1017,
     "TotalProblems":     172,
     "Src_BC":            "0%",
