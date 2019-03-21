@@ -176,6 +176,19 @@
   },
   {
     "Version":           "9.0.1",
+    "From":              "8.5.39",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8.5.39",
     "From":              "8.5.38",
     "BC":                "100%",
     "Added":             0,

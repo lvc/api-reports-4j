@@ -1,9 +1,22 @@
 {
-  "Title":      "JRE",
+  "Title":      "Oracle JDK",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jre/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "12",
+    "From":              11,
+    "BC":                "99.98%",
+    "Added":             219,
+    "Removed":           1,
+    "TotalProblems":     20,
+    "Src_BC":            "99.99%",
+    "Src_TotalProblems": 5,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     63
+  },
   {
     "Version":           "11",
     "From":              "10.0.2",
