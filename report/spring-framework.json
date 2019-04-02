@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "5.1.6",
+    "From":              "5.1.5",
+    "BC":                "100%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "99.81%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     21
+  },
+  {
     "Version":           "5.1.5",
     "From":              "5.1.4",
     "BC":                "99.99%",
@@ -72,13 +85,26 @@
   },
   {
     "Version":           "5.1.0",
-    "From":              "5.0.12",
+    "From":              "5.0.13",
     "BC":                "97.48%",
     "Added":             601,
     "Removed":           135,
     "TotalProblems":     182,
-    "Src_BC":            "95.74%",
-    "Src_TotalProblems": 209,
+    "Src_BC":            "95.73%",
+    "Src_TotalProblems": 210,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     21
+  },
+  {
+    "Version":           "5.0.13",
+    "From":              "5.0.12",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     21
@@ -241,15 +267,28 @@
   },
   {
     "Version":           "5.0.0",
-    "From":              "4.3.22",
+    "From":              "4.3.23",
     "BC":                "87.43%",
-    "Added":             1794,
+    "Added":             1793,
     "Removed":           2384,
     "TotalProblems":     400,
-    "Src_BC":            "86.89%",
-    "Src_TotalProblems": 383,
+    "Src_BC":            "86.90%",
+    "Src_TotalProblems": 384,
     "ArchivesAdded":     3,
     "ArchivesRemoved":   2,
+    "TotalArchives":     20
+  },
+  {
+    "Version":           "4.3.23",
+    "From":              "4.3.22",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
     "TotalArchives":     20
   },
   {
