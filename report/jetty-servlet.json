@@ -319,13 +319,26 @@
   },
   {
     "Version":           "9.4.0.v20161208",
-    "From":              "9.3.25.v20180904",
+    "From":              "9.3.26.v20190403",
     "BC":                "90.5%",
     "Added":             22,
     "Removed":           20,
     "TotalProblems":     8,
     "Src_BC":            "90.5%",
     "Src_TotalProblems": 8,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.3.26.v20190403",
+    "From":              "9.3.25.v20180904",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
