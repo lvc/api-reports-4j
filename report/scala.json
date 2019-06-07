@@ -6,16 +6,16 @@
 
   "Reports": [
   {
-    "Version":           "2.13.0-M5",
+    "Version":           "2.13.0-RC3",
     "From":              "2.12.8",
-    "BC":                "48.02%",
-    "Added":             12618,
-    "Removed":           18523,
-    "TotalProblems":     3557,
-    "Src_BC":            "47.62%",
-    "Src_TotalProblems": 2300,
-    "ArchivesAdded":     1,
-    "ArchivesRemoved":   4,
+    "BC":                "35.06%",
+    "Added":             20475,
+    "Removed":           19652,
+    "TotalProblems":     4970,
+    "Src_BC":            "34.60%",
+    "Src_TotalProblems": 3222,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   3,
     "TotalArchives":     7
   },
   {

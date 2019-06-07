@@ -6,8 +6,8 @@
 
   "Reports": [
   {
-    "Version":           "2.19.1",
-    "From":              "2.18.0",
+    "Version":           "2.19.3",
+    "From":              "2.18.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -19,7 +19,7 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.18.0",
+    "Version":           "2.18.2",
     "From":              "2.17.7",
     "BC":                "100%",
     "Added":             0,
@@ -33,7 +33,7 @@
   },
   {
     "Version":           "2.17.7",
-    "From":              "2.16.3",
+    "From":              "2.16.4",
     "BC":                "100%",
     "Added":             6,
     "Removed":           0,
@@ -45,7 +45,7 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.16.3",
+    "Version":           "2.16.4",
     "From":              "2.15.8",
     "BC":                "100%",
     "Added":             0,

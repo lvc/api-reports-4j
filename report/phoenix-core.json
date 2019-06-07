@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "5.0.0",
+    "From":              "4.14.2",
+    "BC":                "94.3%",
+    "Added":             220,
+    "Removed":           308,
+    "TotalProblems":     800,
+    "Src_BC":            "94.2%",
+    "Src_TotalProblems": 793,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.14.2",
     "From":              "4.14.1",
-    "BC":                "95.1%",
-    "Added":             430,
-    "Removed":           270,
-    "TotalProblems":     1026,
-    "Src_BC":            "95.6%",
-    "Src_TotalProblems": 808,
+    "BC":                "97.9%",
+    "Added":             335,
+    "Removed":           83,
+    "TotalProblems":     944,
+    "Src_BC":            "98.5%",
+    "Src_TotalProblems": 730,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
