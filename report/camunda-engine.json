@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "7.11.0-alpha3",
+    "Version":           "7.11.0",
     "From":              "7.10.0",
     "BC":                "100%",
-    "Added":             314,
+    "Added":             375,
     "Removed":           0,
     "TotalProblems":     0,
-    "Src_BC":            "84.2%",
-    "Src_TotalProblems": 12,
+    "Src_BC":            "77.1%",
+    "Src_TotalProblems": 35,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

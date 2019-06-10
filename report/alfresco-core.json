@@ -71,10 +71,10 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "7.6",
-    "From":              "7.5.1",
+    "Version":           "7.5.2",
+    "From":              "7.5.1.1",
     "BC":                "100%",
-    "Added":             1,
+    "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "100%",

@@ -6,19 +6,6 @@
 
   "Reports": [
   {
-    "Version":           "1.0.0-beta3",
-    "From":              "0.9.1",
-    "BC":                "26.9%",
-    "Added":             13,
-    "Removed":           361,
-    "TotalProblems":     31,
-    "Src_BC":            "20.9%",
-    "Src_TotalProblems": 34,
-    "ArchivesAdded":     0,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     1
-  },
-  {
     "Version":           "0.9.1",
     "From":              "0.9.0",
     "BC":                "98.3%",
