@@ -7,10 +7,10 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
-    "From":              "9.4.18.v20190429",
+    "From":              "9.4.19.v20190610",
     "BC":                "82.5%",
-    "Added":             20,
-    "Removed":           123,
+    "Added":             33,
+    "Removed":           122,
     "TotalProblems":     22,
     "Src_BC":            "82.5%",
     "Src_TotalProblems": 18,
