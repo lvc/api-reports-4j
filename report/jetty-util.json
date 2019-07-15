@@ -7,13 +7,13 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
-    "From":              "9.4.19.v20190610",
-    "BC":                "81.6%",
-    "Added":             38,
-    "Removed":           142,
-    "TotalProblems":     23,
-    "Src_BC":            "81.6%",
-    "Src_TotalProblems": 19,
+    "From":              "10.0.0-alpha0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
