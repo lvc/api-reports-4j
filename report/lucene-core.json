@@ -7,13 +7,13 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
-    "From":              "8.1.1",
+    "From":              "8.2.0",
     "BC":                "96.8%",
-    "Added":             29,
+    "Added":             15,
     "Removed":           88,
-    "TotalProblems":     24,
+    "TotalProblems":     27,
     "Src_BC":            "96.8%",
-    "Src_TotalProblems": 25,
+    "Src_TotalProblems": 28,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
