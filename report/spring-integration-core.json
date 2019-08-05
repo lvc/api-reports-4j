@@ -253,19 +253,6 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "5.0.0",
-    "From":              "4.3.20",
-    "BC":                "94.6%",
-    "Added":             938,
-    "Removed":           89,
-    "TotalProblems":     51,
-    "Src_BC":            "90.6%",
-    "Src_TotalProblems": 44,
-    "ArchivesAdded":     0,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     1
-  },
-  {
     "Version":           "4.3.20",
     "From":              "4.3.19",
     "BC":                "100%",

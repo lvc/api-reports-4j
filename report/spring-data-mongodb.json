@@ -305,19 +305,6 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.0.0",
-    "From":              "1.10.22",
-    "BC":                "58.7%",
-    "Added":             1137,
-    "Removed":           812,
-    "TotalProblems":     288,
-    "Src_BC":            "58.9%",
-    "Src_TotalProblems": 321,
-    "ArchivesAdded":     0,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     1
-  },
-  {
     "Version":           "1.10.22",
     "From":              "1.10.21",
     "BC":                "100%",
