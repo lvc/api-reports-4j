@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "10.0.0.Beta5",
+    "From":              "9.4.16",
+    "BC":                "75%",
+    "Added":             1594,
+    "Removed":           1451,
+    "TotalProblems":     421,
+    "Src_BC":            "74.4%",
+    "Src_TotalProblems": 376,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "9.4.14",
     "From":              "9.4.13",
     "BC":                "96.1%",
