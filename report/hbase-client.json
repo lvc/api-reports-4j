@@ -71,19 +71,6 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.1.0",
-    "From":              "2.0.5",
-    "BC":                "97.1%",
-    "Added":             49,
-    "Removed":           46,
-    "TotalProblems":     21,
-    "Src_BC":            "89.4%",
-    "Src_TotalProblems": 28,
-    "ArchivesAdded":     0,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     1
-  },
-  {
     "Version":           "2.0.5",
     "From":              "2.0.4",
     "BC":                "99.9%",
