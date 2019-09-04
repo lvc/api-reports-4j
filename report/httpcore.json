@@ -7,7 +7,7 @@
   "Reports": [
   {
     "Version":           "5.0-beta8",
-    "From":              "4.4.11",
+    "From":              "4.4.12",
     "BC":                "0%",
     "Added":             2120,
     "Removed":           1017,
@@ -16,6 +16,19 @@
     "Src_TotalProblems": 173,
     "ArchivesAdded":     3,
     "ArchivesRemoved":   3,
+    "TotalArchives":     4
+  },
+  {
+    "Version":           "4.4.12",
+    "From":              "4.4.11",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
     "TotalArchives":     4
   },
   {

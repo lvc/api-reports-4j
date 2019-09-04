@@ -9,7 +9,7 @@
     "Version":           "SNAPSHOT",
     "From":              "10.0.0-alpha0",
     "BC":                "97.88%",
-    "Added":             155,
+    "Added":             156,
     "Removed":           17,
     "TotalProblems":     30,
     "Src_BC":            "96.53%",
