@@ -7,9 +7,9 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
-    "From":              "5.5.1",
+    "From":              "5.5.2",
     "BC":                "98.3%",
-    "Added":             0,
+    "Added":             3,
     "Removed":           2,
     "TotalProblems":     3,
     "Src_BC":            "98.1%",

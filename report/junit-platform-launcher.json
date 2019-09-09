@@ -7,7 +7,7 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
-    "From":              "1.5.1",
+    "From":              "1.5.2",
     "BC":                "100%",
     "Added":             1,
     "Removed":           0,

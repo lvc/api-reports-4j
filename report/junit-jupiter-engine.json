@@ -7,11 +7,11 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
-    "From":              "5.5.1",
+    "From":              "5.5.2",
     "BC":                "92%",
     "Added":             0,
     "Removed":           17,
-    "TotalProblems":     6,
+    "TotalProblems":     15,
     "Src_BC":            "92%",
     "Src_TotalProblems": 6,
     "ArchivesAdded":     0,
