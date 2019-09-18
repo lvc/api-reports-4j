@@ -7,12 +7,12 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
-    "From":              "2.10.0.pr2",
+    "From":              "2.10.0.pr3",
     "BC":                "41.2%",
-    "Added":             515,
-    "Removed":           468,
+    "Added":             514,
+    "Removed":           470,
     "TotalProblems":     252,
-    "Src_BC":            "38.9%",
+    "Src_BC":            "38.8%",
     "Src_TotalProblems": 162,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
