@@ -641,5 +641,31 @@
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
+  },
+  {
+    "Version":           "3_6_1",
+    "From":              "2_4",
+    "BC":                "87.7%",
+    "Added":             616,
+    "Removed":           123,
+    "TotalProblems":     31,
+    "Src_BC":            "75.2%",
+    "Src_TotalProblems": 29,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   1,
+    "TotalArchives":     2
+  },
+  {
+    "Version":           "2_4",
+    "From":              "2_2",
+    "BC":                "91.8%",
+    "Added":             79,
+    "Removed":           11,
+    "TotalProblems":     32,
+    "Src_BC":            "91.8%",
+    "Src_TotalProblems": 30,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     2
   }]
 }

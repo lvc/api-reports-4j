@@ -19,6 +19,19 @@
     "TotalArchives":     1
   },
   {
+    "Version":           "4.0.0",
+    "From":              "3.1.6",
+    "BC":                "67%",
+    "Added":             58,
+    "Removed":           70,
+    "TotalProblems":     18,
+    "Src_BC":            "67.2%",
+    "Src_TotalProblems": 17,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "3.1.6",
     "From":              "3.1.5",
     "BC":                "100%",

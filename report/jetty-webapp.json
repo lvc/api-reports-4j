@@ -6,6 +6,58 @@
 
   "Reports": [
   {
+    "Version":           "10.0.0-alpha0",
+    "From":              "9.4.21.v20190926",
+    "BC":                "34%",
+    "Added":             167,
+    "Removed":           125,
+    "TotalProblems":     26,
+    "Src_BC":            "33.9%",
+    "Src_TotalProblems": 26,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.21.v20190926",
+    "From":              "9.4.20.v20190813",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.20.v20190813",
+    "From":              "9.4.19.v20190610",
+    "BC":                "100%",
+    "Added":             5,
+    "Removed":           0,
+    "TotalProblems":     1,
+    "Src_BC":            "99.9%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.19.v20190610",
+    "From":              "9.4.18.v20190429",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "9.4.18.v20190429",
     "From":              "9.4.17.v20190418",
     "BC":                "96.9%",

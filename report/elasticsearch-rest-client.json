@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "7.4.0",
+    "From":              "7.3.2",
+    "BC":                "99%",
+    "Added":             1,
+    "Removed":           1,
+    "TotalProblems":     1,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "7.3.2",
     "From":              "7.3.1",
     "BC":                "100%",
@@ -36,6 +49,32 @@
     "From":              "7.2.1",
     "BC":                "100%",
     "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "7.2.1",
+    "From":              "7.2.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "7.2.0",
+    "From":              "7.1.1",
+    "BC":                "100%",
+    "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "100%",
@@ -84,8 +123,47 @@
     "TotalArchives":     1
   },
   {
+    "Version":           "7.0.0",
+    "From":              "6.8.3",
+    "BC":                "84.2%",
+    "Added":             0,
+    "Removed":           16,
+    "TotalProblems":     2,
+    "Src_BC":            "75.8%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "6.8.3",
     "From":              "6.8.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "6.8.2",
+    "From":              "6.8.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "6.8.1",
+    "From":              "6.8.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
