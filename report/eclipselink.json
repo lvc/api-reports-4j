@@ -6,11 +6,11 @@
 
   "Reports": [
   {
-    "Version":           "2.7.5-RC2",
+    "Version":           "2.7.5-RC3",
     "From":              "2.7.4",
     "BC":                "99.6%",
-    "Added":             70,
-    "Removed":           16,
+    "Added":             79,
+    "Removed":           18,
     "TotalProblems":     3,
     "Src_BC":            "99.6%",
     "Src_TotalProblems": 1,
