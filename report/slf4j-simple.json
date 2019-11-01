@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "2.0.0-alpha1",
-    "From":              "1.7.28",
+    "From":              "1.7.29",
     "BC":                "100%",
     "Added":             19,
     "Removed":           46,
     "TotalProblems":     6,
     "Src_BC":            "100%",
     "Src_TotalProblems": 6,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.7.29",
+    "From":              "1.7.28",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
