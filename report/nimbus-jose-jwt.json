@@ -6,6 +6,19 @@
 
   "Reports": [
   {
+    "Version":           "8.2.1",
+    "From":              "8.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
     "Version":           "8.2",
     "From":              "8.1",
     "BC":                "99.1%",
@@ -46,6 +59,19 @@
   },
   {
     "Version":           "7.9",
+    "From":              "7.8.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "7.8.1",
     "From":              "7.8",
     "BC":                "100%",
     "Added":             2,
