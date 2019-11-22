@@ -7,13 +7,39 @@
   "Reports": [
   {
     "Version":           "10.0.0-alpha0",
-    "From":              "9.4.22.v20191022",
-    "BC":                "34%",
+    "From":              "9.4.24.v20191120",
+    "BC":                "33.9%",
     "Added":             167,
-    "Removed":           125,
+    "Removed":           126,
     "TotalProblems":     26,
-    "Src_BC":            "33.9%",
+    "Src_BC":            "33.8%",
     "Src_TotalProblems": 26,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.24.v20191120",
+    "From":              "9.4.23.v20191118",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.23.v20191118",
+    "From":              "9.4.22.v20191022",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

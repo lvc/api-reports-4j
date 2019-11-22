@@ -163,13 +163,26 @@
   },
   {
     "Version":           "3.5.0",
-    "From":              "3.4.16",
+    "From":              "3.4.17",
     "BC":                "91.7%",
     "Added":             15,
     "Removed":           27,
     "TotalProblems":     4,
     "Src_BC":            "91.7%",
     "Src_TotalProblems": 4,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.4.17",
+    "From":              "3.4.16",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
