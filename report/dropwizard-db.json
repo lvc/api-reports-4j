@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "2.0.0-rc13",
-    "From":              "1.3.16",
+    "From":              "1.3.17",
     "BC":                "88.5%",
     "Added":             3,
     "Removed":           3,
     "TotalProblems":     3,
     "Src_BC":            "88.5%",
     "Src_TotalProblems": 4,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.3.17",
+    "From":              "1.3.16",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
