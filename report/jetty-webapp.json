@@ -6,13 +6,13 @@
 
   "Reports": [
   {
-    "Version":           "10.0.0-alpha0",
+    "Version":           "10.0.0.alpha1",
     "From":              "9.4.24.v20191120",
-    "BC":                "33.9%",
-    "Added":             167,
-    "Removed":           126,
-    "TotalProblems":     26,
-    "Src_BC":            "33.8%",
+    "BC":                "35.3%",
+    "Added":             180,
+    "Removed":           123,
+    "TotalProblems":     27,
+    "Src_BC":            "35.3%",
     "Src_TotalProblems": 26,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

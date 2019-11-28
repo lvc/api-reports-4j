@@ -501,13 +501,26 @@
   },
   {
     "Version":           "3.0.0",
-    "From":              "2.5.28",
+    "From":              "2.5.29",
     "BC":                "97.1%",
     "Added":             4,
     "Removed":           16,
     "TotalProblems":     4,
     "Src_BC":            "97.1%",
     "Src_TotalProblems": 4,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.5.29",
+    "From":              "2.5.28",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
