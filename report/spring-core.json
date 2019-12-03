@@ -20,13 +20,26 @@
   },
   {
     "Version":           "5.2.0",
-    "From":              "5.1.11",
+    "From":              "5.1.12",
     "BC":                "97.8%",
     "Added":             262,
     "Removed":           43,
     "TotalProblems":     14,
     "Src_BC":            "95.7%",
     "Src_TotalProblems": 9,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.1.12",
+    "From":              "5.1.11",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

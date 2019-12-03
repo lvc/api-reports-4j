@@ -7,9 +7,9 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
-    "From":              "4.13-rc-1",
+    "From":              "4.13-rc-2",
     "BC":                "100%",
-    "Added":             2,
+    "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "Src_BC":            "100%",
@@ -19,10 +19,10 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "4.13-rc-1",
+    "Version":           "4.13-rc-2",
     "From":              "4.12",
     "BC":                "95.8%",
-    "Added":             56,
+    "Added":             58,
     "Removed":           0,
     "TotalProblems":     6,
     "Src_BC":            "95.8%",
