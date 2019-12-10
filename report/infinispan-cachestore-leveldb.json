@@ -7,6 +7,19 @@
   "Reports": [
   {
     "Version":           "10.0.0.Alpha2",
+    "From":              "9.4.17",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.17",
     "From":              "9.4.16",
     "BC":                "100%",
     "Added":             0,

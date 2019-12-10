@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "10.1.0.Beta1",
+    "Version":           "10.1.0.CR1",
     "From":              "10.0.1",
     "BC":                "95%",
-    "Added":             44,
+    "Added":             66,
     "Removed":           14,
     "TotalProblems":     25,
     "Src_BC":            "95%",
@@ -33,13 +33,26 @@
   },
   {
     "Version":           "10.0.0",
-    "From":              "9.4.16",
+    "From":              "9.4.17",
     "BC":                "71%",
-    "Added":             1829,
-    "Removed":           1789,
-    "TotalProblems":     587,
+    "Added":             1818,
+    "Removed":           1790,
+    "TotalProblems":     584,
     "Src_BC":            "70.3%",
-    "Src_TotalProblems": 546,
+    "Src_TotalProblems": 543,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.17",
+    "From":              "9.4.16",
+    "BC":                "96.1%",
+    "Added":             19,
+    "Removed":           7,
+    "TotalProblems":     4,
+    "Src_BC":            "96.1%",
+    "Src_TotalProblems": 4,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
