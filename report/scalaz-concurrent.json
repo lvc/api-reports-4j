@@ -7,12 +7,25 @@
   "Reports": [
   {
     "Version":           "7.3.0-M27",
-    "From":              "7.2.29",
+    "From":              "7.2.30",
     "BC":                "92.1%",
     "Added":             10,
     "Removed":           23,
     "TotalProblems":     0,
     "Src_BC":            "92.1%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "7.2.30",
+    "From":              "7.2.29",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
     "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

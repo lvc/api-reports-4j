@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "11.0.0.Beta4",
+    "Version":           "11.0.0.Beta5",
     "From":              "10.0.3",
-    "BC":                "90.5%",
-    "Added":             13,
-    "Removed":           13,
-    "TotalProblems":     3,
-    "Src_BC":            "90.3%",
-    "Src_TotalProblems": 6,
+    "BC":                "90.4%",
+    "Added":             22,
+    "Removed":           20,
+    "TotalProblems":     6,
+    "Src_BC":            "89.9%",
+    "Src_TotalProblems": 11,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

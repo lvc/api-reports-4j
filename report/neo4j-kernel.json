@@ -6,14 +6,27 @@
 
   "Reports": [
   {
-    "Version":           "4.0.0-rc01",
-    "From":              "3.5.13",
+    "Version":           "4.0.0",
+    "From":              "3.5.14",
     "BC":                "0%",
     "Added":             79,
     "Removed":           323,
     "TotalProblems":     68,
     "Src_BC":            "0%",
     "Src_TotalProblems": 69,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.5.14",
+    "From":              "3.5.13",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
