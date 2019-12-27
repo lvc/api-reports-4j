@@ -7,13 +7,26 @@
   "Reports": [
   {
     "Version":           "10.0.0.alpha1",
-    "From":              "9.4.24.v20191120",
+    "From":              "9.4.25.v20191220",
     "BC":                "35.3%",
     "Added":             180,
     "Removed":           123,
     "TotalProblems":     27,
     "Src_BC":            "35.3%",
     "Src_TotalProblems": 26,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.25.v20191220",
+    "From":              "9.4.24.v20191120",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
