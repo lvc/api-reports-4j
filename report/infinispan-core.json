@@ -592,13 +592,26 @@
   },
   {
     "Version":           "9.0.0",
-    "From":              "8.2.11",
+    "From":              "8.2.12",
     "BC":                "70.4%",
     "Added":             2186,
     "Removed":           1687,
     "TotalProblems":     718,
     "Src_BC":            "66.5%",
-    "Src_TotalProblems": 811,
+    "Src_TotalProblems": 828,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8.2.12",
+    "From":              "8.2.11",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

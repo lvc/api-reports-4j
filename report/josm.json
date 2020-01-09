@@ -7,6 +7,32 @@
   "Reports": [
   {
     "Version":           "SNAPSHOT",
+    "From":              15628,
+    "BC":                "99.7%",
+    "Added":             16,
+    "Removed":           1,
+    "TotalProblems":     8,
+    "Src_BC":            "99.7%",
+    "Src_TotalProblems": 5,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "15628",
+    "From":              15625,
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "15625",
     "From":              15553,
     "BC":                "99.9%",
     "Added":             43,
