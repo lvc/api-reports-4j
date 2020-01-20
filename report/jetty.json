@@ -8,19 +8,19 @@
   {
     "Version":           "SNAPSHOT",
     "From":              "10.0.0.alpha1",
-    "BC":                "93.87%",
-    "Added":             118,
-    "Removed":           60,
-    "TotalProblems":     20,
-    "Src_BC":            "90.19%",
-    "Src_TotalProblems": 23,
+    "BC":                "92.82%",
+    "Added":             187,
+    "Removed":           129,
+    "TotalProblems":     42,
+    "Src_BC":            "89.13%",
+    "Src_TotalProblems": 43,
     "ArchivesAdded":     6,
     "ArchivesRemoved":   3,
     "TotalArchives":     42
   },
   {
     "Version":           "10.0.0.alpha1",
-    "From":              "9.4.25.v20191220",
+    "From":              "9.4.26.v20200117",
     "BC":                "72.32%",
     "Added":             567,
     "Removed":           955,
@@ -29,6 +29,19 @@
     "Src_TotalProblems": 245,
     "ArchivesAdded":     9,
     "ArchivesRemoved":   7,
+    "TotalArchives":     40
+  },
+  {
+    "Version":           "9.4.26.v20200117",
+    "From":              "9.4.25.v20191220",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
     "TotalArchives":     40
   },
   {
