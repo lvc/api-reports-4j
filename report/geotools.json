@@ -46,15 +46,28 @@
   },
   {
     "Version":           "22.0",
-    "From":              "21.4",
-    "BC":                "95.28%",
+    "From":              "21.5",
+    "BC":                "95.27%",
     "Added":             145,
-    "Removed":           935,
-    "TotalProblems":     674,
+    "Removed":           939,
+    "TotalProblems":     677,
     "Src_BC":            "94.94%",
-    "Src_TotalProblems": 278,
+    "Src_TotalProblems": 281,
     "ArchivesAdded":     5,
     "ArchivesRemoved":   1,
+    "TotalArchives":     90
+  },
+  {
+    "Version":           "21.5",
+    "From":              "21.4",
+    "BC":                "100%",
+    "Added":             4,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
     "TotalArchives":     90
   },
   {
