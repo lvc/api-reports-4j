@@ -722,13 +722,26 @@
   },
   {
     "Version":           "7.0",
-    "From":              "6.24",
+    "From":              "6.25",
     "BC":                "88.6%",
     "Added":             0,
     "Removed":           121,
     "TotalProblems":     25,
     "Src_BC":            "88.6%",
     "Src_TotalProblems": 24,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "6.25",
+    "From":              "6.24",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
