@@ -150,7 +150,7 @@
   },
   {
     "Version":           "2.5.0",
-    "From":              "2.4.18",
+    "From":              "2.4.19",
     "BC":                "95.40%",
     "Added":             1253,
     "Removed":           106,
@@ -158,6 +158,19 @@
     "Src_BC":            "95.39%",
     "Src_TotalProblems": 77,
     "ArchivesAdded":     6,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     16
+  },
+  {
+    "Version":           "2.4.19",
+    "From":              "2.4.18",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     16
   },
