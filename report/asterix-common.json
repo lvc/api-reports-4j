@@ -1,10 +1,23 @@
 {
   "Title":      "Asterix Common",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/asterix/asterix-common/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/asterix/asterix-common/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/asterix-common/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "0.9.5",
+    "From":              "0.9.4.1",
+    "BC":                "85%",
+    "Added":             282,
+    "Removed":           71,
+    "TotalProblems":     76,
+    "Src_BC":            "77.1%",
+    "Src_TotalProblems": 131,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "0.9.4.1",
     "From":              "0.9.4",

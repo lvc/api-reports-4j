@@ -1,6 +1,6 @@
 {
   "Title":      "Xerces2 J",
-  "SourceUrl":  "http://central.maven.org/maven2/xerces/xercesImpl/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/xerces/xercesImpl/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/xercesimpl/",
   "Maintainer": "Andrey P.",
 

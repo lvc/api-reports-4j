@@ -1,6 +1,6 @@
 {
   "Title":      "Paypal Android SDK",
-  "SourceUrl":  "http://central.maven.org/maven2/com/paypal/sdk/paypal-android-sdk/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/paypal/sdk/paypal-android-sdk/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/paypal-android-sdk/",
   "Maintainer": "Andrey P.",
 

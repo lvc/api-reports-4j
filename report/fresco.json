@@ -1,10 +1,23 @@
 {
   "Title":      "Fresco",
-  "SourceUrl":  "http://central.maven.org/maven2/com/facebook/fresco/fresco/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/facebook/fresco/fresco/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/fresco/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "2.3.0",
+    "From":              "2.0.0",
+    "BC":                "96.3%",
+    "Added":             31,
+    "Removed":           6,
+    "TotalProblems":     1,
+    "Src_BC":            "96.3%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "2.0.0",
     "From":              "1.14.2",

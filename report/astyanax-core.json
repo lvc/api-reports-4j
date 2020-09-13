@@ -1,6 +1,6 @@
 {
   "Title":      "Astyanax Core",
-  "SourceUrl":  "http://central.maven.org/maven2/com/netflix/astyanax/astyanax-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/netflix/astyanax/astyanax-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/astyanax-core/",
   "Maintainer": "Andrey P.",
 

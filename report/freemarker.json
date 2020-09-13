@@ -1,10 +1,23 @@
 {
   "Title":      "FreeMarker",
-  "SourceUrl":  "http://central.maven.org/maven2/org/freemarker/freemarker/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/freemarker/freemarker/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/freemarker/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "2.3.30",
+    "From":              "2.3.29",
+    "BC":                "99.8%",
+    "Added":             41,
+    "Removed":           4,
+    "TotalProblems":     3,
+    "Src_BC":            "99.8%",
+    "Src_TotalProblems": 3,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "2.3.29",
     "From":              "2.3.28",

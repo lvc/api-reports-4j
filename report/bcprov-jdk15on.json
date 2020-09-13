@@ -1,10 +1,49 @@
 {
   "Title":      "Bouncy Castle Provider",
-  "SourceUrl":  "http://central.maven.org/maven2/org/bouncycastle/bcprov-jdk15on/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk15on/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/bcprov-jdk15on/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "1.66",
+    "From":              "1.65.01",
+    "BC":                "98.7%",
+    "Added":             109,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "Src_BC":            "97.5%",
+    "Src_TotalProblems": 6,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.65.01",
+    "From":              "1.65",
+    "BC":                "99.99%",
+    "Added":             23,
+    "Removed":           1,
+    "TotalProblems":     0,
+    "Src_BC":            "99.99%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.65",
+    "From":              "1.64",
+    "BC":                "92.9%",
+    "Added":             244,
+    "Removed":           1130,
+    "TotalProblems":     162,
+    "Src_BC":            "92.9%",
+    "Src_TotalProblems": 162,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "1.64",
     "From":              "1.63",

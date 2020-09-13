@@ -1,6 +1,6 @@
 {
   "Title":      "ApacheDS Protocol DNS",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/directory/server/apacheds-protocol-dns/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/directory/server/apacheds-protocol-dns/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/apacheds-protocol-dns/",
   "Maintainer": "Andrey P.",
 

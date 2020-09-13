@@ -1,6 +1,6 @@
 {
   "Title":      "OSGi Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/osgi/org.osgi.core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/osgi/org.osgi.core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/org.osgi.core/",
   "Maintainer": "Andrey P.",
 

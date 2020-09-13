@@ -1,10 +1,23 @@
 {
   "Title":      "Maven Javadoc Plugin",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/maven/plugins/maven-javadoc-plugin/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/maven/plugins/maven-javadoc-plugin/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/maven-javadoc-plugin/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "3.2.0",
+    "From":              "3.1.1",
+    "BC":                "99.6%",
+    "Added":             7,
+    "Removed":           1,
+    "TotalProblems":     0,
+    "Src_BC":            "99.6%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "3.1.1",
     "From":              "3.1.0",

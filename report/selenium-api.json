@@ -1,23 +1,10 @@
 {
   "Title":      "Selenium API",
-  "SourceUrl":  "http://central.maven.org/maven2/org/seleniumhq/selenium/selenium-api/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/seleniumhq/selenium/selenium-api/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/selenium-api/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
-  {
-    "Version":           "4.0.0-alpha-3",
-    "From":              "3.141.59",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "Src_BC":            "100%",
-    "Src_TotalProblems": 0,
-    "ArchivesAdded":     1,
-    "ArchivesRemoved":   0,
-    "TotalArchives":     0
-  },
   {
     "Version":           "3.141.0",
     "From":              "3.14.0",

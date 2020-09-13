@@ -1,6 +1,6 @@
 {
   "Title":      "Crunch Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/crunch/crunch-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/crunch/crunch-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/crunch-core/",
   "Maintainer": "Andrey P.",
 

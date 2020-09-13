@@ -1,6 +1,6 @@
 {
   "Title":      "JCL over SLF4J",
-  "SourceUrl":  "http://central.maven.org/maven2/org/slf4j/jcl-over-slf4j/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jcl-over-slf4j/",
   "Maintainer": "Andrey P.",
 

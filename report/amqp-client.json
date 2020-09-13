@@ -1,10 +1,23 @@
 {
   "Title":      "RabbitMQ Java Client",
-  "SourceUrl":  "http://central.maven.org/maven2/com/rabbitmq/amqp-client/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/rabbitmq/amqp-client/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/amqp-client/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "5.9.0",
+    "From":              "5.8.0",
+    "BC":                "100%",
+    "Added":             5,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "5.8.0",
     "From":              "5.7.3",
@@ -254,13 +267,26 @@
   },
   {
     "Version":           "5.0.0",
-    "From":              "4.11.3",
-    "BC":                "71%",
+    "From":              "4.12.0",
+    "BC":                "70.6%",
     "Added":             50,
-    "Removed":           218,
-    "TotalProblems":     49,
-    "Src_BC":            "62.4%",
-    "Src_TotalProblems": 67,
+    "Removed":           224,
+    "TotalProblems":     50,
+    "Src_BC":            "62.1%",
+    "Src_TotalProblems": 68,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.12.0",
+    "From":              "4.11.3",
+    "BC":                "100%",
+    "Added":             6,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

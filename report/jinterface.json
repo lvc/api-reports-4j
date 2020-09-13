@@ -1,6 +1,6 @@
 {
   "Title":      "Jinterface",
-  "SourceUrl":  "http://central.maven.org/maven2/org/erlang/otp/jinterface/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/erlang/otp/jinterface/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jinterface/",
   "Maintainer": "Andrey P.",
 

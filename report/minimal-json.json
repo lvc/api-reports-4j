@@ -1,6 +1,6 @@
 {
   "Title":      "Minimal Json",
-  "SourceUrl":  "http://central.maven.org/maven2/com/eclipsesource/minimal-json/minimal-json/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/eclipsesource/minimal-json/minimal-json/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/minimal-json/",
   "Maintainer": "Andrey P.",
 

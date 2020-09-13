@@ -1,10 +1,23 @@
 {
   "Title":      "Commons Net",
-  "SourceUrl":  "http://central.maven.org/maven2/commons-net/commons-net/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/commons-net/commons-net/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/commons-net/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "3.7",
+    "From":              "3.6",
+    "BC":                "100%",
+    "Added":             16,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "3.6",
     "From":              "3.5",

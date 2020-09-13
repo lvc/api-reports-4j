@@ -1,10 +1,36 @@
 {
   "Title":      "Transactions JTA",
-  "SourceUrl":  "http://central.maven.org/maven2/com/atomikos/transactions-jta/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/atomikos/transactions-jta/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/transactions-jta/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "5.0.8",
+    "From":              "5.0.7",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.0.7",
+    "From":              "5.0.6",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "5.0.6",
     "From":              "5.0.5",

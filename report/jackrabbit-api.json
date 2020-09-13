@@ -1,13 +1,13 @@
 {
   "Title":      "Jackrabbit API",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/jackrabbit/jackrabbit-api/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/jackrabbit/jackrabbit-api/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jackrabbit-api/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
     "Version":           "2.19.3",
-    "From":              "2.18.4",
+    "From":              "2.18.6",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -19,7 +19,7 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.18.4",
+    "Version":           "2.18.6",
     "From":              "2.17.7",
     "BC":                "100%",
     "Added":             4,
@@ -33,7 +33,7 @@
   },
   {
     "Version":           "2.17.7",
-    "From":              "2.16.5",
+    "From":              "2.16.6",
     "BC":                "100%",
     "Added":             20,
     "Removed":           0,
@@ -45,7 +45,7 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.16.5",
+    "Version":           "2.16.6",
     "From":              "2.15.8",
     "BC":                "100%",
     "Added":             0,
@@ -85,7 +85,7 @@
   },
   {
     "Version":           "2.13.7",
-    "From":              "2.12.10",
+    "From":              "2.12.11",
     "BC":                "100%",
     "Added":             3,
     "Removed":           0,
@@ -97,7 +97,7 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "2.12.10",
+    "Version":           "2.12.11",
     "From":              "2.11.3",
     "BC":                "100%",
     "Added":             0,

@@ -1,6 +1,6 @@
 {
   "Title":      "Compress LZF",
-  "SourceUrl":  "http://central.maven.org/maven2/com/ning/compress-lzf/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/ning/compress-lzf/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/compress-lzf/",
   "Maintainer": "Andrey P.",
 

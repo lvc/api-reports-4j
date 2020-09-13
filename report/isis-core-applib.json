@@ -1,6 +1,6 @@
 {
   "Title":      "Isis AppLib",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/isis/core/isis-core-applib/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/isis/core/isis-core-applib/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/isis-core-applib/",
   "Maintainer": "Andrey P.",
 

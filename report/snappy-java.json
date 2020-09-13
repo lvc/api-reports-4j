@@ -1,10 +1,62 @@
 {
   "Title":      "Snappy Java",
-  "SourceUrl":  "http://central.maven.org/maven2/org/xerial/snappy/snappy-java/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/xerial/snappy/snappy-java/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/snappy-java/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "1.1.7.7",
+    "From":              "1.1.7.6",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.1.7.6",
+    "From":              "1.1.7.5",
+    "BC":                "100%",
+    "Added":             33,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.1.7.5",
+    "From":              "1.1.7.4",
+    "BC":                "100%",
+    "Added":             18,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.1.7.4",
+    "From":              "1.1.7.3",
+    "BC":                "100%",
+    "Added":             8,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "1.1.7.3",
     "From":              "1.1.7.2",

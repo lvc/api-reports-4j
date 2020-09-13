@@ -1,10 +1,23 @@
 {
   "Title":      "Robolectric",
-  "SourceUrl":  "http://central.maven.org/maven2/org/robolectric/robolectric/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/robolectric/robolectric/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/robolectric/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "4.4",
+    "From":              "4.3.1",
+    "BC":                "98.8%",
+    "Added":             26,
+    "Removed":           3,
+    "TotalProblems":     1,
+    "Src_BC":            "98.8%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "4.3.1",
     "From":              "4.3",

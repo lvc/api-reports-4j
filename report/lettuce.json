@@ -1,6 +1,6 @@
 {
   "Title":      "Lettuce",
-  "SourceUrl":  "http://central.maven.org/maven2/biz/paluch/redis/lettuce/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/biz/paluch/redis/lettuce/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/lettuce/",
   "Maintainer": "Andrey P.",
 

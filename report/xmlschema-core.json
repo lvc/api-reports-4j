@@ -1,6 +1,6 @@
 {
   "Title":      "XmlSchema Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/ws/xmlschema/xmlschema-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/ws/xmlschema/xmlschema-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/xmlschema-core/",
   "Maintainer": "Andrey P.",
 

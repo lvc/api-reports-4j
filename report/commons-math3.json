@@ -1,6 +1,6 @@
 {
   "Title":      "Commons Math",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/commons/commons-math3/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/commons/commons-math3/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/commons-math3/",
   "Maintainer": "Andrey P.",
 

@@ -1,6 +1,6 @@
 {
   "Title":      "ModeShape JCR API",
-  "SourceUrl":  "http://central.maven.org/maven2/org/modeshape/modeshape-jcr-api/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/modeshape/modeshape-jcr-api/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/modeshape-jcr-api/",
   "Maintainer": "Andrey P.",
 

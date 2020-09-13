@@ -1,6 +1,6 @@
 {
   "Title":      "Flapdoodle Embedded Memcache",
-  "SourceUrl":  "http://central.maven.org/maven2/de/flapdoodle/embed/de.flapdoodle.embed.memcached/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/de/flapdoodle/embed/de.flapdoodle.embed.memcached/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/de.flapdoodle.embed.memcached/",
   "Maintainer": "Andrey P.",
 

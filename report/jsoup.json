@@ -1,10 +1,36 @@
 {
   "Title":      "jsoup",
-  "SourceUrl":  "http://central.maven.org/maven2/org/jsoup/jsoup/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/jsoup/jsoup/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jsoup/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "1.13.1",
+    "From":              "1.12.2",
+    "BC":                "98.4%",
+    "Added":             15,
+    "Removed":           16,
+    "TotalProblems":     1,
+    "Src_BC":            "98.4%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.12.2",
+    "From":              "1.12.1",
+    "BC":                "97.8%",
+    "Added":             67,
+    "Removed":           0,
+    "TotalProblems":     43,
+    "Src_BC":            "90%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "1.12.1",
     "From":              "1.11.3",

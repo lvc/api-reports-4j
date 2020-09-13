@@ -1,10 +1,23 @@
 {
   "Title":      "Javassist",
-  "SourceUrl":  "http://central.maven.org/maven2/org/javassist/javassist/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/javassist/javassist/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/javassist/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "3.27.0",
+    "From":              "3.26.0",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     1,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "3.26.0",
     "From":              "3.25.0",

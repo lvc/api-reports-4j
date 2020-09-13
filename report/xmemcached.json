@@ -1,6 +1,6 @@
 {
   "Title":      "Xmemcached",
-  "SourceUrl":  "http://central.maven.org/maven2/com/googlecode/xmemcached/xmemcached/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/googlecode/xmemcached/xmemcached/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/xmemcached/",
   "Maintainer": "Andrey P.",
 

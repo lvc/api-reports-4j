@@ -1,10 +1,23 @@
 {
   "Title":      "Google Guice Core",
-  "SourceUrl":  "http://central.maven.org/maven2/com/google/inject/guice/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/google/inject/guice/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/guice/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "4.2.3",
+    "From":              "4.2.2",
+    "BC":                "99.6%",
+    "Added":             26,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "Src_BC":            "92%",
+    "Src_TotalProblems": 8,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "4.2.2",
     "From":              "4.2.1",

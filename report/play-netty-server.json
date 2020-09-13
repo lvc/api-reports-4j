@@ -1,10 +1,23 @@
 {
   "Title":      "Play Netty Server",
-  "SourceUrl":  "http://central.maven.org/maven2/com/typesafe/play/play-netty-server_2.11/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/typesafe/play/play-netty-server_2.11/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/play-netty-server/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "2.7.5",
+    "From":              "2.7.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "2.7.4",
     "From":              "2.7.3",

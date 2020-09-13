@@ -1,10 +1,62 @@
 {
   "Title":      "DataStax Cassandra Driver",
-  "SourceUrl":  "http://central.maven.org/maven2/com/datastax/cassandra/cassandra-driver-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/datastax/cassandra/cassandra-driver-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/cassandra-driver-core/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "3.10.2",
+    "From":              "3.10.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.10.1",
+    "From":              "3.10.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.10.0",
+    "From":              "3.9.0",
+    "BC":                "100%",
+    "Added":             4,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.9.0",
+    "From":              "3.8.0",
+    "BC":                "100%",
+    "Added":             18,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "3.8.0",
     "From":              "3.7.2",

@@ -1,6 +1,6 @@
 {
   "Title":      "OpenRDF Sesame MemoryStore",
-  "SourceUrl":  "http://central.maven.org/maven2/org/openrdf/sesame/sesame-sail-memory/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/openrdf/sesame/sesame-sail-memory/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/sesame-sail-memory/",
   "Maintainer": "Andrey P.",
 

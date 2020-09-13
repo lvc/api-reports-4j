@@ -1,10 +1,23 @@
 {
   "Title":      "Chill",
-  "SourceUrl":  "http://central.maven.org/maven2/com/twitter/chill_2.11/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/twitter/chill_2.11/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/chill/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "0.9.5",
+    "From":              "0.9.4",
+    "BC":                "93.1%",
+    "Added":             36,
+    "Removed":           24,
+    "TotalProblems":     24,
+    "Src_BC":            "93.7%",
+    "Src_TotalProblems": 24,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "0.9.4",
     "From":              "0.9.3",

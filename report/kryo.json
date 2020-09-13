@@ -1,19 +1,19 @@
 {
   "Title":      "Kryo",
-  "SourceUrl":  "http://central.maven.org/maven2/com/esotericsoftware/kryo/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/esotericsoftware/kryo/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/kryo/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "5.0.0-RC4",
+    "Version":           "5.0.0-RC9",
     "From":              "4.0.2",
-    "BC":                "64.3%",
-    "Added":             410,
-    "Removed":           327,
-    "TotalProblems":     92,
-    "Src_BC":            "63.7%",
-    "Src_TotalProblems": 81,
+    "BC":                "58%",
+    "Added":             560,
+    "Removed":           354,
+    "TotalProblems":     142,
+    "Src_BC":            "57.5%",
+    "Src_TotalProblems": 104,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

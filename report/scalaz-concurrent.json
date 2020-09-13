@@ -1,6 +1,6 @@
 {
   "Title":      "Scalaz Concurrent",
-  "SourceUrl":  "http://central.maven.org/maven2/org/scalaz/scalaz-concurrent_2.11/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/scalaz/scalaz-concurrent_2.11/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/scalaz-concurrent/",
   "Maintainer": "Andrey P.",
 

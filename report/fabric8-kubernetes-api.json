@@ -1,6 +1,6 @@
 {
   "Title":      "Fabric8 Kubernetes API",
-  "SourceUrl":  "http://central.maven.org/maven2/io/fabric8/kubernetes-api/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/io/fabric8/kubernetes-api/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/fabric8-kubernetes-api/",
   "Maintainer": "Andrey P.",
 

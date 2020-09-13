@@ -1,12 +1,51 @@
 {
   "Title":      "Infinispan LevelDB CacheStore",
-  "SourceUrl":  "http://central.maven.org/maven2/org/infinispan/infinispan-cachestore-leveldb/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/infinispan/infinispan-cachestore-leveldb/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/infinispan-cachestore-leveldb/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
     "Version":           "10.0.0.Alpha2",
+    "From":              "9.4.20",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.20",
+    "From":              "9.4.19",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.19",
+    "From":              "9.4.18",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.4.18",
     "From":              "9.4.17",
     "BC":                "100%",
     "Added":             0,
@@ -241,6 +280,32 @@
   },
   {
     "Version":           "9.4.0",
+    "From":              "9.3.9",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.3.9",
+    "From":              "9.3.8",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.3.8",
     "From":              "9.3.6",
     "BC":                "100%",
     "Added":             0,

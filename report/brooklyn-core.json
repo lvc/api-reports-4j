@@ -1,18 +1,18 @@
 {
   "Title":      "Brooklyn Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/brooklyn/brooklyn-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/brooklyn/brooklyn-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/brooklyn-core/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "1.0.0-M1",
+    "Version":           "1.0.0",
     "From":              "0.12.0",
     "BC":                "86.5%",
-    "Added":             241,
-    "Removed":           232,
+    "Added":             295,
+    "Removed":           234,
     "TotalProblems":     73,
-    "Src_BC":            "86.3%",
+    "Src_BC":            "86.2%",
     "Src_TotalProblems": 62,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,

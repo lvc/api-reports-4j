@@ -1,6 +1,6 @@
 {
   "Title":      "Hive Common",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/hive/hive-common/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/hive/hive-common/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/hive-common/",
   "Maintainer": "Andrey P.",
 
@@ -46,13 +46,26 @@
   },
   {
     "Version":           "3.0.0",
-    "From":              "2.3.6",
+    "From":              "2.3.7",
     "BC":                "86.7%",
     "Added":             211,
     "Removed":           73,
     "TotalProblems":     79,
     "Src_BC":            "85.1%",
     "Src_TotalProblems": 78,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.7",
+    "From":              "2.3.6",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

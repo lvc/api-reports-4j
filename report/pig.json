@@ -1,6 +1,6 @@
 {
   "Title":      "Pig",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/pig/pig/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/pig/pig/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/pig/",
   "Maintainer": "Andrey P.",
 

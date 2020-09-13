@@ -1,10 +1,36 @@
 {
   "Title":      "JFinal",
-  "SourceUrl":  "http://central.maven.org/maven2/com/jfinal/jfinal/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/jfinal/jfinal/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jfinal/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "4.9.01",
+    "From":              "4.9",
+    "BC":                "99.8%",
+    "Added":             30,
+    "Removed":           2,
+    "TotalProblems":     2,
+    "Src_BC":            "99.8%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.9",
+    "From":              "4.8",
+    "BC":                "99.3%",
+    "Added":             110,
+    "Removed":           21,
+    "TotalProblems":     6,
+    "Src_BC":            "99.4%",
+    "Src_TotalProblems": 3,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "4.8",
     "From":              "4.7",

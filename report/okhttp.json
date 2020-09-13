@@ -1,6 +1,6 @@
 {
   "Title":      "OkHttp",
-  "SourceUrl":  "http://central.maven.org/maven2/com/squareup/okhttp/okhttp/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/squareup/okhttp/okhttp/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/okhttp/",
   "Maintainer": "Andrey P.",
 

@@ -1,6 +1,6 @@
 {
   "Title":      "Plexus Resource Component",
-  "SourceUrl":  "http://central.maven.org/maven2/org/codehaus/plexus/plexus-resources/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/codehaus/plexus/plexus-resources/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/plexus-resources/",
   "Maintainer": "Andrey P.",
 

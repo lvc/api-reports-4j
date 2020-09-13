@@ -1,6 +1,6 @@
 {
   "Title":      "Archaius Core",
-  "SourceUrl":  "http://central.maven.org/maven2/com/netflix/archaius/archaius-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/netflix/archaius/archaius-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/archaius-core/",
   "Maintainer": "Andrey P.",
 

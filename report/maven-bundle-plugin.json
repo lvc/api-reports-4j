@@ -1,10 +1,23 @@
 {
   "Title":      "Maven Bundle Plugin",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/felix/maven-bundle-plugin/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/felix/maven-bundle-plugin/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/maven-bundle-plugin/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "5.1.1",
+    "From":              "4.2.1",
+    "BC":                "67.6%",
+    "Added":             1,
+    "Removed":           92,
+    "TotalProblems":     6,
+    "Src_BC":            "67.4%",
+    "Src_TotalProblems": 6,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "4.2.1",
     "From":              "4.2.0",

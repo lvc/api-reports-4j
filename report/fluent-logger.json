@@ -1,6 +1,6 @@
 {
   "Title":      "Fluent Logger",
-  "SourceUrl":  "http://central.maven.org/maven2/org/fluentd/fluent-logger/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/fluentd/fluent-logger/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/fluent-logger/",
   "Maintainer": "Andrey P.",
 

@@ -1,6 +1,6 @@
 {
   "Title":      "Maven Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/maven/maven-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/maven/maven-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/maven-core/",
   "Maintainer": "Andrey P.",
 
@@ -9,11 +9,11 @@
     "Version":           "SNAPSHOT",
     "From":              "3.6.3",
     "BC":                "99.7%",
-    "Added":             6,
-    "Removed":           1,
+    "Added":             29,
+    "Removed":           2,
     "TotalProblems":     5,
-    "Src_BC":            "99.8%",
-    "Src_TotalProblems": 5,
+    "Src_BC":            "90%",
+    "Src_TotalProblems": 9,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

@@ -1,6 +1,6 @@
 {
   "Title":      "ZXing Core",
-  "SourceUrl":  "http://central.maven.org/maven2/com/google/zxing/core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/google/zxing/core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/zxing-core/",
   "Maintainer": "Andrey P.",
 

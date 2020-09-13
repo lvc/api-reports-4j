@@ -1,19 +1,19 @@
 {
   "Title":      "Smack TCP",
-  "SourceUrl":  "http://central.maven.org/maven2/org/igniterealtime/smack/smack-tcp/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/igniterealtime/smack/smack-tcp/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/smack-tcp/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "4.4.0-alpha2",
+    "Version":           "4.4.0-beta1",
     "From":              "4.3.4",
-    "BC":                "89.8%",
-    "Added":             35,
-    "Removed":           15,
-    "TotalProblems":     0,
-    "Src_BC":            "89.8%",
-    "Src_TotalProblems": 0,
+    "BC":                "57.8%",
+    "Added":             59,
+    "Removed":           16,
+    "TotalProblems":     1,
+    "Src_BC":            "57.8%",
+    "Src_TotalProblems": 1,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

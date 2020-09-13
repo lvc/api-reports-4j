@@ -1,10 +1,49 @@
 {
   "Title":      "MySQL Connector/J",
-  "SourceUrl":  "http://central.maven.org/maven2/mysql/mysql-connector-java/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/mysql/mysql-connector-java/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/mysql-connector-java/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "8.0.21",
+    "From":              "8.0.20",
+    "BC":                "99.98%",
+    "Added":             21,
+    "Removed":           1,
+    "TotalProblems":     0,
+    "Src_BC":            "99.7%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8.0.20",
+    "From":              "8.0.19",
+    "BC":                "96.6%",
+    "Added":             64,
+    "Removed":           16,
+    "TotalProblems":     6,
+    "Src_BC":            "95.3%",
+    "Src_TotalProblems": 7,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8.0.19",
+    "From":              "8.0.18",
+    "BC":                "99.2%",
+    "Added":             82,
+    "Removed":           28,
+    "TotalProblems":     13,
+    "Src_BC":            "98.8%",
+    "Src_TotalProblems": 13,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "8.0.18",
     "From":              "8.0.17",
@@ -189,13 +228,26 @@
   },
   {
     "Version":           "6.0.2",
-    "From":              "5.1.48",
+    "From":              "5.1.49",
     "BC":                "0%",
     "Added":             5348,
-    "Removed":           5952,
+    "Removed":           5948,
     "TotalProblems":     271,
     "Src_BC":            "0%",
     "Src_TotalProblems": 271,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.1.49",
+    "From":              "5.1.48",
+    "BC":                "99.9%",
+    "Added":             0,
+    "Removed":           4,
+    "TotalProblems":     1,
+    "Src_BC":            "99.9%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

@@ -1,6 +1,6 @@
 {
   "Title":      "JsonPath",
-  "SourceUrl":  "http://central.maven.org/maven2/com/jayway/jsonpath/json-path/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/jayway/jsonpath/json-path/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/json-path/",
   "Maintainer": "Andrey P.",
 

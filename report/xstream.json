@@ -1,10 +1,36 @@
 {
   "Title":      "XStream Core",
-  "SourceUrl":  "http://central.maven.org/maven2/com/thoughtworks/xstream/xstream/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/thoughtworks/xstream/xstream/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/xstream/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "1.4.13",
+    "From":              "1.4.12",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.4.12",
+    "From":              "1.4.11.1",
+    "BC":                "99.8%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "Src_BC":            "99.8%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "1.4.11.1",
     "From":              "1.4.11",

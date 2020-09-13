@@ -1,6 +1,6 @@
 {
   "Title":      "Flume NG SDK",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/flume/flume-ng-sdk/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/flume/flume-ng-sdk/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/flume-ng-sdk/",
   "Maintainer": "Andrey P.",
 

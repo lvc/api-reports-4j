@@ -1,6 +1,6 @@
 {
   "Title":      "IText Core",
-  "SourceUrl":  "http://central.maven.org/maven2/com/itextpdf/itextpdf/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/itextpdf/itextpdf/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/itextpdf/",
   "Maintainer": "Andrey P.",
 

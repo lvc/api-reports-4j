@@ -1,19 +1,45 @@
 {
   "Title":      "Json4s Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/json4s/json4s-core_2.11/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/json4s/json4s-core_2.11/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/json4s-core/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "3.7.0-M2",
+    "Version":           "3.7.0-M6",
+    "From":              "3.6.9",
+    "BC":                "81.1%",
+    "Added":             137,
+    "Removed":           47,
+    "TotalProblems":     14,
+    "Src_BC":            "81.1%",
+    "Src_TotalProblems": 28,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.6.9",
+    "From":              "3.6.8",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.6.8",
     "From":              "3.6.7",
-    "BC":                "98.1%",
-    "Added":             43,
-    "Removed":           19,
-    "TotalProblems":     1,
-    "Src_BC":            "83.7%",
-    "Src_TotalProblems": 5,
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

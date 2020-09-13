@@ -1,6 +1,6 @@
 {
   "Title":      "Spray Client",
-  "SourceUrl":  "http://central.maven.org/maven2/io/spray/spray-client_2.11/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/io/spray/spray-client_2.11/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/spray-client/",
   "Maintainer": "Andrey P.",
 

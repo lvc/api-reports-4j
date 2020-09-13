@@ -1,6 +1,6 @@
 {
   "Title":      "Java Hod Client",
-  "SourceUrl":  "http://central.maven.org/maven2/com/hp/autonomy/hod/java-hod-client/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/hp/autonomy/hod/java-hod-client/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/java-hod-client/",
   "Maintainer": "Andrey P.",
 

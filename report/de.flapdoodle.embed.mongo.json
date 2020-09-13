@@ -1,6 +1,6 @@
 {
   "Title":      "Flapdoodle Embedded MongoDB",
-  "SourceUrl":  "http://central.maven.org/maven2/de/flapdoodle/embed/de.flapdoodle.embed.mongo/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/de/flapdoodle/embed/de.flapdoodle.embed.mongo/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/de.flapdoodle.embed.mongo/",
   "Maintainer": "Andrey P.",
 

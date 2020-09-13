@@ -1,10 +1,23 @@
 {
   "Title":      "Hadoop Common",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/hadoop/hadoop-common/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/hadoop-common/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "3.3.0",
+    "From":              "3.2.1",
+    "BC":                "67.6%",
+    "Added":             5074,
+    "Removed":           2753,
+    "TotalProblems":     1697,
+    "Src_BC":            "68.1%",
+    "Src_TotalProblems": 1693,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "3.2.1",
     "From":              "3.2.0",
@@ -20,13 +33,26 @@
   },
   {
     "Version":           "3.2.0",
+    "From":              "3.1.4",
+    "BC":                "96%",
+    "Added":             165,
+    "Removed":           257,
+    "TotalProblems":     70,
+    "Src_BC":            "95.2%",
+    "Src_TotalProblems": 60,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.1.4",
     "From":              "3.1.3",
-    "BC":                "96.9%",
-    "Added":             163,
-    "Removed":           225,
-    "TotalProblems":     53,
-    "Src_BC":            "96.1%",
-    "Src_TotalProblems": 46,
+    "BC":                "99.97%",
+    "Added":             37,
+    "Removed":           4,
+    "TotalProblems":     3,
+    "Src_BC":            "99.6%",
+    "Src_TotalProblems": 3,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

@@ -1,6 +1,6 @@
 {
   "Title":      "Quartz",
-  "SourceUrl":  "http://central.maven.org/maven2/org/quartz-scheduler/quartz/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/quartz-scheduler/quartz/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/quartz/",
   "Maintainer": "Andrey P.",
 

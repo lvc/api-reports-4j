@@ -1,10 +1,49 @@
 {
   "Title":      "Karaf Features Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/karaf/features/org.apache.karaf.features.core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/karaf/features/org.apache.karaf.features.core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/org.apache.karaf.features.core/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "4.3.0.RC1",
+    "From":              "4.2.9",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.2.9",
+    "From":              "4.2.8",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.2.8",
+    "From":              "4.2.7",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "4.2.7",
     "From":              "4.2.6",
@@ -345,13 +384,26 @@
   },
   {
     "Version":           "4.0.0",
-    "From":              "3.0.9",
+    "From":              "3.0.10",
     "BC":                "47%",
     "Added":             99,
     "Removed":           9,
     "TotalProblems":     13,
     "Src_BC":            "24.8%",
     "Src_TotalProblems": 44,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.0.10",
+    "From":              "3.0.9",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

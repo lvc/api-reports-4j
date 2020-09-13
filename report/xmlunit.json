@@ -1,6 +1,6 @@
 {
   "Title":      "XMLUnit For Java",
-  "SourceUrl":  "http://central.maven.org/maven2/xmlunit/xmlunit/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/xmlunit/xmlunit/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/xmlunit/",
   "Maintainer": "Andrey P.",
 

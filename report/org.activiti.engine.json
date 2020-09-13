@@ -1,6 +1,6 @@
 {
   "Title":      "Activiti Engine 7",
-  "SourceUrl":  "http://central.maven.org/maven2/org/activiti/activiti-engine/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/activiti/activiti-engine/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/org.activiti.engine/",
   "Maintainer": "Andrey P.",
 

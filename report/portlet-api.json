@@ -1,6 +1,6 @@
 {
   "Title":      "Java Portlet API",
-  "SourceUrl":  "http://central.maven.org/maven2/javax/portlet/portlet-api/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/javax/portlet/portlet-api/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/portlet-api/",
   "Maintainer": "Andrey P.",
 

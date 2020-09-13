@@ -1,6 +1,6 @@
 {
   "Title":      "Mahout Math",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/mahout/mahout-math/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/mahout/mahout-math/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/mahout-math/",
   "Maintainer": "Andrey P.",
 

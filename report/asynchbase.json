@@ -1,6 +1,6 @@
 {
   "Title":      "Asynchronous HBase Client",
-  "SourceUrl":  "http://central.maven.org/maven2/org/hbase/asynchbase/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/hbase/asynchbase/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/asynchbase/",
   "Maintainer": "Andrey P.",
 

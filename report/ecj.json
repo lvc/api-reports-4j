@@ -1,6 +1,6 @@
 {
   "Title":      "Eclipse ECJ",
-  "SourceUrl":  "http://central.maven.org/maven2/org/eclipse/jdt/core/compiler/ecj/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/eclipse/jdt/core/compiler/ecj/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/ecj/",
   "Maintainer": "Andrey P.",
 

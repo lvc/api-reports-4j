@@ -1,19 +1,45 @@
 {
   "Title":      "Mozilla Rhino",
-  "SourceUrl":  "http://central.maven.org/maven2/org/mozilla/rhino/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/mozilla/rhino/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/rhino/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
     "Version":           "SNAPSHOT",
+    "From":              "1.7.13",
+    "BC":                "77.3%",
+    "Added":             28,
+    "Removed":           164,
+    "TotalProblems":     89,
+    "Src_BC":            "67.3%",
+    "Src_TotalProblems": 64,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.7.13",
+    "From":              "1.7.12",
+    "BC":                "97%",
+    "Added":             51,
+    "Removed":           11,
+    "TotalProblems":     11,
+    "Src_BC":            "97.1%",
+    "Src_TotalProblems": 9,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.7.12",
     "From":              "1.7.11",
-    "BC":                "85.4%",
-    "Added":             17,
-    "Removed":           114,
-    "TotalProblems":     61,
-    "Src_BC":            "72.1%",
-    "Src_TotalProblems": 39,
+    "BC":                "93.6%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "Src_BC":            "93.6%",
+    "Src_TotalProblems": 2,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

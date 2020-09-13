@@ -1,6 +1,6 @@
 {
   "Title":      "Yandex Embedded PostgreSQL",
-  "SourceUrl":  "http://central.maven.org/maven2/ru/yandex/qatools/embed/postgresql-embedded/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/ru/yandex/qatools/embed/postgresql-embedded/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/yandex-postgresql-embedded/",
   "Maintainer": "Andrey P.",
 

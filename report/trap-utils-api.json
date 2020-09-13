@@ -1,6 +1,6 @@
 {
   "Title":      "TrAP Utils API",
-  "SourceUrl":  "http://central.maven.org/maven2/com/ericsson/research/trap/trap-utils-api/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/ericsson/research/trap/trap-utils-api/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/trap-utils-api/",
   "Maintainer": "Andrey P.",
 

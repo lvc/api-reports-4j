@@ -1,6 +1,6 @@
 {
   "Title":      "Twitter4j Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/twitter4j/twitter4j-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/twitter4j/twitter4j-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/twitter4j-core/",
   "Maintainer": "Andrey P.",
 

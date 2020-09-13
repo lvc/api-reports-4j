@@ -1,6 +1,6 @@
 {
   "Title":      "PhantomJSDriver",
-  "SourceUrl":  "http://central.maven.org/maven2/com/codeborne/phantomjsdriver/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/codeborne/phantomjsdriver/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/phantomjsdriver/",
   "Maintainer": "Andrey P.",
 

@@ -1,10 +1,23 @@
 {
   "Title":      "HtmlCleaner",
-  "SourceUrl":  "http://central.maven.org/maven2/net/sourceforge/htmlcleaner/htmlcleaner/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/net/sourceforge/htmlcleaner/htmlcleaner/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/htmlcleaner/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "2.24",
+    "From":              "2.23",
+    "BC":                "100%",
+    "Added":             25,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "Src_BC":            "99.1%",
+    "Src_TotalProblems": 7,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "2.23",
     "From":              "2.22",

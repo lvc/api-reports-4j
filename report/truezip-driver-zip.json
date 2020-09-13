@@ -1,6 +1,6 @@
 {
   "Title":      "TrueZIP Driver ZIP",
-  "SourceUrl":  "http://central.maven.org/maven2/de/schlichtherle/truezip/truezip-driver-zip/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/de/schlichtherle/truezip/truezip-driver-zip/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/truezip-driver-zip/",
   "Maintainer": "Andrey P.",
 

@@ -1,19 +1,32 @@
 {
   "Title":      "Redisson",
-  "SourceUrl":  "http://central.maven.org/maven2/org/redisson/redisson/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/redisson/redisson/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/redisson/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "3.12.0",
+    "Version":           "3.13.4",
+    "From":              "3.12.5",
+    "BC":                "98.7%",
+    "Added":             406,
+    "Removed":           39,
+    "TotalProblems":     41,
+    "Src_BC":            "89.8%",
+    "Src_TotalProblems": 116,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.12.5",
     "From":              "3.11.6",
-    "BC":                "95.2%",
-    "Added":             102,
-    "Removed":           112,
-    "TotalProblems":     46,
-    "Src_BC":            "93.9%",
-    "Src_TotalProblems": 62,
+    "BC":                "91.7%",
+    "Added":             653,
+    "Removed":           204,
+    "TotalProblems":     134,
+    "Src_BC":            "80.4%",
+    "Src_TotalProblems": 146,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

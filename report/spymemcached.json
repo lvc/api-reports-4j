@@ -1,6 +1,6 @@
 {
   "Title":      "Spymemcached",
-  "SourceUrl":  "http://central.maven.org/maven2/net/spy/spymemcached/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/net/spy/spymemcached/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/spymemcached/",
   "Maintainer": "Andrey P.",
 

@@ -1,10 +1,23 @@
 {
   "Title":      "Spring Security JWT",
-  "SourceUrl":  "http://central.maven.org/maven2/org/springframework/security/spring-security-jwt/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/springframework/security/spring-security-jwt/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/spring-security-jwt/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "1.1.1",
+    "From":              "1.1.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "1.1.0",
     "From":              "1.0.11",

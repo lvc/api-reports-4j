@@ -1,13 +1,13 @@
 {
   "Title":      "JUnit Jupiter Params",
-  "SourceUrl":  "http://central.maven.org/maven2/org/junit/jupiter/junit-jupiter-params/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/junit/jupiter/junit-jupiter-params/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/junit-jupiter-params/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
     "Version":           "SNAPSHOT",
-    "From":              "5.6.0-RC1",
+    "From":              "5.7.0-RC1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -19,7 +19,46 @@
     "TotalArchives":     1
   },
   {
-    "Version":           "5.6.0-RC1",
+    "Version":           "5.7.0-RC1",
+    "From":              "5.6.2",
+    "BC":                "100%",
+    "Added":             11,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.6.2",
+    "From":              "5.6.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.6.1",
+    "From":              "5.6.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.6.0",
     "From":              "5.5.2",
     "BC":                "99.95%",
     "Added":             20,

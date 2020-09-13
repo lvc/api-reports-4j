@@ -1,6 +1,6 @@
 {
   "Title":      "Ehcache 2",
-  "SourceUrl":  "http://central.maven.org/maven2/net/sf/ehcache/ehcache/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/net/sf/ehcache/ehcache/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/ehcache/",
   "Maintainer": "Andrey P.",
 

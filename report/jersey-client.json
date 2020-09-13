@@ -1,10 +1,62 @@
 {
   "Title":      "Jersey Core Client",
-  "SourceUrl":  "http://central.maven.org/maven2/org/glassfish/jersey/core/jersey-client/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/glassfish/jersey/core/jersey-client/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jersey-client/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "3.0.0-M6",
+    "From":              "2.31",
+    "BC":                "16.2%",
+    "Added":             222,
+    "Removed":           222,
+    "TotalProblems":     148,
+    "Src_BC":            "16.6%",
+    "Src_TotalProblems": 156,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.31",
+    "From":              "2.30.1",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.30.1",
+    "From":              "2.30",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.30",
+    "From":              "2.29.1",
+    "BC":                "98.7%",
+    "Added":             45,
+    "Removed":           0,
+    "TotalProblems":     8,
+    "Src_BC":            "93.8%",
+    "Src_TotalProblems": 7,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "2.29.1",
     "From":              "2.29",

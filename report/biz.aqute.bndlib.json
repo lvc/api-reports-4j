@@ -1,10 +1,75 @@
 {
   "Title":      "Bndlib",
-  "SourceUrl":  "http://central.maven.org/maven2/biz/aQute/bnd/biz.aQute.bndlib/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/biz/aQute/bnd/biz.aQute.bndlib/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/biz.aqute.bndlib/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "5.1.2",
+    "From":              "5.1.1",
+    "BC":                "100%",
+    "Added":             6,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.1.1",
+    "From":              "5.1.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.1.0",
+    "From":              "5.0.1",
+    "BC":                "99.6%",
+    "Added":             323,
+    "Removed":           20,
+    "TotalProblems":     69,
+    "Src_BC":            "92.9%",
+    "Src_TotalProblems": 73,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.0.1",
+    "From":              "5.0.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.0.0",
+    "From":              "4.3.1",
+    "BC":                "97.3%",
+    "Added":             171,
+    "Removed":           141,
+    "TotalProblems":     8,
+    "Src_BC":            "97.3%",
+    "Src_TotalProblems": 10,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "4.3.1",
     "From":              "4.3.0",

@@ -1,6 +1,6 @@
 {
   "Title":      "Axis2 Kernel",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/axis2/axis2-kernel/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/axis2/axis2-kernel/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/axis2-kernel/",
   "Maintainer": "Andrey P.",
 

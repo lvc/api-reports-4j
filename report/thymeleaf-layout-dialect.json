@@ -1,6 +1,6 @@
 {
   "Title":      "Thymeleaf Layout Dialect",
-  "SourceUrl":  "http://central.maven.org/maven2/nz/net/ultraq/thymeleaf/thymeleaf-layout-dialect/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/nz/net/ultraq/thymeleaf/thymeleaf-layout-dialect/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/thymeleaf-layout-dialect/",
   "Maintainer": "Andrey P.",
 

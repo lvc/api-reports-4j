@@ -1,25 +1,25 @@
 {
   "Title":      "OrientDB GraphDB",
-  "SourceUrl":  "http://central.maven.org/maven2/com/orientechnologies/orientdb-graphdb/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/orientechnologies/orientdb-graphdb/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/orientdb-graphdb/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "3.1.0-M3",
-    "From":              "3.0.27",
-    "BC":                "96%",
-    "Added":             1,
-    "Removed":           3,
-    "TotalProblems":     3,
-    "Src_BC":            "96%",
-    "Src_TotalProblems": 3,
+    "Version":           "3.1.2",
+    "From":              "3.0.34",
+    "BC":                "85.8%",
+    "Added":             30,
+    "Removed":           107,
+    "TotalProblems":     23,
+    "Src_BC":            "85.8%",
+    "Src_TotalProblems": 22,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1
   },
   {
-    "Version":           "3.0.27",
+    "Version":           "3.0.34",
     "From":              "2.2.37",
     "BC":                "63.5%",
     "Added":             35,

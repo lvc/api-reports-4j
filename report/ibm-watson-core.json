@@ -1,6 +1,6 @@
 {
   "Title":      "IBM Watson Client Core",
-  "SourceUrl":  "http://central.maven.org/maven2/com/ibm/watson/developer_cloud/core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/ibm/watson/developer_cloud/core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/ibm-watson-core/",
   "Maintainer": "Andrey P.",
 

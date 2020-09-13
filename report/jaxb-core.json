@@ -1,10 +1,23 @@
 {
   "Title":      "Old JAXB Core",
-  "SourceUrl":  "http://central.maven.org/maven2/com/sun/xml/bind/jaxb-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/sun/xml/bind/jaxb-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jaxb-core/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "3.0.0-M4",
+    "From":              "2.3.0.1",
+    "BC":                "46.5%",
+    "Added":             363,
+    "Removed":           359,
+    "TotalProblems":     67,
+    "Src_BC":            "46.5%",
+    "Src_TotalProblems": 68,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "2.3.0.1",
     "From":              "2.3.0",

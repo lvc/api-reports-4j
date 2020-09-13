@@ -1,19 +1,32 @@
 {
   "Title":      "Old JAXB Runtime",
-  "SourceUrl":  "http://central.maven.org/maven2/com/sun/xml/bind/jaxb-impl/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/sun/xml/bind/jaxb-impl/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jaxb-impl/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "2.4.0-b180830.0438",
+    "Version":           "3.0.0-M4",
+    "From":              "2.3.3",
+    "BC":                "0.90%",
+    "Added":             1480,
+    "Removed":           2152,
+    "TotalProblems":     329,
+    "Src_BC":            "0.90%",
+    "Src_TotalProblems": 333,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.3.3",
     "From":              "2.3.2",
-    "BC":                "99.8%",
-    "Added":             0,
-    "Removed":           3,
-    "TotalProblems":     1,
-    "Src_BC":            "99.8%",
-    "Src_TotalProblems": 1,
+    "BC":                "98.6%",
+    "Added":             360,
+    "Removed":           2,
+    "TotalProblems":     20,
+    "Src_BC":            "98.7%",
+    "Src_TotalProblems": 20,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

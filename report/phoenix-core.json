@@ -1,6 +1,6 @@
 {
   "Title":      "Phoenix Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/phoenix/phoenix-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/phoenix/phoenix-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/phoenix-core/",
   "Maintainer": "Andrey P.",
 

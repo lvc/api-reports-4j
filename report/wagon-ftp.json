@@ -1,10 +1,36 @@
 {
   "Title":      "Wagon FTP",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/maven/wagon/wagon-ftp/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/maven/wagon/wagon-ftp/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/wagon-ftp/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "3.4.1",
+    "From":              "3.4.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.4.0",
+    "From":              "3.3.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "3.3.4",
     "From":              "3.3.3",

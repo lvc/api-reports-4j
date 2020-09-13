@@ -1,10 +1,49 @@
 {
   "Title":      "Weld SE Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/jboss/weld/se/weld-se-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/jboss/weld/se/weld-se-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/weld-se-core/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "4.0.0.Alpha3",
+    "From":              "3.1.5",
+    "BC":                "62.6%",
+    "Added":             29,
+    "Removed":           28,
+    "TotalProblems":     26,
+    "Src_BC":            "76%",
+    "Src_TotalProblems": 25,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.1.5",
+    "From":              "3.1.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "3.1.4",
+    "From":              "3.1.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "3.1.3",
     "From":              "3.1.2",

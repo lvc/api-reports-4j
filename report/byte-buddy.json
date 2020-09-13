@@ -1,19 +1,19 @@
 {
   "Title":      "Byte Buddy",
-  "SourceUrl":  "http://central.maven.org/maven2/net/bytebuddy/byte-buddy/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/byte-buddy/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "1.10.6",
+    "Version":           "1.10.14",
     "From":              "1.9.16",
-    "BC":                "97.1%",
-    "Added":             256,
-    "Removed":           131,
-    "TotalProblems":     63,
-    "Src_BC":            "96.3%",
-    "Src_TotalProblems": 78,
+    "BC":                "90%",
+    "Added":             908,
+    "Removed":           253,
+    "TotalProblems":     102,
+    "Src_BC":            "75.1%",
+    "Src_TotalProblems": 134,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

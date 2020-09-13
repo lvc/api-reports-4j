@@ -1,10 +1,49 @@
 {
   "Title":      "Fastutil",
-  "SourceUrl":  "http://central.maven.org/maven2/it/unimi/dsi/fastutil/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/it/unimi/dsi/fastutil/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/fastutil/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "8.4.1",
+    "From":              "8.4.0",
+    "BC":                "100%",
+    "Added":             72,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8.4.0",
+    "From":              "8.3.1",
+    "BC":                "100%",
+    "Added":             44,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "8.3.1",
+    "From":              "8.3.0",
+    "BC":                "100%",
+    "Added":             27,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "8.3.0",
     "From":              "8.2.3",

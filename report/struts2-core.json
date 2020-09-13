@@ -1,6 +1,6 @@
 {
   "Title":      "Struts 2 Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/struts/struts2-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/struts/struts2-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/struts2-core/",
   "Maintainer": "Andrey P.",
 

@@ -1,6 +1,6 @@
 {
   "Title":      "Felix Framework",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/felix/org.apache.felix.framework/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/felix/org.apache.felix.framework/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/org.apache.felix.framework/",
   "Maintainer": "Andrey P.",
 

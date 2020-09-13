@@ -1,10 +1,75 @@
 {
   "Title":      "JRuby Complete",
-  "SourceUrl":  "http://central.maven.org/maven2/org/jruby/jruby-complete/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/jruby/jruby-complete/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jruby-complete/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "9.2.13.0",
+    "From":              "9.2.12.0",
+    "BC":                "98.4%",
+    "Added":             170,
+    "Removed":           116,
+    "TotalProblems":     49,
+    "Src_BC":            "98%",
+    "Src_TotalProblems": 40,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.2.12.0",
+    "From":              "9.2.11.1",
+    "BC":                "99.99%",
+    "Added":             23,
+    "Removed":           1,
+    "TotalProblems":     1,
+    "Src_BC":            "99.7%",
+    "Src_TotalProblems": 5,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.2.11.1",
+    "From":              "9.2.11.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.2.11.0",
+    "From":              "9.2.10.0",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "9.2.10.0",
+    "From":              "9.2.9.0",
+    "BC":                "97%",
+    "Added":             442,
+    "Removed":           65,
+    "TotalProblems":     34,
+    "Src_BC":            "96.3%",
+    "Src_TotalProblems": 41,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "9.2.9.0",
     "From":              "9.2.8.0",

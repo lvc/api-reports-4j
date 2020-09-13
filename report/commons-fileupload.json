@@ -1,6 +1,6 @@
 {
   "Title":      "Commons FileUpload",
-  "SourceUrl":  "http://central.maven.org/maven2/commons-fileupload/commons-fileupload/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/commons-fileupload/commons-fileupload/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/commons-fileupload/",
   "Maintainer": "Andrey P.",
 

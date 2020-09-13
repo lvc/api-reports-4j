@@ -1,6 +1,6 @@
 {
   "Title":      "LevelDB",
-  "SourceUrl":  "http://central.maven.org/maven2/org/iq80/leveldb/leveldb/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/iq80/leveldb/leveldb/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/leveldb/",
   "Maintainer": "Andrey P.",
 

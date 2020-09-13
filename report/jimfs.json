@@ -1,6 +1,6 @@
 {
   "Title":      "Jimfs",
-  "SourceUrl":  "http://central.maven.org/maven2/com/google/jimfs/jimfs/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/google/jimfs/jimfs/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jimfs/",
   "Maintainer": "Andrey P.",
 

@@ -1,6 +1,6 @@
 {
   "Title":      "OpenEJB Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/openejb/openejb-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/openejb/openejb-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/openejb-core/",
   "Maintainer": "Andrey P.",
 

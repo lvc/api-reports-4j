@@ -1,10 +1,23 @@
 {
   "Title":      "Commons Configuration",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/commons/commons-configuration2/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/commons/commons-configuration2/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/commons-configuration/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "2.7",
+    "From":              "2.6",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "2.6",
     "From":              "2.5",

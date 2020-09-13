@@ -1,10 +1,23 @@
 {
   "Title":      "Hibernate Validator Engine",
-  "SourceUrl":  "http://central.maven.org/maven2/org/hibernate/hibernate-validator/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/hibernate/hibernate-validator/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/hibernate-validator/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "7.0.0.Alpha6",
+    "From":              "5.4.3",
+    "BC":                "0%",
+    "Added":             0,
+    "Removed":           214,
+    "TotalProblems":     129,
+    "Src_BC":            "0%",
+    "Src_TotalProblems": 130,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "5.4.3",
     "From":              "5.4.2",

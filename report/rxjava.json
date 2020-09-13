@@ -1,6 +1,6 @@
 {
   "Title":      "Rxjava",
-  "SourceUrl":  "http://central.maven.org/maven2/io/reactivex/rxjava/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/io/reactivex/rxjava/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/rxjava/",
   "Maintainer": "Andrey P.",
 

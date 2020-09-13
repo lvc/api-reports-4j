@@ -1,15 +1,15 @@
 {
   "Title":      "Play",
-  "SourceUrl":  "http://central.maven.org/maven2/com/typesafe/play/play_2.11/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/typesafe/play/play_2.11/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/play/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "2.7.4",
+    "Version":           "2.7.5",
     "From":              "2.6.25",
     "BC":                "89.3%",
-    "Added":             982,
+    "Added":             988,
     "Removed":           271,
     "TotalProblems":     83,
     "Src_BC":            "84.8%",

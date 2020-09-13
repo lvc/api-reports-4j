@@ -1,6 +1,6 @@
 {
   "Title":      "Geronimo Transaction",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/geronimo/components/geronimo-transaction/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/geronimo/components/geronimo-transaction/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/geronimo-transaction/",
   "Maintainer": "Andrey P.",
 

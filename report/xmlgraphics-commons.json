@@ -1,6 +1,6 @@
 {
   "Title":      "XML Graphics Commons",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/xmlgraphics/xmlgraphics-commons/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/xmlgraphics/xmlgraphics-commons/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/xmlgraphics-commons/",
   "Maintainer": "Andrey P.",
 

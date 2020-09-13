@@ -1,10 +1,62 @@
 {
   "Title":      "JBoss Log Manager",
-  "SourceUrl":  "http://central.maven.org/maven2/org/jboss/logmanager/jboss-logmanager/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/jboss/logmanager/jboss-logmanager/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jboss-logmanager/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "2.3.0.Alpha1",
+    "From":              "2.1.17",
+    "BC":                "100%",
+    "Added":             17,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.1.17",
+    "From":              "2.1.16",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.1.16",
+    "From":              "2.1.15",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.1.15",
+    "From":              "2.1.14",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "2.1.14",
     "From":              "2.1.13",

@@ -1,6 +1,6 @@
 {
   "Title":      "Kryo Serializers",
-  "SourceUrl":  "http://central.maven.org/maven2/de/javakaffee/kryo-serializers/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/de/javakaffee/kryo-serializers/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/kryo-serializers/",
   "Maintainer": "Andrey P.",
 

@@ -1,10 +1,23 @@
 {
   "Title":      "TestNG",
-  "SourceUrl":  "http://central.maven.org/maven2/org/testng/testng/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/testng/testng/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/testng/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "7.3.0",
+    "From":              "7.1.0",
+    "BC":                "97.2%",
+    "Added":             20,
+    "Removed":           35,
+    "TotalProblems":     21,
+    "Src_BC":            "97.5%",
+    "Src_TotalProblems": 19,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "7.1.0",
     "From":              "7.0.0",

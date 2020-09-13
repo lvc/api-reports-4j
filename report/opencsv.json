@@ -1,10 +1,36 @@
 {
   "Title":      "OpenCsv",
-  "SourceUrl":  "http://central.maven.org/maven2/com/opencsv/opencsv/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/opencsv/opencsv/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/opencsv/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "5.2",
+    "From":              "5.1",
+    "BC":                "97.7%",
+    "Added":             54,
+    "Removed":           13,
+    "TotalProblems":     2,
+    "Src_BC":            "97.7%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "5.1",
+    "From":              "5.0",
+    "BC":                "100%",
+    "Added":             6,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "97.3%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "5.0",
     "From":              "4.6",

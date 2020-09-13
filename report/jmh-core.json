@@ -1,10 +1,75 @@
 {
   "Title":      "JMH Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/openjdk/jmh/jmh-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/openjdk/jmh/jmh-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jmh-core/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "1.25.2",
+    "From":              "1.25.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.25.1",
+    "From":              "1.25",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.25",
+    "From":              "1.24",
+    "BC":                "100%",
+    "Added":             13,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.24",
+    "From":              "1.23",
+    "BC":                "99.6%",
+    "Added":             35,
+    "Removed":           4,
+    "TotalProblems":     1,
+    "Src_BC":            "99.6%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.23",
+    "From":              "1.22",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     8,
+    "Src_BC":            "99.7%",
+    "Src_TotalProblems": 8,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "1.22",
     "From":              "1.21",

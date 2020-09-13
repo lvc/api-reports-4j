@@ -1,6 +1,6 @@
 {
   "Title":      "JUNG API",
-  "SourceUrl":  "http://central.maven.org/maven2/net/sf/jung/jung-api/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/net/sf/jung/jung-api/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jung-api/",
   "Maintainer": "Andrey P.",
 

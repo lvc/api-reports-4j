@@ -1,6 +1,6 @@
 {
   "Title":      "HttpComponents AsyncClient",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/httpcomponents/httpasyncclient/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/httpcomponents/httpasyncclient/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/httpasyncclient/",
   "Maintainer": "Andrey P.",
 

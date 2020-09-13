@@ -1,10 +1,36 @@
 {
   "Title":      "Arquillian Protocol Servlet",
-  "SourceUrl":  "http://central.maven.org/maven2/org/jboss/arquillian/protocol/arquillian-protocol-servlet/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/jboss/arquillian/protocol/arquillian-protocol-servlet/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/arquillian-protocol-servlet/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "1.7.0.Alpha4",
+    "From":              "1.6.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "1.6.0",
+    "From":              "1.5.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "1.5.0",
     "From":              "1.4.1",

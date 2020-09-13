@@ -1,6 +1,6 @@
 {
   "Title":      "OpenRDF Sesame Model",
-  "SourceUrl":  "http://central.maven.org/maven2/org/openrdf/sesame/sesame-model/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/openrdf/sesame/sesame-model/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/sesame-model/",
   "Maintainer": "Andrey P.",
 

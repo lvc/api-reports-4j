@@ -1,6 +1,6 @@
 {
   "Title":      "Spatial4J",
-  "SourceUrl":  "http://central.maven.org/maven2/org/locationtech/spatial4j/spatial4j/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/locationtech/spatial4j/spatial4j/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/spatial4j/",
   "Maintainer": "Andrey P.",
 

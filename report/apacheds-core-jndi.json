@@ -1,6 +1,6 @@
 {
   "Title":      "ApacheDS Core JNDI",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/directory/server/apacheds-core-jndi/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/directory/server/apacheds-core-jndi/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/apacheds-core-jndi/",
   "Maintainer": "Andrey P.",
 

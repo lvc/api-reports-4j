@@ -1,10 +1,36 @@
 {
   "Title":      "OPS4J Pax Exam Karaf Container",
-  "SourceUrl":  "http://central.maven.org/maven2/org/ops4j/pax/exam/pax-exam-container-karaf/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/ops4j/pax/exam/pax-exam-container-karaf/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/pax-exam-container-karaf/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "4.13.3",
+    "From":              "4.13.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "4.13.2",
+    "From":              "4.13.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "4.13.1",
     "From":              "4.13.0",

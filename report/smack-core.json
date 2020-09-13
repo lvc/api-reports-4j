@@ -1,19 +1,19 @@
 {
   "Title":      "Smack Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/igniterealtime/smack/smack-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/igniterealtime/smack/smack-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/smack-core/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "4.4.0-alpha2",
+    "Version":           "4.4.0-beta1",
     "From":              "4.3.4",
-    "BC":                "73%",
-    "Added":             514,
-    "Removed":           175,
-    "TotalProblems":     97,
-    "Src_BC":            "72.5%",
-    "Src_TotalProblems": 104,
+    "BC":                "57.6%",
+    "Added":             967,
+    "Removed":           329,
+    "TotalProblems":     161,
+    "Src_BC":            "56.8%",
+    "Src_TotalProblems": 174,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

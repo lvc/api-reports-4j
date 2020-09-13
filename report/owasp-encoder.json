@@ -1,6 +1,6 @@
 {
   "Title":      "OWASP Encoder",
-  "SourceUrl":  "http://central.maven.org/maven2/org/owasp/encoder/encoder/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/owasp/encoder/encoder/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/owasp-encoder/",
   "Maintainer": "Andrey P.",
 

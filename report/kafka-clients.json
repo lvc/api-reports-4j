@@ -1,10 +1,62 @@
 {
   "Title":      "Apache Kafka",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/kafka/kafka-clients/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/kafka-clients/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "2.6.0",
+    "From":              "2.5.1",
+    "BC":                "97.9%",
+    "Added":             1803,
+    "Removed":           95,
+    "TotalProblems":     21,
+    "Src_BC":            "96.8%",
+    "Src_TotalProblems": 22,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.5.1",
+    "From":              "2.5.0",
+    "BC":                "99.95%",
+    "Added":             12,
+    "Removed":           4,
+    "TotalProblems":     1,
+    "Src_BC":            "99.95%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.5.0",
+    "From":              "2.4.1",
+    "BC":                "97.7%",
+    "Added":             312,
+    "Removed":           172,
+    "TotalProblems":     65,
+    "Src_BC":            "89.9%",
+    "Src_TotalProblems": 68,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.4.1",
+    "From":              "2.4.0",
+    "BC":                "99.8%",
+    "Added":             18,
+    "Removed":           15,
+    "TotalProblems":     7,
+    "Src_BC":            "99.8%",
+    "Src_TotalProblems": 7,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "2.4.0",
     "From":              "2.3.1",

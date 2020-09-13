@@ -1,10 +1,36 @@
 {
   "Title":      "Spring Security OAuth2",
-  "SourceUrl":  "http://central.maven.org/maven2/org/springframework/security/oauth/spring-security-oauth2/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/springframework/security/oauth/spring-security-oauth2/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/spring-security-oauth2/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "2.5.0",
+    "From":              "2.4.1",
+    "BC":                "100%",
+    "Added":             10,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.4.1",
+    "From":              "2.4.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "2.4.0",
     "From":              "2.3.8",

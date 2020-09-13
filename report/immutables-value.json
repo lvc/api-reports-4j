@@ -1,12 +1,12 @@
 {
   "Title":      "Org.immutables.value",
-  "SourceUrl":  "http://central.maven.org/maven2/org/immutables/value/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/immutables/value/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/immutables-value/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "2.8.3",
+    "Version":           "2.8.8",
     "From":              "2.7.5",
     "BC":                "100%",
     "Added":             0,

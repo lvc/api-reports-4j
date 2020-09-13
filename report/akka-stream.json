@@ -1,10 +1,62 @@
 {
   "Title":      "Akka Stream",
-  "SourceUrl":  "http://central.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.11/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/akka-stream/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "2.5.31",
+    "From":              "2.5.30",
+    "BC":                "100%",
+    "Added":             21,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.5.30",
+    "From":              "2.5.29",
+    "BC":                "99.99%",
+    "Added":             1,
+    "Removed":           1,
+    "TotalProblems":     1,
+    "Src_BC":            "99.99%",
+    "Src_TotalProblems": 1,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.5.29",
+    "From":              "2.5.28",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "2.5.28",
+    "From":              "2.5.27",
+    "BC":                "100%",
+    "Added":             12,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "2.5.27",
     "From":              "2.5.26",

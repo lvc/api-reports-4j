@@ -1,6 +1,6 @@
 {
   "Title":      "Spotify Docker Client",
-  "SourceUrl":  "http://central.maven.org/maven2/com/spotify/docker-client/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/spotify/docker-client/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/spotify-docker-client/",
   "Maintainer": "Andrey P.",
 

@@ -1,19 +1,19 @@
 {
   "Title":      "Deeplearning4j Nlp",
-  "SourceUrl":  "http://central.maven.org/maven2/org/deeplearning4j/deeplearning4j-nlp/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/deeplearning4j/deeplearning4j-nlp/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/deeplearning4j-nlp/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "1.0.0-beta6",
+    "Version":           "1.0.0-beta7",
     "From":              "0.9.1",
-    "BC":                "77.5%",
-    "Added":             290,
-    "Removed":           56,
-    "TotalProblems":     29,
-    "Src_BC":            "76.7%",
-    "Src_TotalProblems": 28,
+    "BC":                "64.3%",
+    "Added":             325,
+    "Removed":           239,
+    "TotalProblems":     70,
+    "Src_BC":            "63.5%",
+    "Src_TotalProblems": 74,
     "ArchivesAdded":     0,
     "ArchivesRemoved":   0,
     "TotalArchives":     1

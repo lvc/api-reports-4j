@@ -1,10 +1,49 @@
 {
   "Title":      "PostgreSQL JDBC Driver",
-  "SourceUrl":  "http://central.maven.org/maven2/org/postgresql/postgresql/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/postgresql/postgresql/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/postgresql/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "42.2.12",
+    "From":              "42.2.11",
+    "BC":                "96.8%",
+    "Added":             0,
+    "Removed":           6,
+    "TotalProblems":     3,
+    "Src_BC":            "96.8%",
+    "Src_TotalProblems": 3,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "42.2.11",
+    "From":              "42.2.10",
+    "BC":                "98.7%",
+    "Added":             22,
+    "Removed":           2,
+    "TotalProblems":     4,
+    "Src_BC":            "97.4%",
+    "Src_TotalProblems": 6,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "42.2.10",
+    "From":              "42.2.9",
+    "BC":                "99.9%",
+    "Added":             27,
+    "Removed":           2,
+    "TotalProblems":     1,
+    "Src_BC":            "98.8%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "42.2.9",
     "From":              "42.2.8",

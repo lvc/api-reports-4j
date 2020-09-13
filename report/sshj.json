@@ -1,10 +1,36 @@
 {
   "Title":      "Sshj",
-  "SourceUrl":  "http://central.maven.org/maven2/com/hierynomus/sshj/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/com/hierynomus/sshj/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/sshj/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "0.30.0",
+    "From":              "0.29.0",
+    "BC":                "92.5%",
+    "Added":             71,
+    "Removed":           16,
+    "TotalProblems":     11,
+    "Src_BC":            "89.9%",
+    "Src_TotalProblems": 12,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
+  {
+    "Version":           "0.29.0",
+    "From":              "0.27.0",
+    "BC":                "99.4%",
+    "Added":             28,
+    "Removed":           11,
+    "TotalProblems":     3,
+    "Src_BC":            "99.4%",
+    "Src_TotalProblems": 2,
+    "ArchivesAdded":     0,
+    "ArchivesRemoved":   0,
+    "TotalArchives":     1
+  },
   {
     "Version":           "0.27.0",
     "From":              "0.26.0",

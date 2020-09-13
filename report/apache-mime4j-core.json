@@ -1,6 +1,6 @@
 {
   "Title":      "Mime4j Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/apache/james/apache-mime4j-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/apache/james/apache-mime4j-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/apache-mime4j-core/",
   "Maintainer": "Andrey P.",
 

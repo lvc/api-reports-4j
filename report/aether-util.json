@@ -1,6 +1,6 @@
 {
   "Title":      "Aether Utilities",
-  "SourceUrl":  "http://central.maven.org/maven2/org/eclipse/aether/aether-util/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/eclipse/aether/aether-util/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/aether-util/",
   "Maintainer": "Andrey P.",
 

@@ -1,6 +1,6 @@
 {
   "Title":      "XZ For Java",
-  "SourceUrl":  "http://central.maven.org/maven2/org/tukaani/xz/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/tukaani/xz/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/xz/",
   "Maintainer": "Andrey P.",
 

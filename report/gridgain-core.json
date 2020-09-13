@@ -1,6 +1,6 @@
 {
   "Title":      "GridGain Core",
-  "SourceUrl":  "http://central.maven.org/maven2/org/gridgain/gridgain-core/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/gridgain/gridgain-core/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/gridgain-core/",
   "Maintainer": "Andrey P.",
 

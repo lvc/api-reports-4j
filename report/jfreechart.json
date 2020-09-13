@@ -1,6 +1,6 @@
 {
   "Title":      "JFreeChart",
-  "SourceUrl":  "http://central.maven.org/maven2/org/jfree/jfreechart/",
+  "SourceUrl":  "https://repo1.maven.org/maven2/org/jfree/jfreechart/",
   "Tracker":    "https://abi-laboratory.pro/java/tracker/timeline/jfreechart/",
   "Maintainer": "Andrey P.",
 
